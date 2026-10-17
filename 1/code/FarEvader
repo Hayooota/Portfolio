@@ -1,5 +1,11 @@
+#importing the libraries and data
+
 import pandas as panda
-import seaborn as sea
 import matplotlib.pyplot as libby
 
+train_data = panda.read_csv('C:/Users/Hayoo/Downloads/CS156/Portfolio/1/data/training-data.csv')
 
+
+#preprocessing the data train_data['time'] = panda.to_datetime(train_data['time'], format='%H%M').floor('15min').dt.strftime('%H:%M')
+
+train_data.head(25)
