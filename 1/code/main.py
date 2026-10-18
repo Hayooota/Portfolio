@@ -70,3 +70,27 @@ for incident in valid.values:
     error += abs(prediction - actual)
 
 print('Total error:', error/len(valid))
+
+
+'''#testing the performance of the models under different conditions
+
+float(predict('U8','Alexanderplatz','M','08:00', model = linear_model)) #you can use this line to predict the risk of inspection for a specific incident using your desired model
+
+##testing the performance of the linear model without considering the day parameter
+train = panda.read_csv('C:/Users/Hayoo/Downloads/CS156/Portfolio/1/data/training-data.csv')
+valid = panda.read_csv('C:/Users/Hayoo/Downloads/CS156/Portfolio/1/data/validation-data.csv')
+
+train['time'] = panda.to_datetime(train['time'], format='%H:%M').dt.floor('15min').dt.strftime('%H:%M')
+train = train.groupby(['line','station', 'time']).size().reset_index(name='inspections') 
+
+valid['time'] = panda.to_datetime(valid['time'], format='%H:%M').dt.floor('15min').dt.strftime('%H:%M')
+valid = valid.groupby(['line','station', 'time']).size().reset_index(name='inspections')
+
+X = panda.get_dummies(train[['line', 'station','time']])
+y = train['inspections']
+
+linear_model = LinearRegression()
+linear_model.fit(X, y)
+
+print('The Linear Model Mean Absolute Error:', error(linear_model))
+'''
