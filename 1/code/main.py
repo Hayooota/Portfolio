@@ -22,11 +22,10 @@ train['incident'] = (train['line'] + ' ' +
 
 
 #visualizing the data
-'''
+
 sea.histplot(train.nlargest(75, 'inspections'), x='incident', y='inspections')
 libby.xticks(rotation=75)
 libby.show()
-'''
 
 #fitting the data to the Poisson Regressor model
 X = panda.get_dummies(train[['line','station', 'day','time']])
@@ -34,12 +33,6 @@ y = train['inspections']
 
 model = PoissonRegressor()
 model.fit(X, y)
-
-
-#processing the validation data
-
-valid['time'] = panda.to_datetime(valid['time'], format='%H:%M').dt.floor('15min').dt.strftime('%H:%M')
-valid = valid.groupby(['line','station', 'day', 'time']).size().reset_index(name='inspections')
 
 #validating the Poisson Regressor model
 
