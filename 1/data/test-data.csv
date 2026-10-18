@@ -1,0 +1,5433 @@
+id,line,station,day,time
+M0001,U8,Osloer Straße,W,12:11
+M0002,M8,Mollstraße/Otto-Braun-straße,W,12:38
+M0003,S26,Potsdamer Platz,W,13:38
+M0004,S41,Tempelhof,W,16:07
+M0005,S1,Wannsee,Z,07:32
+M0006,S41,Tempelhof,Z,10:42
+M0007,S41,Westkreuz,Z,11:49
+M0009,U6,Oranienburger Tor,F,09:38
+M0010,U9,Osloer Straße,F,09:46
+M0011,S2,Südkreuz,F,14:01
+M0013,S41,Halensee,S,12:33
+M0015,U9,Kurfürstendamm,U,13:13
+M0016,U8,Pankstraße,M,11:40
+M0018,U3,Kottbusser Tor,M,12:46
+M0019,S42,Tempelhof,M,14:46
+M0020,U6,Naturkundemuseum,M,15:38
+M0021,S1,Oranienburger Straße,M,17:14
+M0022,U7,Jakob-Kaiser-Platz,T,09:46
+M0023,S5,Ostbahnhof,T,13:35
+M0024,U8,Alexanderplatz,T,17:16
+M0025,M10,Wolliner Straße,T,17:41
+M0027,S1,Brandenburger Tor,M,10:06
+M0028,S2,Potsdamer Platz,M,10:28
+M0029,U2,Gleisdreieck,M,11:33
+M0032,U6,Kurt-Schumacher-Platz,M,14:59
+M0033,U6,Kochstraße,M,17:52
+M0034,U9,Friedrich-Wilhelm-straße,M,20:35
+M0036,U6,Unter den Linden,T,09:49
+M0037,M43,Platz der Vereinten Nationen,T,10:28
+M0038,S5,Bellevue,T,12:31
+M0040,S7,Berlin Hauptbahnhof,T,16:59
+M0043,S15,Berlin Hauptbahnhof,W,09:09
+M0046,U6,Tempelhof,W,11:43
+M0048,S41,Tempelhof,W,13:10
+M0049,S9,Schöneweide,W,13:24
+M0050,S5,Lichtenberg,W,16:08
+M0051,S42,Gesundbrunnen,Z,04:39
+M0052,S7,Grunewald,Z,07:50
+M0053,M6,Marzahn,Z,09:46
+M0055,U8,Rosenthaler Platz,Z,12:39
+M0058,U7,Berliner Straße,M,14:46
+M0059,S41,Frankfurter Allee,T,08:48
+M0060,M4,Giersstraße,T,09:22
+M0061,S41,Storkower Straße,T,10:14
+M0062,S1,Friedrichstraße,T,11:36
+M0064,U2,Rathaus Steglitz,T,13:45
+M0065,U2,Rathaus Steglitz,T,13:52
+M0066,S41,Innsbrucker Platz,W,08:43
+M0067,S3,Pichelsberg,W,11:43
+M0068,S2,Schichauweg,W,14:23
+M0069,U8,Bernauer Straße,W,14:58
+M0070,X34,Heerstraße,W,15:31
+M0071,U2,Pankow,Z,07:28
+M0073,S26,Südkreuz,Z,09:25
+M0074,S41,Frankfurter Allee,Z,09:32
+M0076,S42,Hermannstraße,Z,12:27
+M0077,U1,Hallesches Tor,Z,12:48
+M0078,S42,Storkower Straße,F,04:30
+M0080,M41,Hertzbergplatz,F,11:17
+M0081,U2,Bülowstraße,F,11:36
+M0083,M46,Hohenstaufenstraße,F,16:03
+M0084,U7,Bayerischer Platz,F,18:01
+M0085,S7,Friedrichstraße,S,02:57
+M0086,S42,Hermannstraße,S,16:07
+M0089,U2,Rosa-Luxemburg-Platz,U,13:01
+M0090,U5,Museumsinsel,U,13:46
+M0091,U6,Unter den Linden,F,08:28
+M0092,U2,Hausvogteiplatz,F,19:02
+M0093,U8,Pankstraße,S,11:01
+M0094,U8,Rosenthaler Platz,S,18:36
+M0096,U7,Fehrbelliner Platz,U,16:15
+M0098,S42,Landsberger Allee,M,04:46
+M0099,S41,Frankfurter Allee,M,07:59
+M0103,S1,Potsdamer Platz,Z,13:01
+M0104,M21,Pfahlerstraße,Z,13:42
+M0105,U7,Jakob-Kaiser-Platz,Z,20:07
+M0106,M10,Husemannstraße,T,18:26
+M0107,U7,Blaschkoallee,W,09:21
+M0111,M41,Potsdamer Platz,M,18:01
+M0114,S1,Julius-Leber-Brücke,T,11:28
+M0116,M5,Klinikum im Friedrichshain,T,13:30
+M0117,U5,Samariterstraße,F,17:30
+M0118,U5,Frankfurter Tor,S,11:34
+M0119,U6,Leopoldplatz,M,08:40
+M0120,M6,Altenhofer Straße,M,09:54
+M0121,S7,Ostkreuz,M,10:46
+M0122,U9,Spichernstraße,M,13:50
+M0123,M5,Büschingstraße,U,15:44
+M0124,S42,Gesundbrunnen,M,07:05
+M0125,U7,Südstern,M,07:40
+M0126,S7,Ostbahnhof,M,08:26
+M0127,U5,Magdalenenstraße,M,08:40
+M0128,U7,Berliner Straße,M,09:27
+M0130,U7,Konstanzer Straße,M,10:19
+M0131,U7,Karl-Marx-straße,M,11:45
+M0132,U5,Weberwiese,M,12:51
+M0133,U5,Frankfurter Allee,M,13:24
+M0134,U5,Lichtenberg,M,13:38
+M0136,U7,Grenzallee,M,13:57
+M0138,U7,Neukölln,T,07:49
+M0139,U5,Frankfurter Tor,T,08:50
+M0140,U6,Tempelhof,T,09:52
+M0141,U7,Blissestraße,T,10:05
+M0143,U5,Berlin Hauptbahnhof,T,11:43
+M0144,U7,Berliner Straße,T,12:39
+M0145,M41,Zossener Brücke,T,12:42
+M0146,S5,Berlin Hauptbahnhof,T,12:45
+M0147,S9,Spandau,T,13:28
+M0148,U7,Fehrbelliner Platz,T,13:56
+M0149,U9,Westhafen,T,14:37
+M0150,M10,Friedrich-Ludwig-Jahn-Sportpark,T,14:38
+M0152,TRAM50,Virchow-Klinikum,W,11:50
+M0154,S1,Sundgauer Straße,Z,08:02
+M0156,U7,Hermannplatz,Z,09:52
+M0157,U6,Afrikanische Straße,Z,11:20
+M0161,M41,Willy-Brandt-Haus,Z,15:12
+M0162,U3,Kottbusser Tor,Z,19:14
+M0165,U7,Hermannplatz,F,09:21
+M0167,U7,Blissestraße,F,13:05
+M0168,U2,Eberswalder Straße,F,07:45
+M0169,U6,Schwartzkopffstraße,F,09:11
+M0170,U2,Eberswalder Straße,F,09:51
+M0171,U2,Bismarckstraße,F,10:29
+M0172,S42,Westhafen,F,10:51
+M0173,U2,Stadtmitte,F,11:09
+M0174,U8,Boddinstraße,F,11:30
+M0175,M13,Osloer Straße,F,13:26
+M0176,S7,Berlin Hauptbahnhof,F,13:27
+M0177,U8,Osloer Straße,F,13:48
+M0178,U6,Hallesches Tor,F,14:14
+M0179,U8,Bernauer Straße,F,14:20
+M0180,U8,Alexanderplatz,F,14:26
+M0181,U2,Anton-Wilhelm-Amo-straße,F,14:46
+M0182,U9,Hansaplatz,F,20:05
+M0183,U6,Naturkundemuseum,S,12:27
+M0184,S9,Johannisthal,U,09:46
+M0185,U2,Rosa-Luxemburg-Platz,Z,08:28
+M0186,U6,Friedrichstraße,Z,08:32
+M0188,S3,Zoologischer Garten,Z,09:58
+M0189,U6,Naturkundemuseum,Z,12:03
+M0190,U2,Alexanderplatz,Z,12:37
+M0192,U6,Reinickendorfer Straße,Z,13:51
+M0193,U2,Alexanderplatz,T,09:44
+M0195,S42,Greifswalder Straße/Danziger Straße,T,09:57
+M0196,U6,Alt-Tempelhof,T,09:59
+M0197,U6,Schwartzkopffstraße,T,10:28
+M0198,U7,Südstern,T,11:30
+M0200,S1,Feuerbachstraße,T,12:34
+M0201,S42,Storkower Straße,T,15:53
+M0202,U6,Kochstraße,W,08:20
+M0203,U6,Ullsteinstraße,W,09:20
+M0204,U6,Kochstraße,W,09:20
+M0205,S42,Innsbrucker Platz,W,10:59
+M0206,S41,Hohenzollerndamm,W,11:26
+M0207,U6,Hallesches Tor,W,12:05
+M0209,U2,Anton-Wilhelm-Amo-straße,W,13:26
+M0210,U8,Osloer Straße,W,14:54
+M0211,M13,Drontheimer Straße,W,17:57
+M0212,U8,Alexanderplatz,W,21:46
+M0213,S26,Brandenburger Tor,Z,17:45
+M0214,U7,Fehrbelliner Platz,F,08:49
+M0216,U5,Frankfurter Tor,F,13:24
+M0217,U5,Frankfurter Tor,F,13:27
+M0218,U5,Unter den Linden,F,13:50
+M0219,U5,Weberwiese,F,17:57
+M0221,U9,Westhafen,S,12:48
+M0222,U5,Museumsinsel,S,16:49
+M0224,U8,Hermannstraße,M,08:32
+M0226,M46,Dominicusstraße/Hauptstraße,T,08:52
+M0227,U7,Rathaus Spandau,T,11:43
+M0229,S25,Potsdamer Platz,T,12:01
+M0230,S46,Westend,T,13:38
+M0233,U6,Kochstraße,T,14:45
+M0234,S5,Rotes Rathaus,T,16:32
+M0235,U8,Alexanderplatz,T,16:49
+M0236,U3,Krumme Lanke,T,17:25
+M0237,U7,Sommerbad Neukölln,W,07:56
+M0238,U7,Mehringdamm,W,11:11
+M0239,TRAM50,Osram-Höfe,W,11:28
+M0240,S42,Gesundbrunnen,W,11:38
+M0241,U5,Friedrichsfelde,W,11:42
+M0242,U5,Weberwiese,W,13:16
+M0243,U7,Rathaus Neukölln,W,13:28
+M0244,U5,Frankfurter Allee,W,13:29
+M0245,U5,Brandenburger Tor,W,13:33
+M0247,U5,Samariterstraße,W,13:49
+M0248,U7,Rudow,W,14:16
+M0249,S42,Jungfernheide,W,15:03
+M0250,S41,Tempelhof,Z,09:45
+M0253,U7,Kleistpark,Z,12:50
+M0254,S2,Anhalter,Z,13:35
+M0256,U8,Rosenthaler Platz,S,15:41
+M0257,U8,Rosenthaler Platz,S,17:58
+M0258,U7,Hermannplatz,S,18:01
+M0260,U6,Ullsteinstraße,U,12:16
+M0261,U9,Turmstraße,U,12:54
+M0262,M10,Nordbahnhof,U,13:29
+M0264,U9,Zoologischer Garten,U,14:29
+M0265,U3,Warschauer Straße,U,15:47
+M0266,U8,Franz-Neumann-Platz,U,16:38
+M0267,S42,Treptower Park,M,04:24
+M0269,U7,Blissestraße,M,09:05
+M0271,U7,Berliner Straße,M,13:57
+M0272,U7,Südstern,M,14:04
+M0273,U5,Bundestag,M,14:54
+M0274,U5,Lichtenberg,M,15:05
+M0275,U8,Rosenthaler Platz,M,15:27
+M0276,U2,Hausvogteiplatz,M,17:58
+M0277,U2,Gleisdreieck,T,08:14
+M0278,S1,Schöneberg,T,09:59
+M0279,U7,Kleistpark,W,08:51
+M0280,U2,Alexanderplatz,W,10:29
+M0281,U6,Lindenhof,W,11:25
+M0282,S5,Alexanderplatz,W,11:59
+M0285,S7,Lichtenberg,W,13:00
+M0286,U8,Franz-Neumann-Platz,W,13:37
+M0287,S25,Friedrichstraße,W,13:44
+M0288,U6,Oranienburger Tor,W,14:36
+M0289,M8,Platz der Vereinten Nationen,W,16:02
+M0290,S41,Storkower Straße,Z,04:39
+M0291,U8,Pankstraße,Z,08:07
+M0292,U6,Stadtmitte,Z,08:31
+M0293,S5,Warschauer Straße,Z,09:12
+M0294,U7,Mehringdamm,Z,09:37
+M0296,S46,Zeuthen,Z,10:14
+M0297,S41,Greifswalder Straße,Z,10:16
+M0298,U2,Potsdamer Platz,Z,12:09
+M0299,U2,Märkisches Museum,Z,12:39
+M0300,U6,Wedding,Z,13:00
+M0302,M1,Rosenthaler Platz,Z,14:19
+M0304,U6,Mehringdamm,F,08:12
+M0305,S8,Grünau,F,09:49
+M0306,U8,Alexanderplatz,F,12:27
+M0307,U6,Unter den Linden,F,12:28
+M0308,U6,Stadtmitte,F,14:36
+M0309,U6,Friedrichstraße,F,14:40
+M0310,U2,Pankow,F,14:42
+M0311,U9,Leopoldplatz,U,13:38
+M0312,U5,Berlin Hauptbahnhof,U,17:09
+M0313,U6,Tempelhof,M,09:03
+M0315,S5,Westkreuz,M,13:27
+M0316,U6,Wedding,M,13:42
+M0317,U8,Bernauer Straße,M,13:43
+M0318,M45,Park Ruhwald,M,14:26
+M0320,U7,Gneisenaustraße,M,17:20
+M0321,U2,Eberswalder Straße,M,18:04
+M0322,U7,Mierendorffplatz,T,07:37
+M0323,S8,Prenzlauer Promenade/Granitzstraße,T,07:41
+M0326,U2,Eberswalder Straße,T,12:01
+M0329,U2,Ruhleben,T,14:35
+M0330,U8,Prinzenallee/Soldiner Straße,T,15:20
+M0331,U8,Gesundbrunnen,T,19:14
+M0332,U7,Rathaus Neukölln,W,10:05
+M0333,U7,Grenzallee,W,11:08
+M0335,U5,Alexanderplatz,W,12:14
+M0336,U8,Hermannplatz,W,12:19
+M0337,U9,Leopoldplatz,W,12:25
+M0338,U9,Birkenstraße,W,12:29
+M0339,U7,Grenzallee,W,12:43
+M0341,U5,Samariterstraße,W,13:59
+M0342,U5,Frankfurter Allee,W,17:27
+M0343,U5,Weberwiese,W,18:13
+M0344,S46,Grünau,Z,09:05
+M0345,U5,Mehringdamm,Z,09:12
+M0346,U7,Richard-Wagner-Platz,Z,10:42
+M0348,U5,Schillingstraße,Z,12:52
+M0349,S42,Hermannstraße,Z,14:37
+M0350,U5,Museumsinsel,Z,15:14
+M0351,U5,Museumsinsel,Z,15:15
+M0352,M10,Warschauer Straße,Z,15:21
+M0353,U5,Alexanderplatz,Z,15:22
+M0354,S41,Landsberger Allee,Z,15:43
+M0355,U3,Kottbusser Tor,F,12:32
+M0356,U3,Schlesisches Tor,F,12:53
+M0357,U3,Warschauer Straße,F,13:01
+M0358,U3,Prinzenstraße,F,15:26
+M0359,U3,Schlesisches Tor,F,18:31
+M0361,U1,Kottbusser Tor,S,12:29
+M0362,S41,Tempelhof,U,07:25
+M0363,S8,Storkower Straße,U,08:22
+M0364,U8,Parkstraße/Amalienstraße,U,15:20
+M0365,U8,Rosenthaler Platz,U,15:35
+M0366,S41,Hermannstraße,U,15:44
+M0367,S7,Wannsee,M,07:42
+M0369,U3,Dahlem-Dorf,M,09:33
+M0370,U5,Schillingstraße,M,11:01
+M0371,M8,Pappelplatz,M,11:11
+M0372,S46,Tempelhof,M,11:20
+M0373,U1,Schlesisches Tor,M,14:21
+M0375,U5,Frankfurter Tor,M,17:44
+M0376,U5,Schillingstraße,T,08:21
+M0378,U5,Weberwiese,T,10:11
+M0380,U5,Frankfurter Allee,T,11:31
+M0381,S47,Hermannstraße,T,11:53
+M0382,S41,Tempelhof,T,12:23
+M0383,U9,Leopoldplatz,T,12:47
+M0384,M1,Bürgerpark Pankow,T,13:12
+M0385,U3,Görlitzer,T,13:33
+M0386,M10,Gedenkstätte Berliner Mauer,T,13:46
+M0387,U3,Möckernbrücke,T,18:42
+M0388,U3,Warschauer Straße,T,19:23
+M0391,U6,Kochstraße,W,13:16
+M0392,M10,Warschauer Straße,W,13:31
+M0394,U8,Bernauer Straße,W,13:39
+M0395,U8,Boddinstraße,W,14:13
+M0396,U6,Alt-Friedrichsfelde/Gensinger Straße,W,14:19
+M0397,U6,Naturkundemuseum,W,14:28
+M0399,U2,Alexanderplatz,W,14:50
+M0400,U2,Rosa-Luxemburg-Platz,W,15:07
+M0401,S41,Tempelhof,W,16:27
+M0404,U2,Pankow,Z,08:06
+M0405,M10,Rathenower Straße/Töpchiner Weg,Z,09:19
+M0406,U7,Kleistpark,Z,09:26
+M0407,U8,Hermannstraße,Z,09:37
+M0408,U6,Paradestraße,Z,09:39
+M0410,U7,Richard-Wagner-Platz,Z,09:57
+M0411,U9,Zoologischer Garten,Z,11:21
+M0413,U7,Kleistpark,Z,12:16
+M0415,S42,Hermannstraße,Z,13:01
+M0416,U8,Hermannstraße,Z,13:01
+M0417,U2,Eberswalder Straße,Z,13:25
+M0418,U8,Jannowitzbrücke,F,09:47
+M0419,U2,Märkisches Museum,F,11:44
+M0420,S41,Gesundbrunnen,F,12:15
+M0421,U8,Rosenthaler Platz,F,13:10
+M0423,M10,Prenzlauer Promenade/Granitzstraße,F,13:32
+M0426,S42,Frankfurter Allee,S,09:48
+M0427,U8,Rosenthaler Platz,S,12:41
+M0428,U8,Weinmeisterstraße,S,17:11
+M0429,S41,Ostkreuz,M,07:43
+M0430,S41,Sonnenallee,M,08:18
+M0431,S41,Greifswalder Straße,M,08:24
+M0432,U9,Berliner Straße,M,08:32
+M0433,U6,Mehringdamm,M,08:40
+M0434,U8,Hermannplatz,M,08:47
+M0435,U8,Bernauer Straße,M,09:14
+M0439,U8,Schönleinstraße,M,11:47
+M0441,U6,Naturkundemuseum,M,12:00
+M0442,U8,Weinmeisterstraße,M,12:38
+M0443,M4,Thomas-Mann-straße,M,13:11
+M0444,U8,Schönleinstraße,M,13:12
+M0445,M5,Alexanderplatz,M,14:00
+M0446,U8,Rosenthaler Platz,M,14:02
+M0448,U8,Residenzstraße,M,15:27
+M0449,U8,Pankstraße,M,15:50
+M0450,U8,Rosenthaler Platz,M,17:20
+M0451,S25,Oranienburger Straße,M,19:21
+M0452,S42,Schönhauser Allee,T,07:03
+M0454,U8,Jannowitzbrücke,T,07:29
+M0455,U6,Platz der Vereinten Nationen,T,08:39
+M0456,U6,Kochstraße,T,08:46
+M0458,U8,Hermannplatz,T,09:24
+M0459,U8,Leinestraße,T,10:33
+M0460,U8,Leinestraße,T,10:33
+M0461,U8,Leinestraße,T,10:41
+M0462,U8,Hermannplatz,T,10:43
+M0463,U8,Schönleinstraße,T,10:54
+M0464,M8,Rosenthaler Platz,T,11:48
+M0465,S42,Ostkreuz,T,12:14
+M0466,S7,Friedrichsfelde Ost,T,13:03
+M0467,U6,Friedrichstraße,T,13:24
+M0468,M4,Hufelandstraße,T,13:26
+M0469,U8,Hermannplatz,T,13:32
+M0470,U8,Leinestraße,T,14:06
+M0471,U8,Alexanderplatz,T,14:13
+M0472,U8,Jannowitzbrücke,T,14:46
+M0473,U8,Kottbusser Tor,T,14:53
+M0474,U8,Bernauer Straße,T,14:55
+M0476,M2,Mollstraße/Otto-Braun-straße,T,16:02
+M0477,U8,Rosenthaler Platz,T,17:32
+M0478,U6,Paradestraße,W,08:40
+M0479,U8,Hermannplatz,W,08:43
+M0480,M2,Prenzlauer Allee,W,08:43
+M0482,S41,Hermannstraße,W,10:04
+M0483,M5,Naturkundemuseum,W,10:17
+M0485,U5,Frankfurter Allee,Z,08:50
+M0486,U5,Magdalenenstraße,Z,10:23
+M0487,U5,Frankfurter Tor,Z,11:13
+M0488,U5,Tierpark,Z,11:42
+M0489,U5,Strausberger Platz,Z,12:35
+M0490,U9,Osloer Straße,Z,12:36
+M0491,U2,Ernst-Reuter-Platz,Z,13:12
+M0492,S41,Tempelhof,Z,13:14
+M0493,U7,Hermannplatz,Z,13:14
+M0494,U7,Rathaus Neukölln,Z,13:19
+M0495,U6,Hallesches Tor,Z,13:47
+M0496,U5,Bundestag,Z,17:54
+M0497,U5,Strausberger Platz,Z,18:27
+M0498,U5,Frankfurter Allee,F,09:01
+M0500,M10,Husemannstraße,F,09:21
+M0501,U7,Gneisenaustraße,F,09:36
+M0502,M10,Husemannstraße,F,09:42
+M0503,U7,Britz-Süd,F,10:26
+M0504,U5,Samariterstraße,F,12:05
+M0505,U7,Südstern,F,12:21
+M0506,U5,Lichtenberg,F,16:01
+M0507,U5,Frankfurter Allee,F,16:43
+M0508,U5,Frankfurter Tor,F,16:48
+M0509,U5,Friedrichsfelde,F,17:08
+M0510,S42,Wedding,F,18:12
+M0511,U6,Naturkundemuseum,F,20:12
+M0514,U5,Frankfurter Tor,S,13:52
+M0515,U1,Uhlandstraße,U,11:42
+M0516,S46,Hermannstraße,U,12:56
+M0517,U3,Krumme Lanke,U,13:22
+M0518,U3,Warschauer Straße,U,13:24
+M0519,S1,Waidmannslust,U,13:27
+M0520,U9,Leopoldplatz,U,14:07
+M0521,U8,Leinestraße,U,16:11
+M0522,U8,Rosenthaler Straße,M,07:31
+M0523,U8,Alexanderplatz,M,08:51
+M0526,U5,Rotes Rathaus,M,12:49
+M0527,U7,Blaschkoallee,M,14:50
+M0529,S1,Brandenburger Tor,M,16:00
+M0530,U9,Spichernstraße,M,16:37
+M0531,U5,Frankfurter Allee,M,17:45
+M0532,U5,Frankfurter Tor,M,17:56
+M0533,U9,Zoologischer Garten,M,19:11
+M0534,S75,Nöldnerplatz,T,07:24
+M0535,U8,Alexanderplatz,T,12:33
+M0537,M10,Straßmannstraße,T,13:43
+M0538,M10,Bersarinplatz,T,13:52
+M0539,U7,Neukölln,T,14:27
+M0540,U5,Tierpark,T,14:28
+M0541,U9,Kurfürstendamm,T,14:57
+M0543,S7,"Potsdam, Neuendorfer Straße/Mendelssohn-Bartholdy-straße",T,15:32
+M0544,U5,Lichtenberg,T,17:37
+M0545,U5,Magdalenenstraße,T,17:52
+M0546,M4,Alexanderplatz,T,18:17
+M0547,U7,Johannisthaler Chaussee,W,08:21
+M0548,S75,Gehrenseestraße,W,08:22
+M0549,U5,Bundestag,W,08:38
+M0550,U7,Neukölln,W,09:39
+M0551,S1,Wittenau,W,09:53
+M0552,U5,Frankfurter Allee,W,10:10
+M0553,S2,Oranienburger Straße,W,10:30
+M0555,U5,Lichtenberg,W,12:35
+M0556,U9,Amrumer Straße,W,12:51
+M0557,S42,Schönhauser Allee,W,14:21
+M0558,U3,Hallesches Tor,W,17:52
+M0559,U8,Wittenau,W,09:11
+M0560,U2,Spittelmarkt,W,09:40
+M0561,U6,Hallesches Tor,W,09:51
+M0562,U8,Kottbusser Tor,W,10:30
+M0563,M10,Nordbahnhof,W,11:42
+M0564,U2,Alexanderplatz,W,12:34
+M0566,U6,Platz der Luftbrücke,W,15:11
+M0567,S41,Tempelhof,W,15:49
+M0568,U2,Hausvogteiplatz,W,18:48
+M0569,U6,Kurt-Schumacher-Platz,Z,08:19
+M0570,U8,Hermannplatz,Z,08:36
+M0572,S41,Schöneberg,Z,09:56
+M0573,U9,Zoologischer Garten,Z,10:48
+M0574,U8,Rosenthaler Platz,Z,11:25
+M0575,S7,Lichtenberg,Z,12:07
+M0579,S41,Tempelhof,Z,14:11
+M0580,S1,Brandenburger Tor,Z,14:12
+M0581,U8,Weinmeisterstraße,Z,16:10
+M0582,U2,Pankow,Z,16:51
+M0583,U2,Potsdamer Platz,Z,17:33
+M0584,U6,Westphalweg,F,09:46
+M0585,U6,Paradestraße,F,10:24
+M0586,U6,Mehringdamm,F,11:28
+M0587,U6,Unter den Linden,F,12:20
+M0588,S42,Wedding,F,12:48
+M0589,S42,Westhafen,F,14:06
+M0590,U8,Gesundbrunnen,F,19:06
+M0591,U8,Alexanderplatz,S,11:23
+M0592,S41,Beusselstraße,U,07:29
+M0593,S41,Prenzlauer Allee,U,07:40
+M0594,S41,Storkower Straße,U,07:57
+M0595,U2,Alexanderplatz,U,08:03
+M0596,U8,Bernauer Straße,U,08:35
+M0597,U5,Lichtenberg,S,16:17
+M0598,S7,Alexanderplatz,S,23:44
+M0599,S1,Yorckstraße,U,12:02
+M0600,U5,Samariterstraße,U,12:26
+M0601,U9,Turmstraße,U,15:11
+M0602,U9,Birkenstraße,U,15:45
+M0603,U2,Potsdamer Platz,U,16:04
+M0604,S3,Erkner,M,06:40
+M0605,U6,Kochstraße,M,08:21
+M0607,U8,Voltastraße,M,08:56
+M0608,S41,Hermannstraße,M,09:50
+M0609,U8,Hermannstraße,M,10:11
+M0610,U8,Moritzplatz,M,10:35
+M0611,U8,Hermannplatz,M,10:53
+M0612,U6,Mehringdamm,M,11:36
+M0614,U6,Leopoldplatz,M,13:18
+M0617,U2,Schönhauser Allee,M,16:57
+M0618,U8,Voltastraße,M,16:59
+M0619,U2,Hausvogteiplatz,M,17:26
+M0620,U6,Alt-Mariendorf,T,07:50
+M0621,U8,Boddinstraße,T,08:11
+M0622,U2,Schönhauser Allee,T,09:17
+M0624,U8,Hermannstraße,T,10:07
+M0625,U2,Spittelmarkt,T,10:24
+M0626,U7,Wilmersdorfer Straße,T,10:25
+M0627,U2,Alexanderplatz,T,10:37
+M0628,U8,Moritzplatz,T,10:44
+M0629,U8,Weinmeisterstraße,T,12:32
+M0630,U6,Unter den Eichen/Botanischer Garten,T,12:53
+M0632,U8,Hermannstraße,T,13:29
+M0633,U2,Schönhauser Allee,T,13:42
+M0634,M4,Fröbelstraße,T,14:19
+M0635,M2,Alexanderplatz,T,15:23
+M0636,U7,Bayerischer Platz,T,15:36
+M0637,U8,Alexanderplatz,T,16:34
+M0638,U8,Rosenthaler Platz,T,19:11
+M0639,U9,Osloer Straße,W,14:00
+M0640,S1,Oranienburger Straße,W,14:06
+M0641,U7,Parchimer Allee,W,14:31
+M0643,U9,Hansaplatz,W,15:53
+M0644,U9,Amrumer Straße,W,16:30
+M0645,S1,Brandenburger Tor,W,16:59
+M0647,U5,Strausberger Platz,W,17:52
+M0649,U5,Weberwiese,Z,08:30
+M0651,U5,Magdalenenstraße,Z,09:24
+M0652,U7,Grenzallee,Z,10:03
+M0653,U5,Alexanderplatz,Z,10:05
+M0654,U5,Friedrichsfelde,Z,11:25
+M0655,U7,Neukölln,Z,11:34
+M0656,U5,Berlin Hauptbahnhof,Z,11:40
+M0657,S41,Bundesplatz,Z,11:41
+M0658,U9,Osloer Straße,Z,12:09
+M0659,U5,Alexanderplatz,Z,12:20
+M0660,U5,Berlin Hauptbahnhof,Z,12:41
+M0661,U5,Magdalenenstraße,Z,13:39
+M0662,U9,Leopoldplatz,Z,15:11
+M0663,U5,Magdalenenstraße,Z,17:34
+M0664,S42,Hermannstraße,F,07:05
+M0667,U7,Kleistpark,F,09:55
+M0668,U9,Turmstraße,F,10:25
+M0669,U5,Lichtenberg,F,11:33
+M0670,S1,Friedrichstraße,F,12:24
+M0672,U5,Frankfurter Tor,F,13:11
+M0673,U9,Nauener Platz,S,11:33
+M0674,U5,Frankfurter Allee,S,12:12
+M0676,U9,Westhafen,S,13:42
+M0677,U5,Frankfurter Tor,S,14:02
+M0678,U5,Frankfurter Allee,M,11:36
+M0679,U8,Voltastraße,M,12:23
+M0680,U5,Weberwiese,M,12:46
+M0683,U5,Frankfurter Tor,M,17:49
+M0684,U5,Frankfurter Allee,T,08:19
+M0685,U7,Wutzkyallee,T,08:27
+M0687,U6,Mehringdamm,T,08:51
+M0688,U7,Große-Leege-straße/Freienwalder Straße,T,08:51
+M0689,S75,Ostbahnhof,T,09:02
+M0690,U7,Rathaus Neukölln,T,09:04
+M0691,U2,Zoologischer Garten,T,09:42
+M0693,U3,Fehrbelliner Platz,T,10:01
+M0694,S2,Anhalter,T,10:12
+M0695,U7,Grenzallee,T,11:43
+M0697,U9,Nauener Straße,T,12:19
+M0698,U7,Neukölln,T,13:18
+M0699,U9,Birkenstraße,T,13:20
+M0700,U8,Franz-Neumann-Platz,T,13:38
+M0701,U9,Leopoldplatz,T,15:28
+M0702,U7,Spandau,W,09:12
+M0703,U5,Museumsinsel,W,09:24
+M0706,U7,Grenzallee,W,11:50
+M0707,U3,Görlitzer,W,12:59
+M0708,U6,Schwartzkopffstraße,W,13:38
+M0709,U8,Alexanderplatz,Z,16:23
+M0710,U8,Weinmeisterstraße,Z,16:26
+M0711,U8,Hermannstraße,F,08:32
+M0712,S42,Beusselstraße,F,09:24
+M0713,U8,Rosenthaler Platz,F,09:30
+M0714,U2,Eberswalder Straße,F,09:54
+M0715,U8,Kottbusser Tor,F,10:25
+M0716,U8,Alexanderplatz,F,10:34
+M0717,U8,Rosenthaler Platz,F,11:46
+M0718,U8,Hermannstraße,F,11:51
+M0720,U8,Wittenau,F,13:49
+M0721,U8,Leinestraße,F,14:22
+M0722,M10,Bernauer Straße,F,16:05
+M0723,U2,Zoologischer Garten,F,16:07
+M0724,U2,Märkisches Museum,F,18:07
+M0725,U8,Gesundbrunnen,S,11:27
+M0726,M29,Adalbertstraße,S,12:53
+M0727,U6,Friedrichstraße,S,13:29
+M0728,U2,Schönhauser Allee,S,15:00
+M0729,U8,Bernauer Straße,S,15:14
+M0733,U8,Hermannstraße,U,15:04
+M0735,U8,Alexanderplatz,U,22:58
+M0736,U5,Schillingstraße,M,07:24
+M0738,S41,Gesundbrunnen,M,08:05
+M0739,U8,Hermannplatz,M,08:55
+M0740,U5,Tiergarten,M,09:02
+M0741,U5,Tierpark,M,09:20
+M0743,S41,Greifswalder Straße,M,10:31
+M0744,U8,Berliner Straße,M,10:32
+M0745,M13,Drontheimer Straße,M,10:36
+M0746,U6,Mehringdamm,M,11:34
+M0748,S3,Ostbahnhof,M,12:09
+M0749,M48,Hauptstraße/Friedrich-Engels-straße,M,12:27
+M0750,S41,Frankfurter Allee,M,12:29
+M0751,M10,Straßmannstraße,M,13:00
+M0752,M10,Straßmannstraße,M,13:16
+M0753,U2,Eberswalder Straße,M,14:08
+M0754,S42,Hermannstraße,M,14:18
+M0755,U8,Franz-Neumann-Platz,M,18:26
+M0756,U8,Alexanderplatz,T,07:38
+M0758,M13,Björnsonstraße,T,08:52
+M0759,U8,Leinestraße,T,09:43
+M0760,U8,Kottbusser Tor,T,10:40
+M0761,U8,Alexanderplatz,T,11:49
+M0762,U8,Schönleinstraße,T,11:58
+M0764,S41,Westkreuz,T,12:16
+M0765,U8,Brandenburger Tor,T,12:16
+M0767,S9,Alexanderplatz,T,13:03
+M0768,M50,Bornholmer Straße,T,13:23
+M0769,U2,Potsdamer Platz,T,14:01
+M0770,U8,Schönleinstraße,T,14:20
+M0771,U6,Stadtmitte,T,15:08
+M0773,U6,Hallesches Tor,W,08:07
+M0775,U6,Naturkundemuseum,W,08:44
+M0776,S7,Savignyplatz,W,08:45
+M0777,U2,Rosa-Luxemburg-Platz,W,09:49
+M0778,U6,Naturkundemuseum,W,10:34
+M0779,U8,Weinmeisterstraße,W,10:37
+M0780,U6,Unter den Linden,W,11:22
+M0783,S41,Tempelhof,W,13:45
+M0785,U8,Hermannplatz,Z,08:54
+M0786,S5,Friedrichsfelde Ost,Z,09:23
+M0789,U6,Kochstraße,Z,10:05
+M0790,S41,Schönhauser Allee,Z,10:33
+M0792,U6,Hallesches Tor,Z,11:25
+M0793,U2,Schönhauser Allee,Z,11:33
+M0796,S42,Südkreuz,Z,12:16
+M0797,U8,Kottbusser Tor,Z,12:24
+M0798,U8,Weinmeisterstraße,Z,12:45
+M0799,S25,Hennigsdorf,Z,13:12
+M0800,U6,Hallesches Tor,Z,13:54
+M0802,U8,Pankstraße,Z,14:44
+M0804,U5,Berlin Hauptbahnhof,Z,15:35
+M0805,U5,Schillingstraße,T,14:46
+M0807,U5,Frankfurter Allee,T,18:15
+M0808,S42,Wedding,W,07:18
+M0809,S25,Nordbahnhof,W,07:29
+M0810,U7,Blaschkoallee,W,07:48
+M0811,U7,Möckernbrücke,W,08:14
+M0812,S2,Potsdamer Platz,W,09:57
+M0813,S9,Jannowitzbrücke,W,10:02
+M0814,U6,Ullsteinstraße,W,10:51
+M0815,U5,Samariterstraße,W,11:27
+M0816,S41,Tempelhof,W,12:26
+M0817,U9,Amrumer Straße,W,12:32
+M0818,U6,Rehberge,W,12:32
+M0819,S41,Treptower Park,W,12:33
+M0820,U7,Jungfernheide,W,12:42
+M0822,S5,Alexanderplatz,W,12:58
+M0823,M8,Herzbergstraße/Siegfriedstraße [Siegfriedstraße],W,13:01
+M0824,S46,Neukölln,W,13:14
+M0827,U8,Heinrich-Heine-straße,W,14:06
+M0828,U2,Bülowstraße,W,14:20
+M0829,U9,Zoologischer Garten,W,14:27
+M0830,U9,Kurfürstendamm,W,14:42
+M0831,U9,Turmstraße,W,14:58
+M0832,U9,Zoologischer Garten,W,15:07
+M0834,U5,Magdalenenstraße,W,17:07
+M0835,U5,Magdalenenstraße,W,17:14
+M0837,U8,Hermannplatz,Z,09:33
+M0839,M1,Bürgerpark Pankow,Z,11:40
+M0840,S9,Schöneweide,Z,11:45
+M0841,S42,Hermannstraße,Z,13:37
+M0842,U9,Birkenstraße/Rathenower Straße,Z,14:27
+M0843,U5,Friedrichsfelde,Z,14:28
+M0844,U9,Westhafen,Z,14:29
+M0845,U2,Potsdamer Platz,Z,15:11
+M0846,U9,Leopoldplatz,Z,15:43
+M0847,U6,Hallesches Tor,Z,16:33
+M0848,U9,Leopoldplatz,Z,17:03
+M0849,M4,Alexanderplatz,Z,17:35
+M0850,U5,Magdalenenstraße,F,08:14
+M0852,U6,Ullsteinstraße,F,12:05
+M0853,U6,Leopoldplatz,F,14:01
+M0854,U6,Stadtmitte,F,14:11
+M0855,U5,Frankfurter Allee,F,14:46
+M0856,U8,Hermannplatz,F,15:17
+M0857,U5,Magdalenenstraße,F,17:25
+M0858,U9,Zoologischer Garten,S,12:28
+M0860,U5,Lichtenberg,U,13:20
+M0861,U1G,Görlitzer,U,17:44
+M0862,U1,Görlitzer,U,18:29
+M0863,U8,Hermannplatz,M,08:15
+M0864,U8,Leinestraße,M,08:19
+M0865,S3,Alexanderplatz,M,08:28
+M0867,U8,Kottbusser Tor [Reichenberger Straße],M,09:47
+M0868,U8,Boddinstraße,M,10:04
+M0869,M10,Straßmannstraße,M,10:22
+M0870,U8,Paracelsus-Bad/Aroser Allee,M,10:36
+M0871,U9,Birkenstraße,M,10:42
+M0872,U8,Kottbusser Tor,M,10:52
+M0874,U6,Kochstraße,Z,08:16
+M0875,U8,Weinmeisterstraße,Z,08:48
+M0876,U8,Osloer Straße,Z,09:01
+M0878,U8,Boddinstraße,Z,09:06
+M0879,U8,Hermannplatz,Z,09:23
+M0880,U8,Hermannstraße,Z,09:23
+M0881,U6,Hallesches Tor,Z,09:43
+M0882,U7,Kleistpark,Z,10:41
+M0883,S1,Friedrichstraße,Z,11:19
+M0884,U6,Kochstraße,Z,11:33
+M0885,U8,Osloer Straße,Z,11:47
+M0886,S25,Hennigsdorf,Z,13:16
+M0887,U8,Rosenthaler Platz,Z,13:33
+M0888,U8,Leinestraße,Z,13:40
+M0889,U8,Boddinstraße,Z,13:51
+M0890,U6,Hallesches Tor,Z,15:09
+M0891,U6,Friedrichstraße,Z,16:00
+M0892,U6,Stadtmitte,F,09:04
+M0894,U8,Weinmeisterstraße,F,09:53
+M0895,U6,Oranienburger Tor,F,09:59
+M0896,U8,Schönleinstraße,F,10:59
+M0897,U8,Kottbusser Tor,F,11:01
+M0898,U8,Boddinstraße,F,11:04
+M0899,U9,Turmstraße,F,11:21
+M0901,U8,Osloer Straße,F,12:13
+M0903,U8,Weinmeisterstraße,F,13:33
+M0904,U9,Friedrich-Wilhelm-Platz,F,14:12
+M0905,U8,Pankstraße,F,14:14
+M0906,U8,Kottbusser Tor,F,14:17
+M0907,U2,Schönhauser Allee,F,15:11
+M0908,U9,Berliner Straße,F,15:17
+M0909,U2,Stadtmitte,S,12:27
+M0910,U6,Oranienburger Tor,S,17:08
+M0911,U2,Eberswalder Straße/Pappelallee,S,18:07
+M0912,U6,Alt-Mariendorf,U,12:45
+M0913,U6,Naturkundemuseum,U,14:09
+M0914,U2,Eberswalder Straße,U,16:11
+M0915,U6,Stadtmitte,U,16:54
+M0916,U2,Alexanderplatz,U,17:04
+M0917,U8,Gesundbrunnen,U,19:02
+M0918,U3,Hallesches Tor,M,07:34
+M0919,U7,Hermannplatz,M,07:35
+M0920,U7,Adenauerplatz,M,08:55
+M0921,U3,Görlitzer,M,09:27
+M0922,U8,Franz-Neumann-Platz,M,09:36
+M0923,U8,Schönleinstraße,M,09:45
+M0924,U7,Blissestraße,M,10:14
+M0925,S41,Südkreuz,M,10:57
+M0926,S85,Wilhelmsruh,M,11:08
+M0927,U7,Adenauerplatz,M,11:55
+M0928,U8,Rosenthaler Platz,M,12:16
+M0929,U8,Moritzplatz,M,12:38
+M0931,S41,Schönhauser Allee,M,12:50
+M0932,S2,Humboldthain,M,13:04
+M0933,U9,Zoologischer Garten,M,13:30
+M0935,U7,Wilmersdorfer Straße,M,14:31
+M0937,M10,Straßmannstraße,M,14:53
+M0939,U9,Nauener Platz,M,17:53
+M0941,S2,Gesundbrunnen,T,08:59
+M0942,U5,Friedrichsfelde,T,09:05
+M0943,U5,Unter den Linden,T,09:07
+M0944,U6,Naturkundemuseum,T,09:18
+M0945,S2,Friedrichstraße,T,09:39
+M0946,S3,Alexanderplatz,T,09:52
+M0947,U7,Mehringdamm,T,09:53
+M0948,U8,Kottbusser Tor,T,10:23
+M0950,U2,Spittelmarkt,T,11:19
+M0951,U7,Mehringdamm,T,11:26
+M0953,S42,Westhafen,T,12:15
+M0955,U7,Wilmersdorfer Straße,T,12:49
+M0956,U8,Osloer Straße,T,13:11
+M0957,U7,Wilmersdorfer Straße,T,13:19
+M0958,U5,Frankfurter Tor,T,13:32
+M0959,U5,Wuhletal,T,13:35
+M0961,U7,Rudow,Z,08:44
+M0962,S5,Alexanderplatz,Z,08:57
+M0963,U9,Nauener Platz,Z,09:09
+M0964,M2,Mollstraße/Otto-Braun-straße,Z,09:44
+M0965,U7,Südstern,Z,09:45
+M0966,U3,Möckernbrücke,Z,10:06
+M0967,U7,Blaschkoallee,Z,10:07
+M0968,U8,Heinrich-Heine-straße,Z,10:10
+M0969,U7,Möckernbrücke,Z,11:01
+M0970,U1,Kottbusser Tor,Z,12:22
+M0971,U1,Warschauer Straße,Z,12:44
+M0972,U5,Frankfurter Allee,Z,13:42
+M0973,U5,Alexanderplatz,Z,14:01
+M0974,U5,Friedrichsfelde,Z,14:02
+M0976,U2,Klosterstraße,Z,15:37
+M0977,U5,Frankfurter Allee,Z,17:02
+M0978,U5,Alexanderplatz,Z,19:30
+M0979,U3,Kurfürstenstraße,F,10:01
+M0980,U7,Gneisenaustraße,F,10:29
+M0981,U6,Mehringdamm,F,11:06
+M0984,U9,Amrumer Straße,F,12:17
+M0985,U5,Museumsinsel,F,12:19
+M0986,U6,Hallesches Tor,F,13:39
+M0987,U5,Rotes Rathaus,S,12:26
+M0988,U3,Kottbusser Tor,S,14:17
+M0989,U3,Schlesisches Tor,S,15:03
+M0990,U5,Tierpark,S,16:38
+M0991,U5,Samariterstraße,S,17:37
+M0995,U1,Kurfürstenstraße,U,13:20
+M0996,U1,Kottbusser Tor,U,13:31
+M0997,U1,Warschauer Straße,U,15:09
+M0998,S2,Anhalter,M,05:00
+M1000,S42,Hermannstraße,M,16:25
+M1002,S1,Friedrichstraße,T,06:50
+M1003,S41,Landsberger Allee,T,07:37
+M1004,U6,Hallesches Tor,T,08:13
+M1005,U6,Naturkundemuseum,T,08:43
+M1006,U8,Franz-Neumann-Platz,T,09:19
+M1008,U8,Hermannplatz,T,10:39
+M1009,U8,Hermannplatz,T,10:51
+M1010,U2,Alexanderplatz,T,11:41
+M1012,U2,Stadtmitte,T,12:20
+M1013,U8,Hermannplatz,T,12:23
+M1014,U8,Franz-Neumann-Platz,T,12:45
+M1015,U7,Rudow,T,13:29
+M1016,U8,Pankstraße,W,05:01
+M1017,U2,Märkisches Museum,W,09:23
+M1018,U8,Schönleinstraße,W,09:41
+M1020,U7,Yorckstraße,W,09:49
+M1022,S3,Rummelsburg,W,09:56
+M1023,M29,Rio-Reiser-Platz,W,09:56
+M1024,U6,Friedrichstraße,W,10:02
+M1025,S41,Ostkreuz,W,11:09
+M1026,U8,Pankstraße,W,11:30
+M1027,S5,Friedrichstraße,W,11:43
+M1028,U6,Wedding,W,12:37
+M1030,U2,Potsdamer Platz,W,13:19
+M1031,U8,Rosenthaler Platz,W,13:24
+M1032,U2,Schönhauser Allee,W,14:06
+M1033,U6,Kurt-Schumacher-Platz,W,15:40
+M1034,U6,Oranienburger Tor,W,17:53
+M1035,U6,Hallesches Tor,W,18:22
+M1036,U8,Osloer Straße,Z,15:49
+M1038,U6,Schwartzkopffstraße,Z,16:28
+M1039,U2,Vinetastraße,Z,17:13
+M1040,U6,Friedrichstraße,Z,18:13
+M1041,U2,Eberswalder Straße,Z,18:29
+M1042,U6,Naturkundemuseum,Z,18:39
+M1043,S3,Erkner,F,08:32
+M1044,U2,Alexanderplatz,F,09:45
+M1045,U5,Berlin Hauptbahnhof,F,11:14
+M1046,S41,Prenzlauer Allee,F,11:44
+M1047,U2,Hausvogteiplatz,F,11:52
+M1048,U2,Vinetastraße,F,12:21
+M1049,S41,Tempelhof,F,12:47
+M1050,U7,Neukölln,F,13:51
+M1051,U8,Moritzplatz,F,14:40
+M1052,U8,Gesundbrunnen,F,14:54
+M1054,U8,Rosenthaler Platz,F,15:26
+M1055,U8,Rosenthaler Platz,F,15:32
+M1056,U8,Bernauer Straße,F,15:44
+M1057,S42,Gesundbrunnen,F,16:07
+M1058,S9,Schöneweide,F,16:45
+M1059,U8,Bernauer Straße,S,14:39
+M1060,U8,Voltastraße,S,16:37
+M1061,U8,Pankstraße,U,11:07
+M1062,U2,Ruhleben,U,12:17
+M1063,U8,Osloer Straße,U,13:02
+M1064,U6,Alt-Mariendorf,U,13:24
+M1065,U6,Oranienburger Tor,U,13:50
+M1066,U2,Spittelmarkt,U,17:43
+M1067,S85,Frankfurter Allee,M,06:18
+M1068,U9,Rathaus Steglitz,M,08:05
+M1069,U5,Berlin Hauptbahnhof,M,08:05
+M1071,S41,Jungfernheide,M,10:23
+M1072,U9,Spichernstraße,M,12:21
+M1073,U3,Kottbusser Tor,M,12:24
+M1074,U7,Rathaus Spandau,M,12:32
+M1075,S41,Tempelhof,M,14:20
+M1076,U5,Alexanderplatz,M,15:06
+M1078,S42,Greifswalder Straße,T,04:43
+M1079,U7,Rathaus Spandau,T,09:23
+M1080,U7,Hermannplatz,T,09:36
+M1081,U7,Berliner Straße,T,10:07
+M1082,U7,Wilmersdorfer Straße,T,10:54
+M1084,U7,Grenzallee,T,11:22
+M1086,U5,Frankfurter Allee,T,12:53
+M1087,U1,Hallesches Tor,T,13:51
+M1088,U6,Alt-Mariendorf,T,14:39
+M1089,S41,Heidelberger Platz,T,15:00
+M1090,S42,Storkower Straße,W,04:40
+M1091,S25,Südkreuz,W,05:20
+M1093,U7,Lipschitzallee,W,08:24
+M1094,U2,Vinetastraße,W,09:01
+M1096,M29,Rio-Reiser-Platz,W,09:49
+M1097,U7,Eisenacher Straße,W,10:01
+M1099,U7,Wilmersdorfer Straße,W,10:29
+M1100,U9,Leopoldplatz,W,10:49
+M1101,U8,Pankstraße,W,11:32
+M1102,U7,Grenzallee,W,11:32
+M1103,U7,Fehrbelliner Platz,W,12:13
+M1104,U7,Hermannplatz,W,12:21
+M1105,U7,Berliner Straße,W,12:34
+M1106,S41,Neukölln,W,12:48
+M1107,U5,Unter den Linden,W,12:55
+M1108,U9,Nauener Platz,W,13:03
+M1109,U7,Bayerischer Platz,W,13:06
+M1110,S41,Tempelhof,W,13:31
+M1111,U7,Blaschkoallee,W,13:37
+M1112,U8,Bernauer Straße,W,16:42
+M1113,S2,Brandenburger Tor,W,19:40
+M1114,U7,Neukölln,Z,07:55
+M1115,U6,Stadtmitte,F,15:39
+M1116,U5,Lichtenberg,F,17:29
+M1117,U9,Hansaplatz,F,18:02
+M1118,S41,Westend,S,07:42
+M1119,U3,Möckernbrücke,S,13:12
+M1120,S5,Nöldnerplatz,S,13:39
+M1121,S42,Frankfurter Allee,S,16:30
+M1122,U3,Warschauer Straße,S,18:37
+M1123,S42,Landsberger Allee,U,09:42
+M1124,S41,Sonnenallee,U,09:46
+M1125,S2,Anhalter,U,11:44
+M1126,S41,Südkreuz,U,12:44
+M1127,U6,Hallesches Tor,U,13:29
+M1128,S7,Bellevue,U,15:06
+M1129,U5,Museumsinsel,U,15:35
+M1130,U6,Friedrichstraße,U,16:33
+M1131,U8,Hermannplatz,M,09:21
+M1132,U2,Alexanderplatz,M,09:36
+M1133,U6,Kurt-Schumacher-Platz,M,09:57
+M1134,U8,Boddinstraße,M,09:58
+M1136,S41,Tempelhof,M,11:36
+M1137,S3,Berlin Hauptbahnhof,M,11:46
+M1138,U6,Kaiserin-Augusta-straße,M,11:58
+M1139,S42,Hermannstraße,M,12:38
+M1140,U8,Schönleinstraße,M,13:15
+M1142,U8,Leinestraße,M,13:45
+M1143,U8,Alexanderplatz,M,14:07
+M1144,U8,Kottbusser Tor,M,14:12
+M1145,U2,Spittelmarkt,M,14:24
+M1146,U6,Naturkundemuseum,M,14:47
+M1147,U8,Weinmeisterstraße,M,15:49
+M1148,U1,Gleisdreieck,M,16:05
+M1149,U8,Hermannstraße,T,07:54
+M1150,U8,Hermannplatz,T,08:06
+M1151,U6,Mehringdamm,T,08:16
+M1152,U6,Kochstraße,T,08:22
+M1153,U8,Alexanderplatz,T,08:34
+M1154,U8,Moritzplatz,T,09:07
+M1155,U6,Mehringdamm,T,09:12
+M1156,U6,Kochstraße,T,09:16
+M1157,U2,Vinetastraße,T,09:36
+M1158,U6,Oranienburger Tor,T,09:51
+M1162,U8,Weinmeisterstraße,T,11:43
+M1164,U2,Eberswalder Straße,T,12:19
+M1165,U8,Boddinstraße,T,12:46
+M1166,U6,Unter den Linden,T,12:59
+M1167,U8,Osloer Straße,T,14:13
+M1168,U8,Osloer Straße,T,14:38
+M1169,U2,Schönhauser Allee,T,15:33
+M1170,U6,Leopoldplatz,W,07:34
+M1172,U8,Kottbusser Tor,W,08:42
+M1173,U6,Friedrichstraße,W,08:43
+M1174,U8,Hermannplatz,W,09:14
+M1175,U8,Hermannplatz,W,09:43
+M1176,S25,"Teltow,",W,10:00
+M1178,U6,Hallesches Tor,W,10:11
+M1180,U8,Hermannstraße,W,10:47
+M1181,U6,Leopoldplatz,W,11:57
+M1182,U6,Kurt-Schumacher-Platz,W,12:12
+M1183,U6,Ostweg,W,12:20
+M1184,U6,Alt-Mariendorf,W,13:38
+M1185,U6,Hallesches Tor,W,14:06
+M1186,U8,Boddinstraße,W,14:10
+M1187,U8,Leinestraße,W,14:12
+M1188,U6,Stadtmitte,W,14:24
+M1189,U6,Naturkundemuseum,W,14:43
+M1190,S1,Nordbahnhof,Z,07:50
+M1191,S41,Sonnenallee,Z,09:37
+M1192,S1,Nordbahnhof,Z,10:14
+M1194,U2,Deutsche Oper,Z,12:45
+M1195,S42,Sonnenallee,Z,13:32
+M1196,U2,Schönhauser Allee,Z,13:34
+M1198,U7,Karl-Marx-straße,M,10:59
+M1199,U7,Karl-Marx-straße,M,10:59
+M1200,U5,Lichtenberg,M,11:44
+M1201,U5,Alexanderplatz,M,11:45
+M1203,M76,Lichtenrade,M,13:15
+M1205,U7,Brandenburger Tor,M,15:43
+M1206,U9,Hansaplatz,M,17:20
+M1209,U5,Strausberger Platz,T,08:36
+M1210,U6,Stadtmitte,T,08:38
+M1211,U6,Unter den Linden,T,08:38
+M1212,U8,Gesundbrunnen,T,09:20
+M1213,U8,Schönleinstraße,T,10:14
+M1214,U7,Britz-Süd,T,10:28
+M1215,U5,Tierpark,T,10:35
+M1216,U7,Hermannplatz,T,10:44
+M1217,U2,Alexanderplatz,T,11:11
+M1218,U7,Rathaus Spandau,T,11:18
+M1219,U8,Leinestraße,T,12:25
+M1221,U8,Hermannplatz,T,13:18
+M1222,S46,Neukölln,T,14:05
+M1225,U5,Weberwiese,T,17:18
+M1226,U5,Schillingstraße,T,18:00
+M1227,U5,Berlin Hauptbahnhof,T,18:41
+M1228,U5,Alexanderplatz,W,07:22
+M1230,U7,Karl-Marx-straße,W,09:14
+M1231,U5,Tierpark,W,09:22
+M1232,U9,Hansaplatz,W,09:30
+M1233,U8,Osloer Straße,W,09:39
+M1235,U9,Friedrich-Wilhelm-Platz,W,10:25
+M1237,U9,Nauener Platz,W,11:17
+M1238,U6,Kurt-Schumacher-Platz,W,12:21
+M1239,S42,Tempelhof,W,12:24
+M1240,U5,Samariterstraße,W,12:56
+M1241,U7,Bayerischer Platz,W,12:57
+M1242,M29,Hermannplatz,W,13:22
+M1243,U9,Turmstraße,W,13:57
+M1244,S41,Hermannstraße,W,14:56
+M1245,U9,Amrumer Straße,Z,08:18
+M1246,U7,Rudow,Z,08:30
+M1247,S3,Hackescher Markt,Z,09:00
+M1248,U8,Alexanderplatz,Z,10:33
+M1249,U7,Rathaus Spandau,Z,11:07
+M1250,U5,Frankfurter Allee,Z,11:32
+M1251,U8,Osloer Straße,Z,12:29
+M1252,U8,Alexanderplatz,Z,12:49
+M1254,U5,Magdalenenstraße,Z,13:38
+M1255,U8,Hermannplatz,Z,13:55
+M1256,U8,Pankstraße,Z,15:12
+M1257,U9,Spichernstraße,Z,15:12
+M1259,U7,"Güterfelde, Berliner Straße",F,08:08
+M1260,S41,Neukölln,F,08:32
+M1263,U7,Fehrbelliner Platz,F,10:03
+M1264,M41,Erkstraße,F,12:07
+M1265,U9,Zoologischer Garten,F,12:20
+M1266,U5,Weberwiese,F,12:21
+M1268,U8,Hermannplatz,F,12:44
+M1269,U6,Hallesches Tor,F,12:55
+M1270,U5,Hönow,F,13:13
+M1272,U9,Berliner Straße,F,13:26
+M1273,U7,Wutzkyallee,F,13:59
+M1274,U8,Moritzplatz,M,12:21
+M1276,U2,Sophie-Charlotte-Platz,M,13:48
+M1277,M48,Kleistpark,M,14:08
+M1278,U8,Kottbusser Tor,M,14:10
+M1279,U6,Reinickendorfer Straße,M,14:35
+M1280,U8,Osloer Straße,M,15:08
+M1281,U8,Gesundbrunnen,T,08:36
+M1282,U6,Platz der Vereinten Nationen,T,08:38
+M1283,S7,Griebnitzsee,T,09:28
+M1284,U6,Oranienburger Tor,T,09:33
+M1285,TRAM37,Friedrichsfelde Ost,T,09:54
+M1286,U8,Hermannplatz,T,10:57
+M1287,U8,Jannowitzbrücke,T,12:15
+M1289,U6,Alt-Tegel,T,12:48
+M1292,U8,Kottbusser Tor,T,13:58
+M1293,U8,Kottbusser Tor,T,14:00
+M1294,U8,Alexanderplatz,T,15:27
+M1296,U8,Weinmeisterstraße,T,17:51
+M1297,S41,Prenzlauer Allee,W,08:54
+M1298,U7,Gneisenaustraße,W,11:46
+M1301,U8,Pankstraße,W,12:46
+M1302,U6,Kurt-Schumacher-Platz,W,13:20
+M1303,U8,Alexanderplatz,W,13:36
+M1304,U8,Jannowitzbrücke,W,13:48
+M1307,U8,Alexanderplatz,W,15:20
+M1308,U8,Jannowitzbrücke,W,15:22
+M1309,U8,Osloer Straße,W,19:16
+M1310,S42,Schönhauser Allee,Z,07:08
+M1311,S42,Tempelhof,Z,07:53
+M1312,S42,Greifswalder Straße,Z,08:36
+M1314,U8,Hermannplatz,Z,11:33
+M1315,M10,Husemannstraße,Z,11:57
+M1316,U6,Oranienburger Tor,Z,12:19
+M1317,U6,Stadtmitte,Z,12:50
+M1318,U8,Boddinstraße,Z,13:06
+M1319,M10,Wolliner Straße,Z,13:07
+M1321,U2,Pankow,Z,13:18
+M1322,U2,Eberswalder Straße,Z,13:39
+M1323,U6,Oranienburger Tor,Z,14:41
+M1324,U8,Pankstraße,Z,14:54
+M1328,S8,Treptower Park,F,05:51
+M1331,S41,Tempelhof,F,12:55
+M1332,S7,Bellevue,F,12:57
+M1333,S25,Brandenburger Tor,F,14:25
+M1334,S7,Zoologischer Garten,F,23:45
+M1335,U6,Leopoldplatz,U,13:14
+M1337,S7,Ahrensfelde,T,08:56
+M1338,U7,Hermannplatz,T,09:39
+M1339,U9,Osloer Straße,T,09:45
+M1341,U7,Fehrbelliner Platz,T,10:24
+M1343,U5,Hönow,T,10:38
+M1344,S41,Südkreuz,T,12:08
+M1345,S41,Bundesplatz,T,12:11
+M1346,U7,Hermannplatz,T,12:28
+M1349,U7,Südstern,T,12:56
+M1350,U3,Görlitzer,T,13:26
+M1351,U5,Brandenburger Tor,T,13:32
+M1352,U5,Museumsinsel,T,13:32
+M1353,U5,Kaulsdorf-Nord,T,13:38
+M1354,U5,Tierpark,T,13:54
+M1356,U5,Lichtenberg,T,14:16
+M1357,S26,Yorckstraße,T,15:13
+M1359,U6,Hallesches Tor,W,09:31
+M1360,U2,Ernst-Reuter-Platz,W,10:32
+M1361,U5,Alexanderplatz,W,12:39
+M1363,U5,Frankfurter Tor,W,13:14
+M1364,S42,Storkower Straße,W,13:51
+M1365,U5,Bundestag,W,14:41
+M1366,U7,Rudow,W,15:55
+M1367,U5,Tierpark,W,16:45
+M1368,U5,Schillingstraße,W,17:38
+M1369,U8,Pankstraße,W,18:51
+M1371,U5,Frankfurter Tor,Z,08:49
+M1372,U5,Berlin Hauptbahnhof,Z,09:07
+M1373,U7,Südstern,Z,09:23
+M1374,U9,Westhafen,Z,09:24
+M1376,S42,Schönhauser Allee,Z,09:34
+M1377,U9,Hansaplatz,Z,09:36
+M1379,U8,Bernauer Straße,Z,10:13
+M1380,U7,Hermannplatz,Z,11:55
+M1381,U5,Lichtenberg,Z,11:58
+M1384,U5,Frankfurter Allee,Z,12:29
+M1385,U6,Leopoldplatz,Z,12:35
+M1386,S41,Frankfurter Allee,Z,12:52
+M1388,U7,Blissestraße,Z,13:05
+M1390,U8,Alexanderplatz,Z,14:24
+M1391,U6,Kurt-Schumacher-Platz,Z,15:24
+M1393,U3,Görlitzer,Z,17:31
+M1395,U7,Bayerischer Platz,F,08:46
+M1396,S42,Messe Nord,F,09:05
+M1397,U2,Ernst-Reuter-Platz,F,10:33
+M1400,S26,Potsdamer Platz,F,13:38
+M1401,U1,Gleisdreieck,F,16:28
+M1402,S41,Prenzlauer Allee,S,08:19
+M1403,S85,Pankow,S,13:04
+M1405,U5,Frankfurter Allee,S,17:18
+M1407,U5,Samariterstraße,U,11:35
+M1408,S42,Ostkreuz,M,04:36
+M1409,U6,Stadtmitte,M,08:27
+M1410,U9,Kurfürstendamm,M,09:38
+M1411,U6,Tempelhof,M,09:43
+M1412,S85,Schönefeld,M,11:18
+M1413,U6,Platz der Vereinten Nationen,M,11:51
+M1416,U8,Weinmeisterstraße,T,18:10
+M1417,U8,Pankstraße,W,08:33
+M1419,S41,Landsberger Allee,W,09:05
+M1420,U6,Ullsteinstraße,W,09:05
+M1421,U2,Rosa-Luxemburg-Platz,W,09:41
+M1422,U8,Hermannplatz,W,10:18
+M1423,U2,Schönhauser Allee,W,11:11
+M1424,U6,Mehringdamm,W,12:04
+M1425,U6,Leopoldplatz,W,12:22
+M1426,U8,Voltastraße,W,12:52
+M1427,S85,Greifswalder Straße,W,13:06
+M1428,U2,Potsdamer Platz,W,13:22
+M1430,U8,Boddinstraße,W,13:51
+M1431,U3,Kottbusser Tor,W,14:11
+M1432,U8,Boddinstraße,W,14:23
+M1433,U8,Hermannstraße,W,14:25
+M1434,U8,Hermannplatz,W,14:28
+M1435,U2,Pankow,W,14:28
+M1436,U6,Naturkundemuseum,W,14:29
+M1437,S2,Brandenburger Tor,W,16:29
+M1438,U8,Alexanderplatz,W,18:05
+M1439,U8,Hermannplatz,Z,08:57
+M1440,U8,Kottbusser Tor,Z,09:27
+M1441,U6,Unter den Linden,Z,09:34
+M1445,S42,Greifswalder Straße,Z,11:56
+M1446,U2,Eberswalder Straße/Pappelallee,Z,13:07
+M1447,U8,Alexanderplatz,Z,13:28
+M1448,U8,Boddinstraße,Z,13:33
+M1449,U8,Jannowitzbrücke,Z,13:34
+M1450,U8,Weinmeisterstraße,Z,13:50
+M1451,U8,Hermannstraße,Z,13:53
+M1452,U2,Potsdamer Platz,Z,13:56
+M1453,U8,Rosenthaler Platz,Z,14:00
+M1454,U8,Alexanderplatz,Z,14:07
+M1455,U8,Boddinstraße,Z,14:16
+M1456,U3,Schlesisches Tor,Z,14:19
+M1457,U8,Rosenthaler Platz,Z,15:17
+M1459,U8,Bernauer Straße,Z,18:04
+M1460,U8,Schönleinstraße,F,08:54
+M1462,U8,Hermannstraße,F,09:34
+M1464,U6,Hallesches Tor,F,10:47
+M1465,S41,Westkreuz,F,10:48
+M1466,U8,Schönleinstraße,F,11:12
+M1467,U8,Rosenthaler Platz,F,13:43
+M1468,U8,Kottbusser Tor,F,13:56
+M1469,U8,Bernauer Straße,F,13:59
+M1471,U6,Mehringdamm,F,15:02
+M1472,U2,Rosa-Luxemburg-Platz,F,15:42
+M1473,U2,Bülowstraße,F,16:30
+M1474,S25,Hennigsdorf,F,17:57
+M1476,U6,Wedding,S,13:06
+M1477,U8,Bernauer Straße,S,13:49
+M1478,U8,Bernauer Straße,S,16:18
+M1479,S41,Ostkreuz,U,06:24
+M1480,U7,Jakob-Kaiser-Platz,U,13:33
+M1481,U2,Ruhleben,U,13:56
+M1482,U6,Friedrichstraße,U,14:15
+M1484,U8,Alexanderplatz,U,15:52
+M1485,U8,Wittenau,U,16:36
+M1486,U2,Spittelmarkt,U,16:38
+M1487,U6,Wedding,U,18:37
+M1488,S42,Storkower Straße,M,04:42
+M1490,U9,Nauener Platz,M,07:45
+M1491,U5,Tierpark,M,08:12
+M1492,U5,Samariterstraße,M,08:59
+M1493,M10,Naturkundemuseum,M,09:02
+M1495,U5,Berlin Hauptbahnhof,M,09:29
+M1496,U5,Samariterstraße,M,10:06
+M1498,U8,Voltastraße,M,11:47
+M1499,U7,Hermannplatz,M,11:59
+M1500,S5,Alexanderplatz,M,12:30
+M1501,U7,Hermannplatz,M,14:54
+M1503,U7,Hermannplatz,M,17:18
+M1505,M41,Ewaldstraße,T,08:21
+M1506,U5,Museumsinsel,W,10:34
+M1508,U7,Parchimer Allee,W,11:05
+M1509,U7,Bismarckstraße,W,12:10
+M1510,U5,Brandenburger Tor,W,13:20
+M1511,U5,Wuhletal,W,13:56
+M1512,U9,Leopoldplatz,W,14:07
+M1513,S3,Hackescher Markt,W,14:35
+M1514,U5,Alexanderplatz,W,14:55
+M1515,U5,Schillingstraße,W,17:20
+M1516,U5,Alexanderplatz,W,17:24
+M1517,U5,Elsterwerdaer Platz,Z,10:08
+M1518,U5,Tierpark,Z,10:10
+M1519,S3,Friedrichshagen,Z,11:08
+M1520,U7,Karl-Marx-straße,Z,11:31
+M1521,U5,Weberwiese,Z,11:48
+M1522,U9,Zoologischer Garten,Z,14:00
+M1523,S42,Südkreuz,Z,14:46
+M1524,U5,Alexanderplatz,Z,15:09
+M1525,U3,Görlitzer,Z,21:10
+M1526,S42,Storkower Straße,F,04:35
+M1527,U7,Spandau,F,07:29
+M1529,U5,Alexanderplatz,F,09:14
+M1530,U5,Lichtenberg,F,09:19
+M1532,U7,Karl-Marx-straße,F,09:53
+M1534,U5,Weberwiese,F,10:23
+M1535,U7,Adenauerplatz,F,11:03
+M1536,U5,Frankfurter Tor,F,11:08
+M1537,U5,Samariterstraße,F,12:16
+M1539,S7,Ostbahnhof,F,12:47
+M1540,U7,Karl-Marx-straße,F,13:54
+M1541,U5,Berlin Hauptbahnhof,F,14:16
+M1542,S9,Friedrichstraße,S,04:13
+M1543,U5,Weberwiese,S,13:05
+M1544,U5,Alexanderplatz,S,13:10
+M1545,U5,Schillingstraße,S,16:07
+M1547,U6,Oranienburger Tor,U,10:57
+M1548,U7,Hermannplatz,U,11:32
+M1550,U5,Alexanderplatz,U,12:14
+M1551,U3,Krumme Lanke,U,12:31
+M1552,U3,Hallesches Tor,U,12:47
+M1553,U7,Hermannplatz,U,13:45
+M1554,S2,Marienfelde,U,15:32
+M1555,U5,Schillingstraße,U,16:18
+M1557,U7,Mierendorffplatz,U,18:34
+M1558,S41,Hohenzollerndamm,U,18:54
+M1560,S41,Heidelberger Platz,M,09:37
+M1561,U8,Schönleinstraße,M,09:55
+M1562,U8,Voltastraße,M,10:05
+M1563,U6,Unter den Linden,M,10:11
+M1564,U8,Pankstraße,M,11:14
+M1565,U8,Alexanderplatz,M,11:43
+M1566,U6,Wedding,M,11:47
+M1567,U8,Hermannstraße,M,12:21
+M1568,S42,Gesundbrunnen,M,12:25
+M1570,U6,Stadtmitte,M,12:36
+M1571,U6,Seestraße,M,12:53
+M1572,U6,Leopoldplatz,M,13:24
+M1574,M29,Schöneberger Brücke,M,14:08
+M1575,U8,Hermannplatz,M,14:44
+M1576,U8,Hermannplatz,M,14:51
+M1578,U8,Weinmeisterstraße,M,17:05
+M1580,U8,Osloer Straße,T,07:19
+M1581,U8,Hermannplatz,T,08:40
+M1582,U8,Hermannstraße,T,09:59
+M1583,U6,Unter den Linden,T,10:04
+M1584,U8,Gesundbrunnen,T,10:05
+M1586,U6,Unter den Linden,T,11:39
+M1587,S7,Alexanderplatz,T,11:40
+M1589,U6,Alt-Tempelhof,T,12:10
+M1590,S3,Hackescher Markt,T,12:30
+M1592,U2,Eberswalder Straße,T,12:40
+M1593,U7,Parchimer Allee,T,12:53
+M1594,U8,Franz-Neumann-Platz,T,13:01
+M1595,U8,Franz-Neumann-Platz,T,14:43
+M1596,U8,Bernauer Straße,T,14:53
+M1597,U6,Unter den Linden,T,17:21
+M1598,S1,Anhalter,T,15:36
+M1599,U2,Spittelmarkt,T,16:57
+M1600,M29,Hiroshimasteg,W,08:11
+M1601,U8,Hermannstraße,W,08:12
+M1602,U8,Wittenau,W,08:21
+M1604,U6,Mehringdamm,W,09:01
+M1605,U6,Westphalweg,W,09:16
+M1606,U8,Leinestraße,W,09:34
+M1607,U2,Schönhauser Allee,W,09:45
+M1609,U8,Rosenthaler Platz,W,10:03
+M1610,U6,Naturkundemuseum,W,10:05
+M1611,U6,Oranienburger Tor,W,10:06
+M1612,U2,Schönhauser Allee,W,10:39
+M1614,U6,Unter den Linden,W,11:57
+M1615,U6,Tempelhof,W,12:21
+M1616,U6,Reinickendorfer Straße,W,13:02
+M1617,U2,Stadtmitte,W,13:08
+M1618,U8,Hermannplatz,W,13:11
+M1620,U2,Bülowstraße,W,13:55
+M1621,U2,Ernst-Reuter-Platz,W,14:18
+M1622,U8,Alexanderplatz,W,15:47
+M1623,U6,Wedding,W,16:58
+M1624,U8,Rosenthaler Platz,W,17:01
+M1625,U6,Leopoldplatz,W,17:12
+M1626,U6,Wedding,W,17:52
+M1627,U8,Voltastraße,W,18:22
+M1628,U8,Bernauer Straße,W,19:06
+M1629,U8,Gesundbrunnen,Z,08:21
+M1630,U8,Schönleinstraße,Z,08:45
+M1631,U6,Unter den Linden,Z,09:00
+M1632,U8,Moritzplatz,Z,09:01
+M1633,U8,Hermannstraße,Z,09:26
+M1634,U8,Boddinstraße,Z,09:36
+M1635,U6,Kochstraße,Z,09:38
+M1636,U2,Rosa-Luxemburg-Platz,Z,09:51
+M1637,U8,Leinestraße,Z,10:23
+M1638,S41,Schönhauser Allee,Z,10:37
+M1639,U2,Rosa-Luxemburg-Platz,Z,11:11
+M1641,U8,Hermannplatz,Z,13:24
+M1642,U8,Wittenau,Z,13:41
+M1643,U8,Hermannplatz,Z,13:44
+M1644,U8,Schönleinstraße,Z,13:45
+M1645,U8,Rosenthaler Platz,Z,14:03
+M1646,U6,Leopoldplatz,Z,14:39
+M1647,S5,Friedrichstraße,Z,15:52
+M1648,U3,Schlesisches Tor,F,10:22
+M1651,U8,Osloer Straße,F,12:36
+M1652,U2,Rosa-Luxemburg-Platz,F,13:01
+M1653,U8,Moritzplatz,F,13:03
+M1655,U8,Boddinstraße,F,13:20
+M1656,U8,Kottbusser Tor,F,13:36
+M1659,U8,Alexanderplatz,F,16:19
+M1660,U8,Boddinstraße,F,17:56
+M1661,U8,Boddinstraße,F,17:58
+M1662,U2,Stadtmitte,S,12:59
+M1663,U5,Weberwiese,S,13:47
+M1664,S41,Schönhauser Allee,U,11:40
+M1666,U2,Stadtmitte,U,16:51
+M1667,U7,Hermannplatz,M,11:47
+M1670,U8,Kottbusser Tor,M,14:21
+M1671,U7,Jungfernheide,M,15:05
+M1673,U5,Samariterstraße,T,09:09
+M1674,S5,Lichterfelde Ost,T,09:14
+M1675,U5,Brandenburger Tor,T,09:19
+M1677,U7,Wutzkyallee,T,10:00
+M1678,U9,Nauener Platz,T,10:47
+M1679,S9,Alt-Friedrichsfelde/Gensinger Straße,T,10:52
+M1680,U5,Brandenburger Tor,T,11:49
+M1681,U7,Hermannplatz,T,11:49
+M1682,U7,Jakob-Kaiser-Platz,T,12:02
+M1683,U6,Seestraße,T,12:30
+M1684,U9,Birkenstraße,T,14:17
+M1685,U5,Alexanderplatz,T,14:41
+M1687,S25,Potsdamer Platz,W,06:28
+M1688,U5,Frankfurter Allee,W,13:44
+M1689,U5,Frankfurter Tor,W,13:46
+M1691,U8,Gesundbrunnen,W,14:10
+M1692,U6,Hallesches Tor,W,14:24
+M1693,S9,Flughafen BER,W,14:38
+M1694,U5,Magdalenenstraße,W,17:40
+M1695,U5,Strausberger Platz,W,18:15
+M1696,U7,Parchimer Allee,Z,07:49
+M1697,U9,Amrumer Straße,Z,09:41
+M1699,U7,Jungfernheide,Z,11:57
+M1700,U5,Alexanderplatz,Z,12:48
+M1701,U7,Hermannplatz,Z,13:20
+M1702,U7,Spandau,Z,13:22
+M1703,S41,Storkower Straße,Z,13:46
+M1704,U9,Leopoldplatz,Z,13:53
+M1705,U9,Nauener Platz,Z,14:43
+M1706,U5,Weberwiese,Z,18:33
+M1708,U9,Nauener Platz,F,07:34
+M1709,U7,Möckernbrücke,F,07:54
+M1710,U9,Osloer Straße,F,08:53
+M1711,U9,Leopoldplatz,F,11:21
+M1712,U7,Südstern,F,11:24
+M1713,U7,Gneisenaustraße,F,11:38
+M1714,U7,Gneisenaustraße,F,13:34
+M1715,U9,Nauener Platz,S,12:32
+M1716,S3,Friedrichstraße,S,12:38
+M1717,S8,Schönhauser Allee,U,05:36
+M1718,S42,Tempelhof,U,10:43
+M1719,S46,Köllnische Heide,U,11:43
+M1720,S5,Jannowitzbrücke,U,14:45
+M1721,U9,Leopoldplatz,U,17:19
+M1722,S5,Alexanderplatz,U,19:08
+M1723,U2,Pankow,M,08:47
+M1724,U8,Schönleinstraße,M,09:10
+M1725,U6,Afrikanische Straße,M,10:00
+M1726,U8,Boddinstraße,M,10:45
+M1727,U6,Oranienburger Tor,M,10:55
+M1728,U6,Reinickendorfer Straße/Sellerstraße,M,11:15
+M1729,U8,Osloer Straße,M,11:30
+M1730,S9,Hackescher Markt,M,12:21
+M1731,U7,Bayerischer Platz,M,12:37
+M1732,U8,Alexanderplatz,M,13:00
+M1733,U8,Alexanderplatz,M,13:04
+M1734,U2,Alexanderplatz,M,13:30
+M1735,U6,Unter den Linden,M,13:50
+M1736,U6,Rehberge,M,13:54
+M1737,U6,Alt-Mariendorf,M,14:05
+M1738,U6,Mehringdamm,M,14:30
+M1739,U6,Unter den Linden,M,14:41
+M1740,U8,Weinmeisterstraße,M,14:47
+M1741,U8,Wittenau,M,18:43
+M1743,U8,Schönleinstraße,T,09:21
+M1744,U6,Afrikanische Straße,T,09:34
+M1745,U6,Stadtmitte,T,10:21
+M1746,U8,Schönleinstraße,T,10:33
+M1747,U6,Alt-Mariendorf,T,10:49
+M1748,U6,Unter den Linden,T,10:50
+M1749,U8,Kottbusser Tor,T,11:25
+M1751,U8,Alexanderplatz,T,12:32
+M1752,S41,Prenzlauer Allee,T,12:46
+M1753,U2,Wittenbergplatz,T,14:33
+M1755,U2,Eberswalder Straße,Z,09:13
+M1756,S42,Storkower Straße,Z,09:20
+M1757,U8,Hermannplatz,Z,09:33
+M1758,U8,Hermannplatz,Z,10:09
+M1759,U8,Hermannplatz,Z,10:30
+M1760,U6,Oranienburger Tor,Z,11:01
+M1762,U8,Bernauer Straße,Z,12:34
+M1763,U8,Bernauer Straße,Z,14:18
+M1764,U6,Alt-Mariendorf,Z,14:18
+M1765,U8,Gesundbrunnen,Z,14:20
+M1766,U2,Bülowstraße,Z,14:37
+M1768,U9,Leopoldplatz,F,10:23
+M1769,U8,Franz-Neumann-Platz,F,12:40
+M1771,M29,Anhalter,S,12:05
+M1773,U8,Pankstraße,U,12:29
+M1774,S41,Südkreuz,U,12:31
+M1775,U9,Amrumer Straße,U,14:00
+M1777,U5,Berlin Hauptbahnhof,M,07:55
+M1778,U6,Tempelhof,M,09:32
+M1779,U9,Leopoldplatz,M,09:56
+M1780,S5,Ostbahnhof,M,10:04
+M1783,U5,Unter den Linden,M,11:52
+M1784,U9,Berliner Straße,M,13:38
+M1785,U7,Blaschkoallee,M,13:38
+M1786,U7,Neukölln,M,13:59
+M1787,U8,Pankstraße,M,14:42
+M1788,U3,Möckernbrücke,M,17:00
+M1789,S85,Schöneweide,T,06:36
+M1790,U9,Zoologischer Garten,T,09:41
+M1791,U5,Friedrichsfelde,T,09:45
+M1792,U1,Kottbusser Tor,T,10:22
+M1793,U8,Alexanderplatz,T,11:46
+M1794,U1,Warschauer Straße,T,12:23
+M1795,S8,Greifswalder Straße/Danziger Straße,T,12:38
+M1797,S7,Hackescher Markt,T,13:33
+M1799,U5,Bundestag,W,07:50
+M1800,U5,Frankfurter Allee,W,08:57
+M1801,U3,Schlesisches Tor,W,09:07
+M1802,U5,Frankfurter Allee,W,09:32
+M1803,U7,Adenauerplatz,W,09:36
+M1804,U5,Alexanderplatz,W,10:45
+M1805,U5,Friedrichsfelde,W,11:32
+M1807,S85,Bornholmer Straße,W,12:14
+M1809,U5,Brandenburger Tor,Z,13:05
+M1810,U9,Birkenstraße,Z,14:31
+M1811,U5,Lichtenberg,Z,14:44
+M1813,S3,Jannowitzbrücke,Z,17:11
+M1814,U8,Rosenthaler Platz,F,08:47
+M1815,U9,Osloer Straße,F,10:34
+M1816,U5,Alexanderplatz,F,11:51
+M1817,S1,Bornholmer Straße,F,12:22
+M1818,U3,Schlesisches Tor,F,12:38
+M1820,S42,Gesundbrunnen,S,08:29
+M1821,S41,Schönhauser Allee,S,09:36
+M1822,S41,Beusselstraße,U,10:38
+M1823,U7,Neukölln,U,18:32
+M1824,U8,Osloer Straße,M,07:09
+M1825,U6,Stadtmitte,M,10:11
+M1826,U6,Wedding,M,11:44
+M1827,U6,Naturkundemuseum,M,11:49
+M1828,S9,Schöneweide,M,12:23
+M1830,U6,Ullsteinstraße,M,14:01
+M1831,S2,Friedrichstraße,M,16:18
+M1833,U3,Kottbusser Tor,T,08:35
+M1834,S41,Schönhauser Allee,T,08:47
+M1835,U6,Oranienburger Tor,T,09:06
+M1836,U7,Siemensdamm,T,09:22
+M1838,U2,Spittelmarkt,T,09:45
+M1840,S25,Potsdamer Platz,T,11:09
+M1841,S3,Spandau,T,11:11
+M1844,U8,Osloer Straße,T,12:18
+M1845,U7,Rohrdamm,T,14:19
+M1846,U6,Leopoldplatz,T,14:32
+M1847,S9,Alexanderplatz,T,15:03
+M1849,U8,Residenzstraße,W,08:02
+M1851,U6,Stadtmitte,W,08:59
+M1852,U1,Kottbusser Tor,W,09:24
+M1853,U6,Hallesches Tor,W,09:34
+M1854,U2,Hausvogteiplatz,W,10:29
+M1855,M41,Blücherstraße,W,11:53
+M1856,U8,Weinmeisterstraße,W,12:17
+M1858,U2,Eberswalder Straße,W,12:58
+M1859,U6,Leopoldplatz,W,13:07
+M1862,S1,Friedrichstraße,W,14:11
+M1863,U6,Unter den Linden,W,14:46
+M1864,U6,Kaiserin-Augusta-straße,W,15:15
+M1865,S7,Grunewald,W,16:03
+M1867,U2,Alexanderplatz,W,17:41
+M1868,S42,Westkreuz,Z,06:25
+M1869,U2,Pankow,Z,07:46
+M1870,U6,Kaiserin-Augusta-straße,Z,14:08
+M1872,U8,Pankstraße,Z,14:48
+M1873,S42,Landsberger Allee,Z,16:55
+M1874,U6,Alt-Tempelhof,Z,17:51
+M1875,U6,Ullsteinstraße,Z,17:57
+M1876,U2,Alexanderplatz,Z,19:11
+M1877,S47,Köllnische Heide,F,07:51
+M1878,U8,Osloer Straße,F,08:04
+M1879,U2,Potsdamer Platz,F,09:43
+M1880,U8,Hermannstraße,F,09:57
+M1881,U8,Gesundbrunnen,F,10:32
+M1884,U2,Stadtmitte,F,16:30
+M1885,S7,Ostbahnhof,S,02:23
+M1886,U8,Voltastraße,S,11:26
+M1887,U2,Alexanderplatz,S,18:21
+M1888,U6,Schwartzkopffstraße,U,11:29
+M1890,U7,Hermannplatz,M,07:39
+M1891,U9,Leopoldplatz,M,07:45
+M1892,U5,Lichtenberg,M,08:29
+M1894,S42,Tempelhof,M,10:20
+M1895,U5,Lichtenberg,M,11:23
+M1897,U8,Voltastraße,M,13:22
+M1898,U7,Wutzkyallee,M,13:34
+M1899,U5,Friedrichsfelde,M,13:41
+M1900,U5,Alexanderplatz,M,13:47
+M1901,U5,Frankfurter Allee,M,14:16
+M1902,U7,Parchimer Allee,M,18:14
+M1905,U7,Hermannplatz,T,09:28
+M1907,U7,Kleistpark,T,09:42
+M1908,U5,Weberwiese,T,10:35
+M1909,S41,Tempelhof,T,10:45
+M1910,U5,Frankfurter Allee,T,11:41
+M1911,U5,Museumsinsel,T,13:09
+M1913,U3,Gleisdreieck,T,13:43
+M1914,U9,Westhafen,T,14:31
+M1915,U8,Wittenau,T,14:37
+M1916,U2,Rosa-Luxemburg-Platz,T,14:55
+M1917,U2,Alexanderplatz,T,15:41
+M1919,U9,Birkenstraße,W,08:51
+M1920,U5,Lichtenberg,W,08:53
+M1922,S41,Innsbrucker Platz,W,09:39
+M1923,U5,Frankfurter Allee,W,09:40
+M1924,U5,Frankfurter Allee,W,10:45
+M1925,U9,Turmstraße,W,11:30
+M1927,U5,Frankfurter Allee,W,12:37
+M1928,U7,Zitadelle,W,13:10
+M1929,U5,Lichtenberg,W,13:40
+M1931,S7,Berlin Hauptbahnhof,Z,07:47
+M1932,U9,Leopoldplatz,Z,08:51
+M1933,U7,Rudow,Z,09:07
+M1934,U7,Neukölln,Z,09:34
+M1935,U7,Eisenacher Straße,Z,09:36
+M1936,U7,Karl-Marx-straße,Z,10:26
+M1937,U7,Eisenacher Straße,Z,10:35
+M1939,S7,Hackescher Markt,Z,15:12
+M1940,U5,Frankfurter Tor,Z,16:18
+M1941,U3,Warschauer Straße,Z,17:33
+M1942,U3,Prinzenstraße,Z,19:20
+M1944,S85,Frohnau,F,09:44
+M1945,S41,Halensee,F,11:07
+M1948,S41,Hermannstraße,S,19:32
+M1949,U5,Museumsinsel,U,13:09
+M1950,S41,Hermannstraße,U,14:05
+M1951,U3,Hallesches Tor,U,15:54
+M1952,U6,Stadtmitte,M,07:49
+M1953,U6,Oranienburger Tor,M,08:27
+M1954,U5,Lichtenberg,M,09:14
+M1955,U7,Möckernbrücke,M,09:27
+M1956,U6,Leopoldplatz,M,10:05
+M1958,U6,Reinickendorfer Straße,M,12:30
+M1960,U6,Tempelhof,M,14:54
+M1961,U6,Platz der Vereinten Nationen,M,15:12
+M1963,U6,Naturkundemuseum,M,19:23
+M1964,U9,Turmstraße,T,09:09
+M1965,U6,Tempelhof,T,09:35
+M1966,U9,Turmstraße,T,10:17
+M1967,S41,Prenzlauer Allee,T,10:57
+M1968,U6,Ullsteinstraße,T,13:50
+M1970,U6,Leopoldplatz,W,10:08
+M1971,S41,Schönhauser Allee,W,10:12
+M1972,U8,Hermannplatz,W,10:32
+M1973,U6,Ullsteinstraße,W,13:44
+M1974,U6,Platz der Vereinten Nationen,W,14:18
+M1975,S3,Ostbahnhof,W,14:48
+M1976,U6,Afrikanische Straße,W,14:57
+M1977,S42,Hermannstraße,W,15:37
+M1978,U8,Große-Leege-straße/Freienwalder Straße,Z,08:42
+M1979,U6,Leopoldplatz,Z,08:55
+M1980,S85,Schöneweide,Z,09:09
+M1982,U3,Kottbusser Tor,Z,09:47
+M1983,U6,Leopoldplatz,Z,10:28
+M1984,S41,Tempelhof,Z,11:02
+M1985,U3,Hallesches Tor,Z,11:35
+M1988,U8,Osloer Straße,S,14:33
+M1989,U8,Lindauer Allee,S,15:16
+M1990,U8,Hermannplatz,S,16:12
+M1992,U8,Weinmeisterstraße,U,14:00
+M1993,U8,Franz-Neumann-Platz,U,15:12
+M1994,U8,Wittenau,U,16:18
+M1995,S42,Ostkreuz,M,07:12
+M1996,U5,Unter den Linden,M,09:01
+M1997,U7,Möckernbrücke,M,09:37
+M1998,U7,Möckernbrücke,M,10:40
+M1999,U7,Karl-Marx-straße,M,11:46
+M2001,S41,Tempelhof,M,12:06
+M2002,U6,Leopoldplatz,M,12:44
+M2005,U5,Frankfurter Tor,M,14:19
+M2006,U8,Kottbusser Tor,M,15:07
+M2007,U8,Alexanderplatz,M,19:32
+M2008,S7,Ostbahnhof,T,06:59
+M2010,U6,Reinickendorfer Straße,T,12:57
+M2011,U5,Magdalenenstraße,T,13:43
+M2012,U5,Lichtenberg,T,16:46
+M2014,U5,Weberwiese,W,12:23
+M2015,U7,Hermannplatz,W,12:26
+M2016,U7,Blaschkoallee,W,12:33
+M2017,U7,Rathaus Neukölln,W,12:52
+M2019,U5,Lichtenberg,W,13:45
+M2020,U9,Leopoldplatz,W,13:52
+M2022,U7,Rathaus Neukölln,Z,08:32
+M2023,U5,Berlin Hauptbahnhof,Z,09:26
+M2024,U5,Samariterstraße,Z,10:14
+M2025,S41,Schönhauser Allee,Z,12:12
+M2026,U5,Alexanderplatz,M,18:56
+M2027,U8,Schönleinstraße,T,06:38
+M2028,U7,Rathaus Spandau,T,07:50
+M2029,U8,Osloer Straße,T,08:30
+M2031,U7,Rohrdamm,T,09:48
+M2032,U8,Voltastraße,T,10:22
+M2033,U8,Hermannplatz,T,10:23
+M2035,U8,Gesundbrunnen,T,11:37
+M2036,S2,Oranienburger Straße,T,11:45
+M2037,U6,Alt-Mariendorf,T,11:46
+M2038,U8,Hermannplatz,T,12:10
+M2039,U2,Gleisdreieck,T,13:42
+M2041,U6,Kaiserin-Augusta-straße,T,15:16
+M2042,U6,Alt-Mariendorf,T,16:22
+M2043,U6,Tempelhof,T,18:12
+M2045,U6,Reinickendorfer Straße,W,07:42
+M2046,S46,Schöneweide,W,07:45
+M2047,U8,Pankstraße,W,09:22
+M2048,U9,Spichernstraße,W,09:55
+M2049,S42,Landsberger Allee,W,10:06
+M2050,S41,Tempelhof,W,10:07
+M2051,U5,Kienberg,W,10:32
+M2052,S42,Tempelhof,W,10:32
+M2053,U6,Alt-Tempelhof,W,11:05
+M2055,U2,Alexanderplatz,W,11:25
+M2056,U6,Stadtmitte,W,11:45
+M2057,U6,Alt-Mariendorf,W,12:20
+M2058,U6,Ullsteinstraße,W,12:44
+M2060,U8,Alexanderplatz,W,13:04
+M2061,U8,Osloer Straße,Z,08:31
+M2063,U8,Alexanderplatz,Z,09:39
+M2064,U2,Rosa-Luxemburg-Platz,Z,09:41
+M2065,U2,Spittelmarkt,Z,10:29
+M2066,U6,Mehringdamm,Z,10:32
+M2067,S7,Hackescher Markt,Z,10:32
+M2068,U6,Stadtmitte,Z,10:36
+M2069,U7,Karl-Marx-straße,Z,11:35
+M2070,S42,Hermannstraße,Z,11:55
+M2071,U7,Karl-Marx-straße,Z,11:55
+M2072,U9,Hansaplatz,Z,12:02
+M2073,U8,Alexanderplatz,Z,12:25
+M2075,U6,Ullsteinstraße,Z,14:45
+M2076,U6,Tempelhof,Z,14:51
+M2077,U6,Kaiserin-Augusta-straße,Z,18:12
+M2078,U8,Osloer Straße,F,07:14
+M2079,U6,Mehringdamm,F,09:46
+M2081,S42,Hermannstraße,F,10:53
+M2082,U8,Hermannstraße,F,11:44
+M2083,S47,Hermannstraße,F,11:49
+M2084,U8,Gesundbrunnen,F,12:00
+M2086,U6,Tempelhof,F,14:15
+M2087,U6,Platz der Vereinten Nationen,F,16:10
+M2088,U2,Hausvogteiplatz,F,16:21
+M2090,U6,Schwartzkopffstraße,W,10:35
+M2091,U5,Samariterstraße,W,11:17
+M2092,U5,Unter den Linden,W,13:02
+M2093,U5,Hönow,W,13:03
+M2094,U5,Samariterstraße,W,13:08
+M2096,U1,Schlesisches Tor,W,13:53
+M2097,U5,Magdalenenstraße,W,13:54
+M2098,U6,Reinickendorfer Straße,W,14:19
+M2099,U7,Rathaus Neukölln,W,14:23
+M2100,U5,Schillingstraße,W,17:22
+M2101,U9,Amrumer Straße,W,17:28
+M2102,U9,Leopoldplatz,Z,08:21
+M2103,S41,Hohenzollerndamm,Z,08:34
+M2104,U5,Frankfurter Allee,Z,08:45
+M2106,U9,Amrumer Straße,Z,08:59
+M2107,U7,Mehringdamm,Z,09:01
+M2108,U5,Lichtenberg,Z,09:17
+M2109,U5,Weberwiese,Z,09:44
+M2110,U7,Bayerischer Platz,Z,10:21
+M2111,U8,Weinmeisterstraße,Z,10:46
+M2112,U8,Hermannplatz,Z,10:59
+M2113,U8,Moritzplatz,Z,11:17
+M2115,U8,Kottbusser Tor,Z,11:25
+M2116,U9,Westhafen,Z,11:27
+M2117,S8,Treptower Straße/Harzer Straße,Z,11:30
+M2118,S41,Landsberger Allee,Z,11:36
+M2119,U8,Pankstraße,Z,12:11
+M2120,U7,Neukölln,Z,12:42
+M2121,U8,Pankstraße,Z,12:45
+M2122,U7,Yorckstraße,Z,12:53
+M2124,U7,Möckernbrücke,Z,13:12
+M2125,S42,Hermannstraße,Z,13:16
+M2126,U9,Osloer Straße,Z,13:31
+M2127,U5,Weberwiese,Z,16:05
+M2128,U5,Strausberger Platz,Z,16:27
+M2129,U5,Rathaus Neukölln/Alfred-Scholz-Platz,Z,17:01
+M2130,S42,Landsberger Allee,Z,17:57
+M2131,U2,Mendelssohn-Bartholdy-Park,Z,20:02
+M2132,S1,Lichterfelde West,Z,21:57
+M2133,S42,Treptower Park,F,08:12
+M2134,U6,Nauener Platz,F,08:22
+M2135,U9,Nauener Platz,F,09:01
+M2136,S1,Brandenburger Tor,F,09:09
+M2137,U8,Gesundbrunnen,F,09:23
+M2138,U5,Strausberger Platz,F,11:42
+M2139,S8,Plänterwald,F,11:53
+M2140,U5,Strausberger Platz,F,12:04
+M2141,U8,Pankstraße,F,12:12
+M2143,U5,Strausberger Platz,F,12:45
+M2144,U7,Fehrbelliner Platz,F,14:32
+M2145,U9,Westhafen,F,15:45
+M2146,U8,Schönleinstraße,F,17:26
+M2148,U5,Schillingstraße,S,12:12
+M2149,U5,Museumsinsel,S,13:57
+M2151,S42,Hermannstraße,U,11:55
+M2152,U5,Alexanderplatz,U,17:54
+M2153,U9,Birkenstraße,U,18:48
+M2154,U8,Osloer Straße,M,07:56
+M2156,U6,Kaiserin-Augusta-straße,M,09:16
+M2157,U7,Blissestraße,M,12:28
+M2158,U9,Osloer Straße,M,12:39
+M2159,U8,Jannowitzbrücke,M,12:58
+M2160,U8,Franz-Neumann-Platz,M,12:58
+M2161,U8,Jannowitzbrücke,M,14:07
+M2162,S9,Tiergarten,M,14:37
+M2163,S7,Berlin Hauptbahnhof,M,15:36
+M2164,S7,Tiergarten,M,15:50
+M2165,U8,Voltastraße,Z,16:11
+M2166,U7,Rathaus Neukölln,Z,16:31
+M2167,U9,Zoologischer Garten,Z,16:58
+M2168,U8,Residenzstraße,Z,17:23
+M2169,U2,Schönhauser Allee,Z,18:02
+M2172,U8,Osloer Straße,F,08:48
+M2173,U6,Hallesches Tor,F,09:09
+M2174,U5,Frankfurter Tor,F,10:05
+M2175,S41,Tempelhof,F,10:16
+M2176,U6,Leopoldplatz,F,10:22
+M2178,U8,Gesundbrunnen,F,13:34
+M2179,U9,Osloer Straße,F,13:45
+M2180,U6,Unter den Linden,F,16:27
+M2181,U8,Rosenthaler Platz,F,16:38
+M2182,U8,Alexanderplatz,F,16:45
+M2183,U8,Rosenthaler Platz,F,17:33
+M2184,S42,Tempelhof,F,19:45
+M2185,U8,Pankstraße,S,11:40
+M2186,U9,Osloer Straße,S,13:25
+M2187,U8,Rosenthaler Platz,S,13:32
+M2188,U8,Residenzstraße,S,15:27
+M2189,U8,Kottbusser Tor,S,16:14
+M2190,U8,Gesundbrunnen,U,11:27
+M2191,U2,Stadtmitte,U,11:53
+M2192,U8,Franz-Neumann-Platz,U,13:23
+M2193,U2,Potsdamer Platz,U,14:41
+M2194,U8,Residenzstraße,U,14:53
+M2197,U5,Berlin Hauptbahnhof,M,08:57
+M2198,U7,Blissestraße,M,10:09
+M2199,U9,Leopoldplatz,M,10:33
+M2201,U5,Friedrichsfelde,M,11:15
+M2203,U7,Rathaus Neukölln,M,13:58
+M2204,U5,Alexanderplatz,M,14:27
+M2205,U8,Rosenthaler Platz,M,14:32
+M2206,U6,Rehberge,M,15:37
+M2207,U5,Samariterstraße,M,16:04
+M2209,U7,Hermannplatz,T,08:40
+M2210,U9,Nauener Platz,T,08:57
+M2211,U9,Leopoldplatz,T,09:28
+M2212,U7,Gneisenaustraße,T,09:48
+M2213,U8,Heinrich-Heine-straße,T,10:16
+M2214,U5,Friedrichsfelde,T,10:55
+M2215,U8,Voltastraße,T,11:00
+M2216,U9,Osloer Straße,T,11:36
+M2217,U7,Wilmersdorfer Straße,T,12:09
+M2218,U8,Osloer Straße,T,12:10
+M2219,U9,Turmstraße,T,12:21
+M2220,U9,Westhafen,T,12:39
+M2222,U5,Frankfurter Allee,T,13:16
+M2224,U3,Görlitzer,T,13:26
+M2225,U8,Kottbusser Tor,T,13:39
+M2226,U6,Schwartzkopffstraße,T,13:44
+M2227,U6,Hallesches Tor,T,16:38
+M2228,U9,Turmstraße,T,16:52
+M2229,U5,Alexanderplatz,T,17:28
+M2230,S41,Storkower Straße,W,08:01
+M2232,U9,Hansaplatz,W,08:09
+M2233,S41,Innsbrucker Platz,W,09:09
+M2234,U7,Eisenacher Straße,W,09:35
+M2236,U5,Strausberger Platz,S,11:51
+M2237,U5,Brandenburger Tor,S,13:24
+M2238,U5,Strausberger Platz,S,14:23
+M2239,U5,Strausberger Platz,S,14:24
+M2241,U9,Bundesplatz,S,15:43
+M2243,U5,Alexanderplatz,S,16:30
+M2244,U5,Alexanderplatz,S,17:46
+M2246,U9,Nauener Platz,U,11:38
+M2247,U5,Alexanderplatz,U,12:04
+M2248,U5,Unter den Linden,U,12:38
+M2249,U7,Bayerischer Platz,U,12:47
+M2250,U7,Konstanzer Straße,U,13:14
+M2251,U5,Frankfurter Allee,U,13:43
+M2253,U7,Neukölln,U,14:50
+M2254,U7,Rathaus Neukölln,U,15:11
+M2255,U9,Hansaplatz,U,15:59
+M2256,U9,Turmstraße,U,16:25
+M2257,U9,Turmstraße,U,17:20
+M2258,S2,Nordbahnhof,U,21:25
+M2259,S25,Brandenburger Tor,M,13:04
+M2260,S25,Tegel,T,07:23
+M2261,S42,Prenzlauer Allee,T,07:26
+M2262,U8,Bernauer Straße,T,08:49
+M2263,U8,Moritzplatz,T,09:08
+M2265,U2,Hausvogteiplatz,T,09:19
+M2266,U2,Hausvogteiplatz,T,12:08
+M2267,U8,Wittenau,T,12:28
+M2268,U8,Weinmeisterstraße,T,12:46
+M2269,U8,Bernauer Straße,T,13:11
+M2270,U8,Moritzplatz,T,13:16
+M2271,U8,Pankstraße,T,16:43
+M2272,U6,Alt-Tempelhof,W,09:11
+M2274,U6,Alt-Mariendorf,W,10:14
+M2275,U8,Rosenthaler Platz,W,10:26
+M2276,U2,Gleisdreieck,W,11:01
+M2277,U8,Bernauer Straße,W,11:18
+M2278,U5,Frankfurter Tor,W,12:00
+M2279,U5,Frankfurter Allee,W,12:13
+M2280,U8,Wittenau,W,12:46
+M2281,S46,Halensee,W,14:14
+M2282,U8,Alexanderplatz,W,14:15
+M2283,U2,Rosa-Luxemburg-Platz,W,14:48
+M2284,U2,Märkisches Museum,W,14:57
+M2285,U3,Möckernbrücke,W,16:32
+M2286,U8,Bernauer Straße,W,17:57
+M2287,U8,Rosenthaler Platz,Z,08:21
+M2288,U8,Hermannplatz,Z,09:19
+M2289,U6,Kaiserin-Augusta-straße,Z,09:24
+M2290,U8,Hermannplatz,Z,09:44
+M2291,U6,Unter den Linden,Z,10:00
+M2292,U6,Unter den Linden,Z,10:15
+M2293,U8,Bernauer Straße,Z,10:38
+M2294,U6,Leopoldplatz,Z,10:53
+M2296,U6,Rehberge,Z,12:17
+M2297,U6,Rehberge,Z,13:22
+M2299,U8,Weinmeisterstraße,Z,13:58
+M2300,U8,Weinmeisterstraße,Z,14:02
+M2301,U8,Pankstraße,Z,14:04
+M2302,U8,Kottbusser Tor,Z,14:14
+M2303,U8,Pankstraße,Z,14:28
+M2304,U6,Leopoldplatz,Z,14:29
+M2305,U8,Wittenau,Z,14:47
+M2307,U5,Frankfurter Tor,M,17:51
+M2309,U5,Unter den Linden,T,09:06
+M2311,U8,Hermannplatz,T,09:14
+M2312,U7,Bayerischer Platz,T,09:40
+M2313,U5,Magdalenenstraße,T,09:47
+M2314,U8,Voltastraße,T,09:51
+M2315,U8,Hermannplatz,T,09:58
+M2316,U7,Karl-Marx-straße,T,10:15
+M2317,U5,Frankfurter Allee,T,10:21
+M2318,U8,Hermannplatz,T,10:40
+M2319,S41,Südkreuz,T,13:27
+M2320,U9,Nauener Platz,T,13:51
+M2321,U5,Unter den Linden,T,13:59
+M2322,U6,Rotes Rathaus,T,14:09
+M2324,U9,Leopoldplatz,T,18:13
+M2325,U9,Turmstraße,T,18:59
+M2328,U5,Frankfurter Allee,W,08:58
+M2329,U5,Große-Leege-straße/Freienwalder Straße,W,09:12
+M2330,U5,Unter den Linden,W,09:27
+M2332,U5,Strausberger Platz,W,11:35
+M2333,U5,Alexanderplatz,W,12:15
+M2334,U9,Nauener Platz,W,12:19
+M2336,U5,Frankfurter Allee,W,13:06
+M2337,U5,Frankfurter Allee,W,13:09
+M2338,U9,Osloer Straße,W,13:25
+M2339,U9,Nauener Platz,W,13:53
+M2340,S42,Hermannstraße,W,13:56
+M2341,U7,Jakob-Kaiser-Platz,W,15:09
+M2342,U8,Rosenthaler Platz,W,15:17
+M2343,U9,Leopoldplatz,W,19:17
+M2344,S42,Bundesplatz,Z,08:24
+M2345,U6,Unter den Linden,Z,08:25
+M2346,S42,Halensee,Z,08:34
+M2347,U9,Birkenstraße,Z,08:44
+M2348,U5,Frankfurter Tor,Z,08:44
+M2349,U9,Leopoldplatz,Z,08:58
+M2350,U9,Nauener Platz,Z,09:08
+M2351,U9,Nauener Platz,Z,09:27
+M2352,U3,Gleisdreieck,Z,12:47
+M2354,U7,Südstern,Z,14:07
+M2355,S7,Ostbahnhof,Z,14:55
+M2356,U9,Hansaplatz,Z,15:42
+M2357,S2,Friedrichstraße,Z,17:09
+M2358,S1,Friedrichstraße,Z,17:10
+M2359,U5,Lichtenberg,F,09:03
+M2360,U5,Frankfurter Tor,F,13:54
+M2361,U5,Museumsinsel,F,14:32
+M2362,U5,Museumsinsel,F,15:56
+M2363,U7,Yorckstraße,W,12:22
+M2364,U2,Alexanderplatz,W,12:28
+M2365,U8,Hermannplatz,W,13:56
+M2366,U6,Friedrichstraße,W,14:19
+M2368,U7,Tempelhof,W,16:01
+M2370,U8,Hermannplatz,Z,09:46
+M2371,S41,Schönhauser Allee,Z,10:16
+M2372,U6,Hallesches Tor,Z,10:32
+M2374,U6,Oranienburger Tor,Z,10:47
+M2376,U9,Hansaplatz,Z,12:07
+M2377,U8,Alexanderplatz,Z,12:09
+M2378,U8,Alexanderplatz,Z,12:19
+M2379,U8,Alexanderplatz,Z,12:39
+M2380,U6,Friedrichstraße,Z,12:53
+M2381,U8,Schönleinstraße,Z,13:08
+M2382,U8,Moritzplatz,Z,13:20
+M2383,U8,Alexanderplatz,Z,14:18
+M2384,U6,Paradestraße,Z,14:40
+M2385,U6,Alt-Mariendorf,Z,15:15
+M2386,S47,Vom Guten Hirten,Z,16:09
+M2387,U6,Kochstraße,Z,16:55
+M2388,U6,Schwartzkopffstraße,Z,17:48
+M2389,U6,Rehberge,Z,18:19
+M2390,U6,Rehberge,Z,18:22
+M2391,U6,Reinickendorfer Straße,F,08:55
+M2392,U8,Kottbusser Tor,F,09:42
+M2393,U7,Adenauerplatz,F,09:46
+M2394,S5,Berlin Hauptbahnhof,F,09:59
+M2395,U9,Osloer Straße,F,12:29
+M2396,S41,Tempelhof,F,12:43
+M2397,U9,Osloer Straße,F,12:55
+M2398,U6,Alt-Mariendorf,F,13:42
+M2399,U8,Jannowitzbrücke,F,14:06
+M2400,U8,Hermannstraße,F,15:54
+M2401,U8,Gesundbrunnen,F,16:02
+M2402,U8,Alexanderplatz,F,22:14
+M2403,U8,Alexanderplatz,S,11:27
+M2404,U8,Schönleinstraße,S,11:47
+M2405,U8,Alexanderplatz,S,12:03
+M2406,U8,Hermannplatz,S,13:37
+M2407,U8,Moritzplatz,S,14:28
+M2408,U8,Boddinstraße,S,15:08
+M2409,U8,Voltastraße,S,16:06
+M2410,U8,Pankstraße,S,16:26
+M2411,U8,Osloer Straße,S,16:59
+M2412,U8,Kottbusser Tor,S,17:15
+M2413,U8,Voltastraße,S,17:33
+M2414,S42,Landsberger Allee,U,07:52
+M2416,U2,Klosterstraße,U,11:48
+M2417,U8,Alexanderplatz,U,13:52
+M2419,U6,Unter den Linden,U,18:16
+M2422,S5,Berlin Hauptbahnhof,M,13:15
+M2423,U5,Frankfurter Allee,M,13:25
+M2424,U5,Unter den Linden,M,14:30
+M2425,U5,Alexanderplatz,M,14:57
+M2426,U8,Kottbusser Tor,M,15:03
+M2427,U9,Turmstraße,Z,12:34
+M2428,U7,Mehringdamm,Z,12:35
+M2429,U5,Frankfurter Tor,Z,12:52
+M2430,U9,Leopoldplatz,Z,13:02
+M2431,S3,Tiergarten,Z,13:22
+M2432,U9,Osloer Straße,Z,14:59
+M2433,U9,Zoologischer Garten,F,08:53
+M2434,S41,Greifswalder Straße,F,09:01
+M2435,U2,Spittelmarkt,F,09:36
+M2437,U7,Karl-Marx-straße,F,10:09
+M2438,U7,Rathaus Neukölln,F,10:39
+M2439,U9,Nauener Platz,F,12:01
+M2440,U5,Museumsinsel,F,12:42
+M2441,U9,Amrumer Straße,F,12:45
+M2442,U9,Nauener Platz,S,15:07
+M2443,U9,Amrumer Straße,S,16:21
+M2446,U5,Weberwiese,U,12:04
+M2447,U5,Magdalenenstraße,U,15:07
+M2448,U5,Lindenhof,U,17:07
+M2449,U9,Leopoldplatz,U,17:14
+M2450,U8,Gesundbrunnen,M,07:01
+M2451,U8,Paracelsus-Bad,M,08:10
+M2452,U8,Alexanderplatz,M,10:24
+M2453,U9,Turmstraße,M,10:53
+M2454,U8,Kottbusser Tor,M,10:55
+M2455,U8,Pankstraße,M,11:48
+M2456,U8,Pankstraße,M,12:12
+M2457,S42,Schönhauser Allee,M,12:18
+M2458,U8,Alexanderplatz,M,12:34
+M2459,U6,Schwartzkopffstraße,M,13:23
+M2460,U6,Unter den Eichen/Botanischer Garten,M,13:27
+M2461,U6,Oranienburger Tor,M,14:14
+M2463,U3,Görlitzer,M,15:40
+M2465,U8,Hermannplatz,T,09:18
+M2466,U9,Hansaplatz,T,09:23
+M2468,U8,Moritzplatz,T,11:54
+M2469,U8,Alexanderplatz,T,14:04
+M2470,U8,Pankstraße,T,14:47
+M2471,U6,Paradestraße,T,15:07
+M2472,U6,Unter den Linden,T,17:21
+M2473,U6,Unter den Linden,T,17:22
+M2474,S42,Tempelhof,T,17:25
+M2476,U8,Pankstraße,W,08:07
+M2477,U8,Weinmeisterstraße,W,09:17
+M2478,U2,Alexanderplatz,W,09:46
+M2480,U8,Kottbusser Tor,W,10:31
+M2481,U6,Wedding,W,11:10
+M2483,U8,Schönleinstraße,U,18:29
+M2485,U5,Unter den Linden,M,07:44
+M2486,U8,Rosenthaler Platz,M,08:59
+M2487,U8,Rosenthaler Platz,M,08:59
+M2489,U8,Rosenthaler Platz,M,10:17
+M2491,U7,Hermannplatz,M,12:48
+M2492,U6,Hallesches Tor,M,13:03
+M2493,S2,Gesundbrunnen,M,13:40
+M2495,S46,Hermannstraße,M,17:10
+M2496,S3,Wuhlheide,T,06:45
+M2497,U9,Hansaplatz,T,08:29
+M2498,U5,Museumsinsel,T,08:30
+M2499,U7,Grenzallee,T,09:16
+M2500,U9,Kurfürstendamm,T,11:12
+M2502,U7,Hermannplatz,T,11:34
+M2503,U7,Gneisenaustraße,T,11:40
+M2505,U9,Amrumer Straße,T,12:10
+M2506,U9,Zoologischer Garten,T,12:15
+M2507,U7,Rohrdamm,T,12:29
+M2508,U8,Rosenthaler Platz,T,12:37
+M2509,U7,Halemweg,T,12:42
+M2510,U5,Alexanderplatz,T,13:06
+M2511,U7,Wilmersdorfer Straße,T,13:57
+M2512,U9,Hansaplatz,T,14:40
+M2513,U5,Rotes Rathaus,T,15:45
+M2515,U9,Hansaplatz,T,16:11
+M2516,U7,Adenauerplatz,T,17:02
+M2517,S42,Hermannstraße,T,17:54
+M2518,U5,Schillingstraße,T,18:36
+M2520,U8,Gesundbrunnen,W,08:58
+M2521,U7,Richard-Wagner-Platz,W,10:12
+M2522,U6,Kurt-Schumacher-Platz,W,10:59
+M2523,U5,Samariterstraße,W,11:32
+M2525,U9,Birkenstraße,W,12:23
+M2526,U5,Frankfurter Tor,W,12:55
+M2527,S46,Hermannstraße,W,12:58
+M2528,U5,Schillingstraße,W,13:04
+M2529,U5,Frankfurter Allee,W,15:22
+M2530,U6,Mehringdamm,W,15:49
+M2531,U5,Samariterstraße,W,16:31
+M2532,U5,Frankfurter Tor,W,16:34
+M2533,U9,Hansaplatz,W,16:41
+M2536,U9,Amrumer Straße,Z,08:44
+M2537,U9,Westhafen,Z,08:47
+M2538,U9,Birkenstraße,Z,08:49
+M2539,S1,Rathaus Steglitz,Z,09:21
+M2540,U8,Rosenthaler Platz,Z,09:41
+M2541,U7,Hermannplatz,Z,09:47
+M2543,U5,Magdalenenstraße,Z,10:07
+M2544,S41,Bundesplatz,Z,10:19
+M2545,S7,Tiergarten,Z,10:21
+M2547,U9,Zoologischer Garten,Z,10:33
+M2548,U5,Kaulsdorf,Z,11:23
+M2549,U9,Westhafen,Z,11:26
+M2550,U8,Hermannstraße,T,09:39
+M2551,U8,Jannowitzbrücke,T,09:48
+M2552,U8,Franz-Neumann-Platz,T,09:52
+M2553,U8,Kottbusser Tor,T,11:32
+M2554,S8,Treptower Park,T,11:33
+M2555,U6,Reinickendorfer Straße,T,11:39
+M2556,U2,Alexanderplatz,T,11:42
+M2557,U8,Große-Leege-straße/Freienwalder Straße,T,13:30
+M2559,U8,Bernauer Straße,T,13:41
+M2560,U8,Alexanderplatz,T,13:48
+M2561,U7,Mehringdamm,T,14:03
+M2562,U6,Friedrichstraße,T,14:13
+M2564,U6,Leopoldplatz,T,18:04
+M2565,U5,Frankfurter Allee,W,04:58
+M2566,U8,Osloer Straße,W,07:09
+M2567,U8,Moritzplatz,W,08:33
+M2568,U6,Ullsteinstraße,W,08:42
+M2569,U6,Westphalweg,W,09:04
+M2570,U6,Reinickendorfer Straße,W,09:08
+M2572,U8,Hermannplatz,W,10:31
+M2573,U8,Franz-Neumann-Platz,W,10:36
+M2574,U8,Hermannstraße,W,11:19
+M2577,U6,Naturkundemuseum,W,13:36
+M2578,U6,Unter den Linden,W,13:51
+M2579,U2,Rosa-Luxemburg-Platz,W,14:01
+M2580,U6,Unter den Linden,W,14:07
+M2581,U2,Eberswalder Straße,W,14:10
+M2582,U8,Osloer Straße,W,14:27
+M2583,U9,Bundesplatz,W,14:42
+M2584,U8,Alexanderplatz,W,15:09
+M2585,S41,Treptower Park,W,15:38
+M2587,U8,Pankstraße,Z,08:23
+M2588,U6,Platz der Vereinten Nationen,Z,08:26
+M2589,U6,Hallesches Tor,Z,08:36
+M2591,U6,Tempelhof,Z,09:23
+M2592,U2,Stadtmitte,Z,10:10
+M2593,U6,Oranienburger Tor,Z,10:19
+M2594,U6,Tempelhof,Z,10:35
+M2595,U8,Franz-Neumann-Platz,Z,10:37
+M2596,U6,Friedrichstraße,Z,11:23
+M2597,U8,Voltastraße,Z,11:37
+M2598,U6,Kochstraße,Z,12:21
+M2599,S42,Halensee,Z,12:30
+M2600,U8,Jannowitzbrücke,Z,12:42
+M2601,U8,Heinrich-Heine-straße,Z,13:46
+M2602,M29,Görlitzer,Z,14:32
+M2603,M29,Lindenstraße/Waltersdorfer Straße,Z,15:26
+M2604,U5,Strausberger Platz,Z,15:33
+M2605,U8,Voltastraße,Z,16:14
+M2606,U8,Rosenthaler Platz,Z,16:46
+M2607,U6,Leopoldplatz,Z,18:10
+M2608,U8,Rosenthaler Platz,Z,18:26
+M2609,U8,Heinrich-Heine-straße,F,08:31
+M2610,U8,Alexanderplatz,F,09:36
+M2612,U6,Tempelhof,F,10:59
+M2613,U8,Pankstraße,F,12:04
+M2614,U8,Alexanderplatz,F,12:39
+M2615,U8,Wittenau,F,12:47
+M2616,U8,Pankstraße,F,13:29
+M2617,U8,Rosenthaler Platz,F,14:06
+M2618,U6,Kochstraße,F,14:51
+M2620,U8,Rosenthaler Platz,S,11:46
+M2621,U8,Residenzstraße,S,17:43
+M2622,S1,Anhalter,U,02:13
+M2623,U2,Spittelmarkt,U,12:10
+M2624,S7,Friedrichstraße,U,12:15
+M2625,U9,Zoologischer Garten,U,14:18
+M2626,U8,Rosenthaler Platz,F,11:59
+M2627,U8,Schönleinstraße,F,12:19
+M2628,U8,Boddinstraße,F,14:00
+M2629,U6,Leopoldplatz,S,11:21
+M2630,S6,Wedding,U,11:28
+M2631,U6,Friedrichstraße,U,11:46
+M2633,U6,Leopoldplatz,U,13:47
+M2634,U8,Osloer Straße,U,13:48
+M2635,U8,Jannowitzbrücke,U,15:57
+M2636,U6,Leopoldplatz,U,16:27
+M2637,U3,Prinzenstraße,U,16:34
+M2638,U6,Leopoldplatz,U,17:00
+M2639,U9,Nauener Platz,M,07:28
+M2640,U9,Amrumer Straße,M,09:08
+M2641,U7,Halemweg,M,11:26
+M2642,U7,Hermannplatz,M,12:27
+M2643,U5,Frankfurter Tor,M,14:23
+M2644,U6,Rehberge,T,08:35
+M2646,U9,Leopoldplatz,T,09:34
+M2647,U6,Wedding,T,12:26
+M2651,S1,Nordbahnhof,Z,17:46
+M2652,U2,Zoologischer Garten,F,12:18
+M2653,U5,Frankfurter Tor,F,12:54
+M2654,U5,Alexanderplatz,F,16:15
+M2655,U5,Frankfurter Allee,F,16:33
+M2657,S8,Baumschulenweg,S,09:17
+M2659,U7,Mehringdamm,S,13:04
+M2660,U9,Leopoldplatz,S,14:58
+M2661,U5,Lichtenberg,S,15:12
+M2662,U9,Leopoldplatz,S,15:54
+M2663,S42,Südkreuz,S,19:35
+M2664,U9,Amrumer Straße,U,11:59
+M2665,U9,Amrumer Straße,U,11:59
+M2666,U9,Amrumer Straße,U,12:26
+M2667,U5,Frankfurter Allee,U,12:34
+M2668,U7,Südstern,U,13:52
+M2669,U5,Berlin Hauptbahnhof,U,14:07
+M2670,U7,Rathaus Spandau,U,15:32
+M2673,U5,Unter den Linden,U,17:20
+M2674,U5,Museumsinsel,U,17:39
+M2675,U8,Boddinstraße,M,09:11
+M2676,U6,Kurt-Schumacher-Platz,M,09:32
+M2677,S41,Heidelberger Platz,M,09:37
+M2678,U8,Schönleinstraße,M,09:46
+M2679,U6,Hallesches Tor,M,09:49
+M2680,U8,Hermannplatz,M,09:49
+M2681,U6,Friedrichstraße,M,10:23
+M2682,U8,Osloer Straße,M,12:41
+M2683,U8,Weinmeisterstraße,M,12:42
+M2684,U6,Reinickendorfer Straße,M,12:47
+M2685,U6,Alt-Reinickendorf,M,14:05
+M2686,U8,Hermannplatz,M,14:23
+M2687,U8,Moritzplatz,M,15:13
+M2688,U8,Pankstraße,M,16:35
+M2690,U8,Heinrich-Heine-straße,T,08:12
+M2691,U6,Oranienburger Tor,T,08:15
+M2692,S2,Pankow,T,08:56
+M2693,U8,Weinmeisterstraße,T,09:12
+M2694,U8,Alexanderplatz,T,09:20
+M2695,U8,Hermannplatz,T,09:34
+M2696,U7,Mierendorffplatz,W,08:31
+M2698,U5,Samariterstraße,W,08:49
+M2699,S9,Spandau,W,10:09
+M2700,U6,Kochstraße,W,11:20
+M2701,S3,Warschauer Straße,W,11:52
+M2702,U7,Hermannplatz,W,12:11
+M2703,U9,Westhafen,W,14:01
+M2704,U8,Rosenthaler Platz,W,14:14
+M2705,U2,Klosterstraße,W,18:32
+M2706,U7,Hermannplatz,Z,08:29
+M2708,U5,Schillingstraße,Z,08:42
+M2709,U7,Konstanzer Straße,Z,08:47
+M2710,U5,Frankfurter Tor,Z,08:48
+M2711,U5,Magdalenenstraße,Z,09:39
+M2712,S9,Friedrichstraße,Z,10:39
+M2713,U5,Frankfurter Tor,Z,11:21
+M2714,U5,Wuhletal,Z,12:29
+M2715,U5,Biesdorf,Z,12:35
+M2716,U8,Moritzplatz,Z,12:57
+M2721,U5,Strausberger Platz,Z,17:40
+M2722,U5,Frankfurter Allee,F,13:09
+M2723,U9,Amrumer Straße,S,11:38
+M2724,U5,Strausberger Platz,S,12:35
+M2725,U7,Karl-Marx-straße,U,16:03
+M2726,S1,Brandenburger Tor,U,16:06
+M2727,U9,Leopoldplatz,U,16:41
+M2728,U3,Kottbusser Tor,M,09:00
+M2730,U5,Tierpark,M,09:41
+M2731,U8,Hermannstraße,M,09:45
+M2732,U8,Rosenthaler Platz,M,09:55
+M2734,S46,Köllnische Heide,M,14:09
+M2735,U9,Leopoldplatz,M,14:59
+M2736,U6,Friedrichstraße,T,13:49
+M2737,U8,Pankstraße,T,14:31
+M2738,U8,Rosenthaler Platz,W,13:16
+M2742,U8,Bernauer Straße,Z,15:19
+M2744,U8,Kottbusser Tor,W,16:11
+M2745,U2,Alexanderplatz,W,16:41
+M2746,U5,Frankfurter Allee,Z,08:39
+M2747,U6,Hallesches Tor,Z,09:07
+M2748,S45,Tempelhof,Z,11:34
+M2749,U5,Frankfurter Allee,Z,12:43
+M2750,U7,Möckernbrücke,Z,12:55
+M2751,U8,Wittenau,Z,14:42
+M2752,U9,Birkenstraße,Z,15:52
+M2753,U2,Klosterstraße,Z,16:32
+M2754,U2,Alexanderplatz,Z,16:53
+M2755,M10,Frankfurter Tor,F,09:04
+M2756,U9,Turmstraße,F,09:35
+M2757,S41,Wedding,F,13:00
+M2758,U2,Eberswalder Straße,F,15:22
+M2759,S1,Anhalter,S,04:40
+M2760,X10,Andréezeile,S,15:14
+M2762,U8,Wittenau,S,17:45
+M2763,U8,Jannowitzbrücke,U,12:46
+M2764,U8,Weinmeisterstraße,U,13:08
+M2765,U8,Rosenthaler Platz,U,13:31
+M2766,U8,Heinrich-Heine-straße,U,13:43
+M2767,U8,Bernauer Straße,U,15:13
+M2769,U8,Bernauer Straße,U,16:13
+M2770,S5,Friedrichstraße,U,16:22
+M2771,U8,Kottbusser Tor,U,18:13
+M2772,U6,Wedding,U,18:46
+M2773,U5,Samariterstraße,M,07:32
+M2774,U5,Alexanderplatz,M,08:14
+M2775,U9,Nauener Platz,M,09:48
+M2776,U9,Zoologischer Garten,M,09:51
+M2777,U9,Westhafen,M,10:05
+M2778,S41,Tempelhof,M,12:24
+M2780,U8,Franz-Neumann-Platz,M,13:36
+M2781,U9,Leopoldplatz,M,14:35
+M2783,U6,Wedding,M,15:48
+M2784,U8,Rosenthaler Platz,M,16:06
+M2785,U3,Krumme Lanke,M,17:14
+M2786,U5,Alexanderplatz,M,17:27
+M2787,U5,Frankfurter Allee,T,08:14
+M2788,U5,Magdalenenstraße,T,09:29
+M2789,U7,Karl-Marx-straße,T,09:45
+M2790,U6,Tempelhof,T,09:51
+M2791,U7,Paulsternstraße,T,10:24
+M2793,U7,Hermannplatz,T,10:57
+M2794,U5,Unter den Linden,T,11:11
+M2795,S42,Hermannstraße,T,11:25
+M2796,U5,Weberwiese,T,12:24
+M2797,U5,Unter den Linden,T,12:33
+M2799,U5,Friedrichsfelde,T,13:39
+M2800,U5,Alexanderplatz,T,14:28
+M2802,U5,Lichtenberg,W,08:20
+M2803,U1,Prinzenstraße,Z,15:21
+M2805,U6,Tempelhof,F,08:48
+M2806,S45,Hermannstraße,F,08:54
+M2807,U7,Hermannplatz,F,09:06
+M2808,U5,Lichtenberg,F,09:11
+M2809,U8,Hermannplatz,F,09:18
+M2810,U5,Strausberger Platz,F,09:45
+M2811,U5,Weberwiese,F,12:29
+M2812,U6,Tempelhof,F,13:09
+M2813,U6,Naturkundemuseum,F,13:17
+M2815,U6,Stadtmitte,F,14:23
+M2816,U5,Friedrichsfelde,F,14:27
+M2817,U7,Berliner Straße,S,12:39
+M2818,U7,Jungfernheide,S,15:10
+M2819,U9,Turmstraße,S,15:23
+M2820,U9,Amrumer Straße,S,16:56
+M2821,U9,Zoologischer Garten,S,18:26
+M2822,U9,Westhafen,U,12:34
+M2823,U6,Mehringdamm,U,13:14
+M2824,U9,Hansaplatz,U,16:01
+M2825,U9,Zoologischer Garten,U,16:32
+M2828,S42,Landsberger Allee,M,09:33
+M2829,U8,Gesundbrunnen,M,09:35
+M2830,U7,Neukölln,M,09:43
+M2832,S41,Treptower Straße/Harzer Straße,M,10:23
+M2833,U6,Hallesches Tor,M,10:31
+M2834,S42,Hermannstraße,M,11:02
+M2835,S41,Tempelhof,M,11:31
+M2836,U6,Kochstraße,M,11:34
+M2837,U6,Leopoldplatz,M,12:07
+M2838,U8,Pankstraße,M,12:08
+M2839,U7,Neukölln,M,12:32
+M2840,U6,Leopoldplatz,M,12:46
+M2842,U8,Weinmeisterstraße,M,13:17
+M2843,S42,Tempelhof,M,13:21
+M2845,U6,Unter den Linden,M,13:53
+M2846,S41,Storkower Straße,M,14:30
+M2847,U8,Alexanderplatz,M,16:15
+M2848,U8,Rosenthaler Platz,M,16:52
+M2849,S41,Neukölln,M,16:57
+M2851,U8,Alexanderplatz,M,18:55
+M2852,U6,Alt-Tempelhof,T,08:38
+M2853,S42,Greifswalder Straße,T,08:42
+M2854,S42,Gesundbrunnen,T,08:48
+M2855,U2,Alexanderplatz,T,09:30
+M2858,U6,Naturkundemuseum,T,10:44
+M2859,U8,Hermannplatz,T,10:51
+M2860,U8,Gesundbrunnen,T,11:49
+M2861,U2,Rosa-Luxemburg-Platz,T,13:10
+M2863,U2,Potsdamer Platz,T,16:05
+M2864,U2,Stadtmitte,T,16:27
+M2865,U2,Stadtmitte,T,16:28
+M2866,U8,Bernauer Straße,T,16:33
+M2867,U8,Hermannstraße,T,18:22
+M2868,U6,Schwartzkopffstraße,W,08:26
+M2869,U8,Rosenthaler Platz,W,08:41
+M2871,U6,Oranienburger Tor,W,09:45
+M2872,U8,Rosenthaler Platz,W,10:46
+M2873,U6,Hallesches Tor,W,11:38
+M2874,U6,Schwartzkopffstraße,W,11:43
+M2875,U2,Schönhauser Allee,W,12:25
+M2876,S41,Tempelhof,W,12:51
+M2877,U2,Nollendorfplatz,W,13:31
+M2878,U2,Eberswalder Straße,W,14:43
+M2881,U9,Westhafen,M,08:46
+M2883,U5,Schillingstraße,M,09:10
+M2884,S7,Berlin Hauptbahnhof,M,09:54
+M2885,U8,Pankstraße,M,09:58
+M2886,U9,Amrumer Straße,M,10:01
+M2887,S42,Landsberger Allee,M,11:38
+M2888,U5,Strausberger Platz,M,12:10
+M2889,U1,Schlesisches Tor,M,12:33
+M2890,U8,Pankstraße,M,13:28
+M2892,U6,Naturkundemuseum,M,15:54
+M2894,U9,Leopoldplatz,M,18:50
+M2895,S7,Wannsee,T,08:16
+M2897,U9,Nauener Platz,T,08:37
+M2898,U7,Blaschkoallee,T,08:49
+M2899,U9,Westhafen,T,08:56
+M2900,S42,Storkower Straße,T,09:31
+M2901,U5,Biesdorf-Süd,T,09:34
+M2902,S7,Charlottenburg,T,09:38
+M2903,U5,Unter den Linden,T,09:58
+M2904,S41,Tempelhof,T,11:39
+M2905,S41,Tempelhof,T,12:01
+M2906,U8,Schönleinstraße,T,15:02
+M2909,U7,Karl-Marx-straße,W,08:02
+M2911,U9,Nauener Platz,W,08:58
+M2912,U9,Amrumer Straße,W,09:09
+M2913,U9,Amrumer Straße,W,09:09
+M2914,U5,Frankfurter Allee,W,09:57
+M2915,S7,Berlin Hauptbahnhof,W,10:17
+M2916,U7,Neukölln,W,10:38
+M2917,S42,Gesundbrunnen,W,10:53
+M2920,U9,Leopoldplatz,W,12:33
+M2922,U3,Kottbusser Tor,W,13:42
+M2923,M48,Albertstraße,W,14:14
+M2924,U9,Nauener Platz,W,14:17
+M2925,U7,Richard-Wagner-Platz,W,17:28
+M2926,U2,Nollendorfplatz,Z,08:10
+M2927,U8,Weinmeisterstraße,Z,08:35
+M2928,U9,Leopoldplatz,Z,08:47
+M2930,U6,Tempelhof,Z,09:04
+M2932,U8,Schönleinstraße,Z,09:52
+M2933,U9,Leopoldplatz,Z,09:58
+M2934,U6,Rehberge,Z,10:02
+M2935,S41,Frankfurter Allee,Z,10:52
+M2936,U5,Strausberger Platz,Z,11:05
+M2937,U7,Südstern,Z,11:17
+M2938,U5,Strausberger Platz,Z,11:25
+M2939,U8,Hermannplatz,Z,11:27
+M2940,U7,Blissestraße,Z,11:35
+M2941,S7,Nikolassee,Z,11:36
+M2942,S41,Tempelhof,Z,12:02
+M2943,U9,Leopoldplatz,Z,12:29
+M2945,U7,Wutzkyallee,Z,13:38
+M2946,U7,Spandau,Z,13:55
+M2948,U6,Reinickendorfer Straße,T,08:32
+M2950,U9,Turmstraße,T,08:52
+M2951,S41,Bundesplatz,T,09:10
+M2952,S42,Treptower Park,T,09:34
+M2953,U6,Mehringdamm,T,11:13
+M2954,U6,Friedrichstraße,T,11:34
+M2955,U8,Kottbusser Tor,T,11:45
+M2956,U8,Heinrich-Heine-straße/Annenstraße,T,12:05
+M2957,U6,Alt-Tempelhof,T,12:29
+M2958,U6,Leopoldplatz,T,12:31
+M2960,U8,Voltastraße,T,12:42
+M2961,U6,Afrikanische Straße,T,12:47
+M2962,U8,Weinmeisterstraße,T,12:47
+M2964,U6,Stadtmitte,T,14:26
+M2965,U2,Rosa-Luxemburg-Platz,T,16:56
+M2968,S7,Wannsee,W,08:33
+M2969,U5,Alexanderplatz,W,08:44
+M2970,U2,Potsdamer Platz,W,08:49
+M2971,S42,Wedding,W,08:57
+M2972,U6,Wedding,W,09:10
+M2973,U6,Rehberge,W,09:31
+M2974,U6,Reinickendorfer Straße,W,11:35
+M2975,U8,Kottbusser Tor,W,12:08
+M2976,U6,Leopoldplatz,W,12:22
+M2977,U8,Alexanderplatz,W,13:01
+M2978,U8,Alexanderplatz,W,13:03
+M2979,U8,Pankstraße,W,13:11
+M2980,U8,Wittenau,W,13:26
+M2981,U2,Alexanderplatz,W,14:29
+M2982,U8,Weinmeisterstraße,W,17:24
+M2983,U8,Alexanderplatz,W,17:26
+M2984,U6,Leopoldplatz,Z,08:43
+M2985,U8,Gesundbrunnen,Z,09:03
+M2986,U6,Kochstraße,Z,10:01
+M2987,U6,Alt-Mariendorf,Z,10:09
+M2988,U9,Zoologischer Garten,Z,10:53
+M2989,U2,Gleisdreieck,Z,11:00
+M2990,U2,Rosa-Luxemburg-Platz,Z,14:11
+M2991,U8,Hermannstraße,F,10:19
+M2992,S41,Ostkreuz,F,10:56
+M2993,U6,Rehberge,F,12:11
+M2994,U2,Potsdamer Platz,F,13:46
+M2995,U2,Gleisdreieck,F,15:56
+M2997,S42,Hermannstraße,S,11:48
+M2998,U8,Rosenthaler Straße,S,13:45
+M2999,S42,Frankfurter Allee,U,04:34
+M3000,U8,Bernauer Straße,U,11:35
+M3001,U6,Naturkundemuseum,U,13:19
+M3004,U5,Magdalenenstraße,W,16:11
+M3005,U7,Jakob-Kaiser-Platz,W,16:52
+M3007,U5,Alexanderplatz,W,18:03
+M3011,U9,Leopoldplatz,Z,09:59
+M3012,U5,Hönow,Z,10:25
+M3013,S42,Treptower Straße/Harzer Straße,Z,10:29
+M3014,U3,Fehrbelliner Platz,Z,12:17
+M3015,U9,Zoologischer Garten/Jebensstraße,Z,13:02
+M3016,U9,Zoologischer Garten,Z,13:15
+M3018,U6,Friedrichstraße,Z,15:30
+M3019,U9,Turmstraße,Z,16:58
+M3022,U9,Osloer Straße,F,07:35
+M3024,U5,Schillingstraße,F,08:23
+M3025,U5,Frankfurter Tor,F,08:40
+M3028,U5,Unter den Linden,F,09:47
+M3029,U7,Bayerischer Platz,F,09:50
+M3030,S1,Wannsee,F,10:02
+M3031,U7,Bayerischer Platz,F,10:51
+M3032,U9,Osloer Straße,F,11:25
+M3034,U2,Alexanderplatz,F,12:20
+M3035,U5,Frankfurter Allee,F,12:46
+M3037,U5,Friedrichsfelde,F,14:48
+M3038,U5,Alexanderplatz,F,15:40
+M3039,U5,Frankfurter Tor,F,16:51
+M3040,S42,Grünau,F,18:01
+M3041,U5,Magdalenenstraße,S,12:14
+M3042,U5,Berlin Hauptbahnhof,S,14:41
+M3043,U5,Weberwiese,S,14:48
+M3044,U2,Nollendorfplatz,U,10:12
+M3046,U9,Friedrich-Wilhelm-Platz,U,13:10
+M3047,U9,Amrumer Straße,U,13:20
+M3048,U5,Lichtenberg,U,13:24
+M3049,U5,Magdalenenstraße,U,13:51
+M3050,U5,Magdalenenstraße,U,14:55
+M3051,U7,Neukölln,U,15:09
+M3052,U7,Eisenacher Straße,U,16:24
+M3053,U7,Hermannplatz,U,17:02
+M3054,U5,Alexanderplatz,U,17:09
+M3055,U6,Tempelhof,M,07:57
+M3056,U8,Franz-Neumann-Platz,M,08:17
+M3057,U8,Moritzplatz,M,09:00
+M3058,U8,Osloer Straße,M,09:03
+M3059,M19,Grunewald,M,09:18
+M3060,U7,Eisenacher Straße,M,09:33
+M3061,U8,Weinmeisterstraße,M,09:39
+M3062,U8,Alexanderplatz,M,09:47
+M3063,U8,Jannowitzbrücke,M,10:18
+M3064,U8,Kottbusser Tor,M,10:26
+M3066,U6,Rehberge,M,10:40
+M3067,U6,Seestraße,M,10:41
+M3068,U7,Rudow,M,11:01
+M3069,U6,Hallesches Tor,M,11:04
+M3071,U8,Wittenau,M,14:25
+M3073,U6,Kurt-Schumacher-Platz,M,14:38
+M3074,U8,Bernauer Straße,M,15:43
+M3076,U3,Nollendorfplatz,M,16:00
+M3077,U6,Mehringdamm,M,16:16
+M3078,S42,Tempelhof,M,16:26
+M3079,U6,Unter den Linden,M,16:42
+M3080,U9,Leopoldplatz,T,08:06
+M3081,U6,Paradestraße,F,13:09
+M3082,U8,Alexanderplatz,F,13:46
+M3083,U8,Hermannstraße,F,14:04
+M3084,X2,Hermannstraße,F,14:19
+M3085,S3,Berlin Hauptbahnhof,F,14:24
+M3086,U8,Leinestraße,F,14:26
+M3087,U2,Alexanderplatz,F,15:07
+M3088,U8,Rosenthaler Platz,F,16:04
+M3089,U3,Hallesches Tor,F,16:05
+M3090,U6,Stadtmitte,F,16:48
+M3091,U8,Weinmeisterstraße,S,12:38
+M3093,U2,Schönhauser Allee,S,13:07
+M3094,U8,Boddinstraße,S,13:50
+M3095,U8,Moritzplatz,S,16:36
+M3096,U8,Schönleinstraße,S,18:28
+M3098,U8,Rosenthaler Platz,U,11:56
+M3099,U6,Hallesches Tor,U,16:45
+M3100,U6,Oranienburger Tor,U,17:38
+M3101,U2,Alexanderplatz,U,18:47
+M3102,U7,Hermannplatz,M,09:07
+M3103,U5,Frankfurter Allee,M,09:19
+M3105,U5,Samariterstraße,M,09:45
+M3107,U7,Karl-Marx-straße,M,10:50
+M3109,U6,Ullsteinstraße,M,12:15
+M3110,U9,Leopoldplatz,M,12:27
+M3113,U5,Frankfurter Allee,M,14:01
+M3114,U3,Warschauer Straße,M,14:14
+M3115,U9,Zoologischer Garten,M,14:26
+M3116,U9,Hansaplatz,M,14:55
+M3117,U5,Friedrichsfelde,M,14:57
+M3118,U8,Kottbusser Tor,M,15:40
+M3119,U9,Spichernstraße,M,16:17
+M3120,U5,Magdalenenstraße,M,16:43
+M3121,U5,Magdalenenstraße,M,17:24
+M3122,U5,Friedrichsfelde,M,18:02
+M3123,U9,Westhafen,M,18:06
+M3125,U5,Frankfurter Tor,T,08:38
+M3126,S2,Lichtenrade,T,08:49
+M3127,S46,Baumschulenweg,T,09:07
+M3129,U5,Samariterstraße,T,09:35
+M3130,U7,Hermannplatz,T,10:27
+M3131,U3,Wittenbergplatz,T,10:52
+M3132,U9,Amrumer Straße,T,10:56
+M3133,U8,Alexanderplatz,T,11:32
+M3134,U8,Franz-Neumann-Platz,T,11:46
+M3135,U7,Spandau,T,12:49
+M3138,U9,Osloer Straße,T,14:37
+M3139,U7,Jungfernheide,T,17:05
+M3140,U8,Kottbusser Tor,T,17:26
+M3141,U5,Alexanderplatz,T,18:23
+M3142,U1,Krumme Lanke,W,07:45
+M3144,U9,Amrumer Straße,W,09:14
+M3145,U8,Rosenthaler Platz,W,09:21
+M3146,U7,Parchimer Allee,W,10:52
+M3147,U3,Hohenzollernplatz,W,12:20
+M3148,S42,Hermannstraße,M,10:44
+M3149,U3,Kurfürstenstraße,M,10:49
+M3150,U8,Residenzstraße,M,12:37
+M3151,U6,Kaiserin-Augusta-straße,M,12:39
+M3152,S1,Friedrichstraße,M,13:40
+M3153,U8,Weinmeisterstraße,M,13:48
+M3154,U8,Bernauer Straße,M,13:51
+M3155,U8,Osloer Straße,M,14:12
+M3156,U8,Voltastraße,M,15:32
+M3157,U2,Alexanderplatz,M,15:42
+M3158,U8,Wittenau,M,15:58
+M3159,U8,Hermannplatz,M,22:50
+M3160,U8,Alexanderplatz,M,23:09
+M3161,S42,Storkower Straße,T,08:39
+M3162,U2,Eberswalder Straße,T,08:42
+M3163,U2,Alexanderplatz,T,08:48
+M3164,U8,Kottbusser Tor,T,10:01
+M3165,U8,Kottbusser Tor,T,10:07
+M3166,U9,Osloer Straße,T,10:09
+M3167,U9,Osloer Straße,T,10:14
+M3169,U6,Alt-Mariendorf,T,10:32
+M3171,U6,Leopoldplatz,T,12:02
+M3172,U8,Boddinstraße,T,12:15
+M3173,U9,Osloer Straße,T,12:19
+M3174,U6,Unter den Linden,T,12:49
+M3175,U2,Zoologischer Garten,T,12:58
+M3176,S1,Schöneberg,T,13:20
+M3177,U2,Spittelmarkt,T,13:50
+M3178,U8,Voltastraße,T,13:51
+M3179,S3,Karlshorst,T,13:56
+M3181,U6,Friedrichstraße,T,14:25
+M3182,U9,Hansaplatz,T,15:12
+M3183,U8,Voltastraße,T,16:11
+M3184,U3,Krumme Lanke,T,16:25
+M3185,U6,Friedrichstraße,T,17:01
+M3188,U8,Hermannstraße,W,07:07
+M3189,U7,Kleistpark,W,08:59
+M3190,U2,Bülowstraße,W,09:09
+M3191,U1,Schlesisches Tor,W,09:34
+M3193,U9,Zoologischer Garten,W,10:30
+M3194,U9,Hansaplatz,W,10:30
+M3195,S5,Bellevue,W,11:37
+M3196,U8,Rosenthaler Platz,W,11:56
+M3197,U6,Leopoldplatz,W,11:57
+M3198,U8,Alexanderplatz,W,12:58
+M3200,U2,Zoologischer Garten,W,13:44
+M3201,U2,Zoologischer Garten,W,13:57
+M3202,U8,Hermannstraße,Z,07:29
+M3203,U8,Rathaus Reinickendorf,Z,07:52
+M3205,S1,Botanischer Garten,Z,08:35
+M3206,U8,Heinrich-Heine-straße,Z,08:37
+M3207,U8,Osloer Straße,Z,08:53
+M3208,U8,Bernauer Straße,Z,09:54
+M3209,U6,Rehberge,Z,10:25
+M3210,U8,Boddinstraße,Z,11:34
+M3211,U8,Boddinstraße,Z,11:50
+M3212,U2,Klosterstraße,Z,11:57
+M3213,U9,Zoologischer Garten,Z,12:33
+M3214,U6,Leopoldplatz,Z,12:51
+M3215,U8,Alexanderplatz,Z,13:15
+M3216,U8,Voltastraße,Z,13:51
+M3217,U8,Schönleinstraße,Z,14:05
+M3218,U2,Schönhauser Allee,Z,14:10
+M3219,U7,Paulsternstraße,Z,15:08
+M3220,S2,Anhalter,Z,15:59
+M3221,U8,Rosenthaler Platz,Z,16:46
+M3222,U6,Unter den Linden,Z,17:00
+M3223,U6,Kurt-Schumacher-Platz,Z,17:43
+M3224,U9,Osloer Straße,Z,18:34
+M3225,U2,Vinetastraße,Z,18:43
+M3227,U8,Alexanderplatz,F,08:10
+M3228,U8,Rosenthaler Platz,F,08:28
+M3229,S41,Frankfurter Allee,F,08:33
+M3230,U8,Alexanderplatz,F,08:44
+M3231,U8,Kottbusser Tor,F,08:59
+M3232,U2,Bülowstraße,F,09:39
+M3234,U8,Leinestraße,F,09:47
+M3237,U7,Jakob-Kaiser-Platz,T,17:07
+M3239,U5,Strausberger Platz,W,08:21
+M3242,U7,Eisenacher Straße,W,09:45
+M3243,U5,Samariterstraße,W,10:11
+M3245,U7,Hermannplatz,W,10:41
+M3246,U8,Hermannplatz,W,10:42
+M3247,U7,Bayerischer Platz,W,11:01
+M3248,U2,Hausvogteiplatz,W,11:10
+M3249,U7,Kleistpark,W,11:15
+M3250,U9,Osloer Straße,W,12:15
+M3251,U2,Zoologischer Garten,W,12:48
+M3252,U6,Alt-Tempelhof,W,13:22
+M3253,U3,Görlitzer,W,13:38
+M3254,U6,Alt-Tempelhof,W,13:48
+M3255,U7,Möckernbrücke,W,13:51
+M3256,U7,Mehringdamm,W,14:10
+M3257,S42,Schöneberg,W,14:21
+M3258,U9,Osloer Straße,W,14:25
+M3259,S42,Hermannstraße,W,14:29
+M3260,U5,Museumsinsel,W,14:45
+M3261,U3,Kottbusser Tor,W,16:43
+M3263,U5,Schillingstraße,W,17:13
+M3264,S42,Jungfernheide,Z,06:23
+M3265,U7,Spandau,Z,08:34
+M3266,U5,Magdalenenstraße,Z,08:56
+M3270,U9,Zoologischer Garten,Z,13:18
+M3271,U5,Magdalenenstraße,Z,13:55
+M3272,U5,Kienberg,Z,14:04
+M3273,U8,Voltastraße,Z,14:30
+M3274,U5,Friedrichsfelde,Z,16:25
+M3275,U6,Unter den Linden,Z,17:09
+M3276,U8,Alexanderplatz,Z,18:42
+M3277,U5,Alexanderplatz,Z,19:12
+M3278,U9,Osloer Straße,F,07:34
+M3280,S42,Schöneberg,F,08:28
+M3281,U9,Amrumer Straße,F,08:32
+M3282,U5,Tierpark,F,09:17
+M3283,S42,Westend,F,11:57
+M3284,U5,Unter den Linden,F,13:09
+M3285,U5,Frankfurter Tor,F,13:21
+M3286,U5,Alexanderplatz,F,13:30
+M3287,U9,Nauener Platz,F,13:31
+M3288,U9,Osloer Straße,F,14:26
+M3289,U6,Leopoldplatz,F,14:27
+M3290,S41,Tempelhof,F,19:04
+M3291,S2,Brandenburger Tor,F,19:27
+M3292,U5,Weberwiese,S,11:45
+M3293,U5,Frankfurter Tor,S,11:54
+M3294,U5,Magdalenenstraße,S,16:17
+M3295,U5,Rotes Rathaus,S,17:20
+M3296,U7,Mierendorffplatz,S,17:25
+M3297,U3,Warschauer Straße,S,18:06
+M3299,S41,Tempelhof,U,10:13
+M3301,S41,Tempelhof,U,12:10
+M3304,S85,Frohnau,M,08:43
+M3306,U9,Hansaplatz,M,09:05
+M3307,S7,Hackescher Markt,Z,10:22
+M3309,U2,Wittenbergplatz,Z,11:22
+M3310,U8,Rosenthaler Platz,Z,11:54
+M3311,U8,Jannowitzbrücke,Z,12:16
+M3312,U8,Alexanderplatz,Z,12:18
+M3313,U6,Leopoldplatz,Z,12:24
+M3314,U6,Seestraße,Z,12:28
+M3316,U6,Afrikanische Straße,Z,13:00
+M3317,U8,Schönleinstraße,Z,13:05
+M3318,U8,Hermannplatz,Z,13:34
+M3319,U6,Alt-Tempelhof,Z,14:23
+M3320,U6,Tempelhof,Z,14:41
+M3321,U8,Gesundbrunnen,Z,17:40
+M3322,U8,Voltastraße,Z,17:43
+M3323,S75,Wartenberg,F,06:24
+M3324,S1,Wannsee,F,07:19
+M3325,U8,Franz-Neumann-Platz,F,08:42
+M3326,U8,Alexanderplatz,F,09:28
+M3327,U8,Pankstraße,F,09:36
+M3328,U8,Alexanderplatz,F,09:48
+M3329,S7,Springpfuhl,F,11:05
+M3330,U8,Gesundbrunnen,F,11:06
+M3331,U1,Nollendorfplatz,F,11:29
+M3333,U6,Alt-Mariendorf,F,11:59
+M3334,U8,Franz-Neumann-Platz,F,12:03
+M3335,U1,Prinzenstraße,F,12:17
+M3336,U8,Osloer Straße,F,12:29
+M3337,U8,Hermannstraße,F,13:26
+M3338,U2,Mendelssohn-Bartholdy-Park,F,15:35
+M3339,U6,Leopoldplatz,F,16:42
+M3340,U8,Rosenthaler Straße,F,17:21
+M3341,U6,Wedding,F,18:30
+M3343,U9,Walther-Schreiber-Platz,S,15:59
+M3344,S41,Tempelhof,U,12:11
+M3345,U7,Gneisenaustraße,U,12:43
+M3346,S42,Hermannstraße,U,14:20
+M3347,U5,Museumsinsel,M,08:43
+M3348,U9,Leopoldplatz,M,10:08
+M3349,U9,Leopoldplatz,M,10:15
+M3350,U9,Amrumer Straße,M,10:41
+M3351,U9,Leopoldplatz,M,12:12
+M3352,U5,Alexanderplatz,M,14:12
+M3353,U9,Turmstraße,M,14:49
+M3354,U5,Alexanderplatz,M,16:57
+M3355,U5,Brandenburger Tor,M,17:46
+M3356,U5,Schillingstraße,M,18:11
+M3359,S42,Prenzlauer Allee,T,07:25
+M3360,U9,Turmstraße,T,08:22
+M3361,U9,Kurfürstendamm,T,08:46
+M3362,U7,Grenzallee,T,09:18
+M3363,U5,Alexanderplatz,T,09:23
+M3365,U5,Frankfurter Tor,T,10:22
+M3366,S3,Savignyplatz,T,10:26
+M3367,U7,Hermannplatz,T,10:38
+M3368,S41,Hermannstraße,T,10:45
+M3369,U9,Osloer Straße,T,11:49
+M3370,U9,Amrumer Straße,T,12:15
+M3371,U7,Eisenacher Straße,T,12:59
+M3372,U7,Südstern,T,13:20
+M3374,U5,Frankfurter Allee,T,13:36
+M3375,U9,Osloer Straße,T,13:37
+M3376,U7,Wilmersdorfer Straße,T,13:53
+M3377,U5,Alexanderplatz,U,11:38
+M3378,U5,Unter den Linden,U,12:27
+M3381,U7,Rathaus Neukölln,U,13:08
+M3382,S46,Tempelhof,U,13:17
+M3383,U1,Gleisdreieck,U,14:05
+M3384,U5,Lichtenberg,U,14:15
+M3385,U5,Lichtenberg,U,14:17
+M3386,U5,Rotes Rathaus,U,15:25
+M3387,U5,Rotes Rathaus,U,16:46
+M3388,U5,Alexanderplatz,U,16:55
+M3389,U5,Museumsinsel,U,16:55
+M3390,U6,Leopoldplatz,M,08:53
+M3391,U6,Alt-Tempelhof,M,09:01
+M3392,U6,Stadtmitte,M,09:17
+M3393,U9,Hansaplatz,M,09:43
+M3394,S7,Alexanderplatz,M,09:54
+M3395,U9,Leopoldplatz,M,10:08
+M3396,U6,Rehberge,M,11:00
+M3397,U6,Hallesches Tor,M,11:15
+M3398,U8,Alexanderplatz,M,11:59
+M3399,U5,Frankfurter Tor,M,13:02
+M3401,U2,Vinetastraße,M,14:59
+M3402,U9,Berliner Straße,M,15:09
+M3403,S25,Brandenburger Tor,M,15:27
+M3405,S26,Brandenburger Tor,M,15:57
+M3406,U7,Paulsternstraße,M,16:10
+M3407,U6,Rehberge,M,16:10
+M3408,U8,Rosenthaler Platz,M,16:11
+M3409,U6,Naturkundemuseum,M,18:28
+M3410,U8,Rosenthaler Platz,T,07:42
+M3411,U8,Heinrich-Heine-straße/Annenstraße,T,08:19
+M3412,S3,Jannowitzbrücke,T,09:41
+M3413,U6,Paradestraße,T,10:43
+M3414,U8,Hermannplatz,T,10:51
+M3415,S42,Tempelhof,T,10:55
+M3416,U7,Jakob-Kaiser-Platz,T,11:02
+M3417,U5,Weberwiese,T,11:04
+M3418,U5,Weberwiese,T,11:32
+M3419,U6,Tempelhof,T,12:23
+M3420,U8,Weinmeisterstraße,T,12:49
+M3421,U8,Schönleinstraße,T,13:18
+M3422,U6,Friedrichstraße,T,13:45
+M3423,U6,Friedrichstraße,T,13:45
+M3424,U8,Pankstraße,T,13:59
+M3425,U6,Platz der Vereinten Nationen,T,14:02
+M3426,U2,Stadtmitte,T,16:38
+M3427,U9,Friedrich-Wilhelm-Platz,T,16:46
+M3428,S25,Tegel,W,07:22
+M3430,U8,Boddinstraße,W,09:41
+M3431,U8,Kottbusser Tor,W,09:43
+M3432,U8,Hermannplatz,W,09:52
+M3433,U6,Mehringdamm,W,10:40
+M3434,U8,Weinmeisterstraße,W,11:30
+M3435,U6,Kochstraße,W,11:43
+M3436,U3,Kottbusser Tor,W,12:21
+M3437,U8,Hermannplatz,W,12:35
+M3438,U9,Hansaplatz,W,13:34
+M3439,U8,Rosenthaler Platz,W,13:47
+M3440,U3,Kottbusser Tor,W,15:43
+M3442,U8,Moritzplatz,W,16:49
+M3443,U3,Nollendorfplatz,W,18:03
+M3444,U8,Kottbusser Tor,Z,07:36
+M3445,U8,Moritzplatz,Z,09:17
+M3446,U8,Alexanderplatz,Z,09:29
+M3448,U7,Yorckstraße,Z,09:55
+M3449,U8,Boddinstraße,Z,10:11
+M3450,U8,Hermannstraße,T,14:16
+M3451,U9,Turmstraße,T,14:23
+M3452,U9,Hansaplatz,T,14:46
+M3453,U5,Museumsinsel,T,15:32
+M3454,U6,Oranienburger Tor,T,16:01
+M3455,U7,Rohrdamm,T,16:11
+M3457,U8,Jannowitzbrücke,T,18:09
+M3460,U7,Mierendorffplatz,W,08:25
+M3461,U5,Weberwiese,W,08:27
+M3462,U9,Leopoldplatz,W,08:42
+M3463,U9,Amrumer Straße,W,08:59
+M3464,U7,Gneisenaustraße,W,09:24
+M3465,U9,Westhafen,W,09:26
+M3466,U7,Parchimer Allee,W,09:26
+M3467,U5,Bundestag,W,09:27
+M3468,U5,Museumsinsel,W,09:38
+M3469,U5,Samariterstraße,W,09:50
+M3470,U2,Ernst-Reuter-Platz,W,10:09
+M3471,U6,Rehberge,W,10:20
+M3472,U9,Leopoldplatz,W,10:24
+M3473,U5,Brandenburger Tor,W,10:48
+M3474,U9,Leopoldplatz,W,11:05
+M3475,U5,Unter den Linden,W,11:30
+M3477,U5,Alexanderplatz,W,12:33
+M3478,U3,Warschauer Straße,W,12:45
+M3479,U5,Magdalenenstraße,W,13:18
+M3480,U5,Frankfurter Allee,W,13:20
+M3481,U5,Hellersdorf,W,13:59
+M3482,S3,Ostkreuz,W,14:53
+M3483,S41,Tempelhof,W,14:57
+M3484,U9,Zoologischer Garten,Z,09:00
+M3485,U9,Zoologischer Garten,Z,07:45
+M3486,U9,Leopoldplatz,Z,09:55
+M3487,U5,Berlin Hauptbahnhof,Z,09:58
+M3488,U7,Haselhorst,Z,10:16
+M3489,S42,Südkreuz,Z,10:21
+M3490,U9,Bundesplatz,Z,10:55
+M3491,U9,Turmstraße,Z,11:25
+M3492,U8,Weinmeisterstraße,Z,11:36
+M3493,U3,Bülowstraße,Z,12:18
+M3494,U5,Alexanderplatz,Z,12:42
+M3495,U6,Tempelhof,Z,13:51
+M3496,U5,Samariterstraße,Z,13:58
+M3497,U7,Rohrdamm,Z,14:20
+M3498,U8,Kottbusser Tor,Z,14:32
+M3499,U9,Leopoldplatz,Z,14:44
+M3500,U5,Tierpark,Z,14:52
+M3501,U1,Nollendorfplatz,Z,15:17
+M3502,U1,Nollendorfplatz,Z,15:18
+M3504,U12,Prinzenstraße,Z,16:49
+M3505,U8,Osloer Straße,Z,17:22
+M3506,U7,Jungfernheide,Z,17:43
+M3507,U5,Unter den Linden,Z,17:47
+M3509,U5,Alexanderplatz,Z,19:57
+M3511,U7,Karl-Marx-straße,F,08:34
+M3513,U5,Strausberger Platz,F,11:15
+M3514,U5,Frankfurter Tor,F,11:19
+M3515,U7,Südstern,F,12:29
+M3516,U7,Südstern,F,12:42
+M3517,U8,Südstern,F,12:44
+M3518,U7,Mehringdamm,F,13:07
+M3519,U8,Alexanderplatz,F,14:21
+M3520,U9,Amrumer Straße,F,16:05
+M3521,U9,Leopoldplatz,F,16:22
+M3522,U3,Wittenbergplatz,F,16:58
+M3523,U7,Blaschkoallee,S,13:20
+M3524,U7,Lipschitzallee,S,13:44
+M3525,S41,Frankfurter Allee,S,15:13
+M3527,U6,Platz der Vereinten Nationen,Z,15:33
+M3528,U2,Schönhauser Allee,Z,16:30
+M3529,U2,Mendelssohn-Bartholdy-Park,Z,16:35
+M3530,U8,Weinmeisterstraße,Z,16:38
+M3532,U5,Weberwiese,Z,19:10
+M3533,U2,Mendelssohn-Bartholdy-Park,Z,19:16
+M3534,U8,Bernauer Straße,F,07:27
+M3535,U2,Eberswalder Straße/Pappelallee,F,08:33
+M3536,U8,Osloer Straße,F,08:44
+M3537,U7,Südstern,F,08:47
+M3539,U7,Adenauerplatz,F,10:33
+M3542,U2,Rosa-Luxemburg-Platz,F,13:31
+M3544,U7,Jakob-Kaiser-Platz,F,15:25
+M3545,U2,Bülowstraße,F,16:08
+M3546,S42,Frankfurter Allee,S,12:29
+M3547,S46,Johannisthal,S,13:02
+M3548,U8,Gesundbrunnen,S,13:31
+M3549,U8,Hermannstraße,S,14:23
+M3550,U6,Schwartzkopffstraße,S,15:49
+M3551,U6,Hallesches Tor,S,17:09
+M3552,U6,Friedrichstraße,S,17:48
+M3553,U2,Alexanderplatz,S,18:37
+M3554,S7,Ahrensfelde,S,23:00
+M3555,U3,Warschauer Straße,U,11:17
+M3556,U7,Rathaus Spandau,U,11:20
+M3557,U6,Leopoldplatz,U,11:43
+M3558,U8,Pankstraße,U,12:08
+M3559,U2,Eberswalder Straße,U,13:42
+M3560,S1,Friedrichstraße,U,13:50
+M3561,U8,Kottbusser Tor,U,13:53
+M3562,U1,Görlitzer,U,14:07
+M3563,S7,Ostbahnhof,U,14:27
+M3565,U7,Gneisenaustraße,U,14:53
+M3566,S9,Tiergarten,U,15:08
+M3567,U6,Tempelhof,U,15:31
+M3568,U9,Birkenstraße,U,15:50
+M3569,U8,Schönleinstraße,U,17:57
+M3570,U2,Karlplatz,U,18:04
+M3571,S42,Prenzlauer Allee,M,07:22
+M3572,U7,Fehrbelliner Platz,M,08:51
+M3573,U8,Weinmeisterstraße,M,09:15
+M3574,U9,Hansaplatz,M,09:39
+M3575,U7,Mierendorffplatz,M,09:43
+M3576,U9,Leopoldplatz,M,09:45
+M3578,U9,Leopoldplatz,M,10:21
+M3579,U5,Magdalenenstraße,M,10:22
+M3581,U7,Karl-Marx-straße,M,10:57
+M3583,U9,Spichernstraße,M,11:52
+M3584,S7,Berlin Hauptbahnhof,M,12:00
+M3585,U6,Leopoldplatz,M,12:14
+M3586,U3,Krumme Gärten,M,12:31
+M3587,U7,Südstern,M,12:49
+M3588,U5,Elsterwerdaer Platz,M,12:55
+M3589,U7,Gneisenaustraße,M,13:07
+M3590,S41,Hermannstraße,M,14:25
+M3592,M4,Buschallee,M,14:34
+M3593,S41,Hermannstraße,M,15:07
+M3594,U1,Schlesisches Tor,M,16:14
+M3595,U3,Nollendorfplatz,M,16:43
+M3596,U5,Strausberger Platz,M,18:25
+M3597,U8,Alexanderplatz,M,19:14
+M3598,U8,Kottbusser Tor,T,08:38
+M3600,U7,Rathaus Neukölln,T,08:52
+M3601,U5,Strausberger Platz,T,08:58
+M3603,U8,Weinmeisterstraße,T,10:12
+M3604,U7,Bayerischer Platz,T,11:02
+M3605,U8,Moritzplatz,T,11:34
+M3606,U9,Westhafen,T,11:37
+M3607,U8,Rosenthaler Platz,T,11:41
+M3608,U7,Kleistpark,T,12:27
+M3609,U9,Westhafen,T,12:29
+M3610,U9,Hansaplatz,T,12:35
+M3611,U5,Schillingstraße,U,16:42
+M3612,S42,Tempelhof,U,16:57
+M3613,U9,Westhafen,U,17:11
+M3614,U8,Heinrich-Heine-straße,M,08:23
+M3615,U2,Gleisdreieck,M,08:37
+M3616,U6,Rehberge,M,08:43
+M3617,U8,Franz-Neumann-Platz,M,08:55
+M3618,U7,Blissestraße,M,09:04
+M3619,U6,Tempelhof,M,09:27
+M3620,U8,Franz-Neumann-Platz,M,09:36
+M3621,U8,Franz-Neumann-Platz,M,09:43
+M3622,U8,Boddinstraße,M,09:45
+M3623,U8,Franz-Neumann-Platz,M,10:01
+M3624,U6,Stadtmitte,M,10:07
+M3626,U6,Kaiserin-Augusta-straße,M,10:50
+M3628,U8,Pankstraße,M,11:59
+M3629,S41,Sonnenallee,M,12:05
+M3630,U8,Boddinstraße,M,12:39
+M3631,U8,Weinmeisterstraße,M,13:36
+M3632,U8,Rosenthaler Platz,M,14:42
+M3633,S41,Südkreuz,M,15:06
+M3634,U8,Rosenthaler Platz,M,16:09
+M3635,U2,Potsdamer Platz,M,16:15
+M3636,U6,Naturkundemuseum,M,16:16
+M3637,U8,Voltastraße,M,17:38
+M3638,U6,Kochstraße,M,17:48
+M3643,U6,Kochstraße,T,10:26
+M3644,U8,Kottbusser Tor,T,11:00
+M3645,U8,Kottbusser Tor,T,11:00
+M3646,U7,Yorckstraße,T,11:03
+M3647,U8,Hermannstraße,T,11:36
+M3648,S41,Tempelhof,T,12:09
+M3649,U9,Amrumer Straße,T,12:35
+M3650,U8,Bernauer Straße,T,12:44
+M3651,U8,Rosenthaler Platz,T,12:52
+M3652,U8,Heinrich-Heine-straße,T,13:01
+M3653,U8,Osloer Straße,T,13:04
+M3654,U2,Rosa-Luxemburg-Platz,T,14:13
+M3655,U6,Stadtmitte,T,14:28
+M3656,S41,Südkreuz,T,14:42
+M3657,S41,Innsbrucker Platz,T,14:45
+M3659,U6,Oranienburger Tor,T,16:01
+M3662,U8,Karl-Bonhoeffer-Nervenklinik,T,18:16
+M3663,U2,Stadtmitte,T,19:07
+M3664,U6,Rehberge,W,08:30
+M3665,U2,Senefelderplatz,W,09:16
+M3666,U6,Lindenhof,W,09:25
+M3667,U6,Hallesches Tor,W,09:36
+M3668,U6,Alt-Tempelhof,W,10:13
+M3670,U6,Leopoldplatz,W,10:38
+M3671,U6,Stadtmitte,W,11:31
+M3673,U6,Stadtmitte,W,12:00
+M3674,S7,Mehrower Allee,W,12:13
+M3675,U6,Rehberge,W,12:22
+M3676,U2,Hausvogteiplatz,W,12:54
+M3677,U6,Wedding,W,13:59
+M3679,U2,Deutsche Oper,W,15:20
+M3680,U6,Wedding,W,16:18
+M3681,U2,Mendelssohn-Bartholdy-Park,W,16:19
+M3682,U2,Potsdamer Chaussee/Lindenthaler Allee,W,16:31
+M3683,U6,Seestraße,W,17:59
+M3684,U6,Rehberge,W,18:39
+M3685,U2,Zoologischer Garten,W,19:41
+M3686,U8,Parkstraße/Amalienstraße,Z,07:10
+M3687,U8,Bernauer Straße,Z,08:02
+M3688,U2,Pankow,Z,08:54
+M3689,U7,Mehringdamm,Z,09:43
+M3690,U2,Eberswalder Straße,Z,09:44
+M3691,M41,Hallesches Tor,Z,09:47
+M3692,U6,Friedrichstraße,Z,10:14
+M3693,S42,Frankfurter Allee,Z,10:39
+M3694,U8,Kottbusser Tor,Z,11:06
+M3695,S42,Landsberger Allee,Z,11:12
+M3696,U6,Wedding,Z,11:47
+M3697,S7,Marzahn,Z,12:08
+M3698,U6,Kurt-Schumacher-Platz,Z,12:22
+M3700,U8,Hermannplatz,Z,12:54
+M3701,U8,Hermannplatz,Z,13:14
+M3702,U6,Hallesches Tor,Z,13:15
+M3704,U6,Tempelhof,Z,13:29
+M3705,U2,Eberswalder Straße,Z,13:40
+M3706,U8,Wittenau,Z,13:57
+M3707,U2,Rosa-Luxemburg-Platz,Z,14:31
+M3709,U2,Pankow,Z,14:51
+M3710,U6,Alt-Reinickendorf,Z,14:56
+M3711,U9,Turmstraße,T,13:18
+M3712,U5,Tierpark,T,13:47
+M3714,S42,Landsberger Allee,T,14:33
+M3715,U5,Kaulsdorf-Nord,T,15:03
+M3717,U9,Vom Guten Hirten,T,17:31
+M3718,U5,Alexanderplatz,T,17:32
+M3719,U1,Gleisdreieck,T,17:40
+M3720,U5,Weberwiese,T,18:25
+M3721,U1,Gleisdreieck,T,19:42
+M3722,U5,Berlin Hauptbahnhof,T,19:47
+M3723,U9,Nauener Platz,W,07:37
+M3724,U7,Hermannplatz,W,07:43
+M3725,U9,Nauener Platz,W,08:26
+M3726,U5,Zu den Krugwiesen,W,09:02
+M3727,U7,Blaschkoallee,W,09:20
+M3728,U6,Hallesches Tor,W,10:16
+M3729,U9,Nauener Platz,W,10:24
+M3730,U5,Lindenhof,W,12:12
+M3731,U7,Karl-Marx-straße,W,12:16
+M3732,U5,Hönow,W,12:29
+M3733,U9,Turmstraße,W,12:51
+M3734,U9,Leopoldplatz,W,14:00
+M3737,U5,Berlin Hauptbahnhof,W,17:33
+M3738,U3,Möckernbrücke,W,17:57
+M3739,U5,Berlin Hauptbahnhof,W,18:09
+M3740,U5,Lichtenberg,W,18:51
+M3742,U5,Museumsinsel,Z,08:17
+M3743,U5,Magdalenenstraße,Z,09:04
+M3744,U8,Schönleinstraße,Z,09:31
+M3745,U7,Gneisenaustraße,Z,09:48
+M3746,U5,Lichtenberg,Z,09:49
+M3747,U8,Kottbusser Tor,Z,10:12
+M3748,S41,Halensee,Z,10:14
+M3749,S41,Landsberger Allee,Z,10:29
+M3750,S7,Charlottenburg,Z,11:03
+M3751,M2,Mollstraße/Otto-Braun-straße,Z,12:02
+M3752,M2,Mollstraße/Otto-Braun-straße,Z,12:18
+M3753,U8,Alexanderplatz,Z,12:23
+M3754,U9,Amrumer Straße,Z,12:32
+M3756,M2,Prenzlauer Allee,Z,13:17
+M3757,U7,Karl-Marx-straße,Z,13:27
+M3758,U2,Zoologischer Garten,Z,13:33
+M3759,U1,Görlitzer,Z,14:23
+M3760,U8,Rosenthaler Platz,Z,14:41
+M3761,U5,Cottbusser Platz,Z,15:00
+M3762,U3,Nollendorfplatz,Z,15:14
+M3763,U5,Tierpark,Z,15:55
+M3766,U9,Turmstraße,Z,17:57
+M3767,U8,Kottbusser Tor,Z,18:27
+M3768,S42,Jungfernheide,F,08:42
+M3769,U5,Frankfurter Allee,F,10:56
+M3770,U5,Weberwiese,F,11:10
+M3771,U5,Magdalenenstraße,F,12:19
+M3772,U5,Museumsinsel,F,13:22
+M3774,U6,Stadtmitte,F,14:08
+M3775,U6,Leopoldplatz,F,14:16
+M3776,U9,Osloer Straße,F,15:02
+M3777,U5,Alexanderplatz,F,18:12
+M3779,S42,Gesundbrunnen,S,11:40
+M3780,U5,Brandenburger Tor,S,12:24
+M3781,U7,Grenzallee,S,13:16
+M3784,U3,Kottbusser Tor,U,12:38
+M3785,U7,Bayerischer Platz,U,13:13
+M3786,U3,Hallesches Tor,U,14:03
+M3787,U7,Südstern,U,14:08
+M3788,U9,Osloer Straße,U,14:13
+M3789,U3,Kottbusser Tor,U,14:15
+M3790,U5,Alexanderplatz,U,15:42
+M3791,U9,Westhafen,W,13:48
+M3793,U8,Jannowitzbrücke,W,14:51
+M3794,U6,Stadtmitte,W,14:56
+M3795,U2,Schönhauser Allee,W,17:33
+M3796,U2,Vinetastraße,W,17:43
+M3797,U6,Unter den Linden,W,18:41
+M3798,U6,Kochstraße,W,19:15
+M3799,U8,Voltastraße,Z,08:21
+M3800,U8,Kottbusser Tor,Z,08:21
+M3801,U8,Hermannplatz,Z,08:58
+M3802,U3,Breitenbachplatz,Z,09:18
+M3803,U8,Gesundbrunnen,Z,12:09
+M3804,U8,Heinrich-Heine-straße,Z,12:09
+M3806,U2,Klosterstraße,Z,13:32
+M3807,U8,Osloer Straße,Z,13:47
+M3808,U8,Bernauer Straße,Z,14:42
+M3810,U8,Gesundbrunnen,Z,18:23
+M3811,U6,Unter den Linden,Z,18:58
+M3812,U6,Oranienburger Tor,Z,19:24
+M3813,U8,Osloer Straße,Z,19:37
+M3814,U2,Spittelmarkt,F,13:01
+M3816,U6,Friedrichstraße,F,13:41
+M3817,U6,Hallesches Tor,F,14:12
+M3818,U9,Zoologischer Garten,F,14:15
+M3819,U8,Weinmeisterstraße,F,14:30
+M3820,U8,Weinmeisterstraße,F,14:32
+M3821,U2,Eberswalder Straße,F,14:45
+M3822,U8,Voltastraße,F,15:20
+M3823,U8,Weinmeisterstraße,F,18:46
+M3824,U8,Rosenthaler Platz,F,18:52
+M3825,U8,Weinmeisterstraße,S,12:52
+M3826,S42,Jungfernheide,S,13:10
+M3827,U8,Heinrich-Heine-straße,S,13:14
+M3828,U8,Moritzplatz,S,14:30
+M3829,U6,Oranienburger Tor,S,15:09
+M3831,U8,Gesundbrunnen,S,17:11
+M3832,U8,Kottbusser Tor,S,18:31
+M3833,U8,Weinmeisterstraße,U,12:22
+M3834,U8,Hermannplatz,U,13:42
+M3835,U8,Gesundbrunnen,U,15:28
+M3836,U6,Mehringdamm,U,16:39
+M3837,U8,Schönleinstraße,U,16:59
+M3838,U8,Bernauer Straße,U,17:17
+M3839,U6,Unter den Linden,U,17:22
+M3840,U6,Unter den Linden,U,17:24
+M3841,S41,Tempelhof,M,07:21
+M3842,U9,Leopoldplatz,M,07:57
+M3843,S41,Schönhauser Allee,M,08:36
+M3845,U9,Leopoldplatz,M,09:50
+M3847,U9,Osloer Straße,M,11:57
+M3848,U8,Pankstraße,M,12:06
+M3849,U6,Zoologischer Garten,M,12:56
+M3850,U9,Turmstraße,M,13:25
+M3853,U2,Ernst-Reuter-Platz,M,15:50
+M3855,U3,Gleisdreieck,M,18:48
+M3856,U1,Gleisdreieck,M,18:54
+M3857,U1,Kottbusser Tor,M,19:49
+M3858,S41,Landsberger Allee,T,07:28
+M3859,U5,Rotes Rathaus,T,08:21
+M3860,S42,Greifswalder Straße/Danziger Straße,T,08:34
+M3861,U7,Adenauerplatz,T,09:06
+M3862,U7,Gneisenaustraße,T,09:48
+M3863,U5,Frankfurter Tor,T,09:49
+M3864,U7,Mehringdamm,T,11:44
+M3865,U9,Amrumer Straße,T,11:51
+M3867,U9,Kurfürstenstraße,T,12:48
+M3868,U9,Amrumer Straße,F,13:30
+M3869,U6,Friedrichstraße,F,13:41
+M3870,U5,Unter den Linden,F,13:58
+M3871,U5,Alexanderplatz,F,14:06
+M3872,U8,Osloer Straße,F,15:02
+M3873,U7,Rathaus Neukölln,F,16:31
+M3874,S42,Prenzlauer Allee,S,04:02
+M3875,S41,Tempelhof,S,07:23
+M3877,U9,Osloer Straße,S,13:20
+M3878,U9,Leopoldplatz,S,13:58
+M3879,U1,Uhlandstraße,S,14:40
+M3880,U5,Lichtenberg,S,16:52
+M3881,U7,Hermannplatz,S,16:54
+M3882,U5,Samariterstraße,S,17:14
+M3883,U5,Museumsinsel,S,17:27
+M3884,U5,Schillingstraße,S,17:29
+M3885,U9,Birkenstraße,S,17:57
+M3886,U9,Zoologischer Garten,S,18:47
+M3887,U3,Krumme Lanke,U,12:33
+M3889,U5,Samariterstraße,U,13:29
+M3890,U6,Unter den Linden,U,13:43
+M3892,U5,Alexanderplatz,U,14:04
+M3893,U5,Samariterstraße,U,14:06
+M3894,U5,Strausberger Platz,U,14:11
+M3895,U5,Strausberger Platz,U,14:36
+M3896,U5,Unter den Linden,U,15:26
+M3898,U7,Jungfernheide,U,16:25
+M3899,U9,Westhafen,U,17:28
+M3900,U2,Potsdamer Platz,M,08:25
+M3902,U8,Weinmeisterstraße,M,09:11
+M3903,U6,Leopoldplatz,M,09:31
+M3904,U8,Alexanderplatz,M,09:36
+M3905,U9,Osloer Straße,M,09:50
+M3906,U8,Hermannstraße,M,09:51
+M3907,U8,Kottbusser Tor,M,10:32
+M3908,S46,Hermannstraße,M,11:18
+M3909,S75,Ostkreuz,M,11:24
+M3910,S41,Prenzlauer Allee,M,12:11
+M3911,U5,Alexanderplatz,M,12:22
+M3912,U8,Bernauer Straße,M,13:31
+M3913,U8,Pankstraße,M,14:19
+M3914,U2,Hausvogteiplatz,M,15:37
+M3917,U8,Weinmeisterstraße,T,08:00
+M3919,U8,Schönleinstraße,T,09:35
+M3920,U6,Mehringdamm,T,09:43
+M3921,U8,Bernauer Straße,T,10:15
+M3922,U2,Hausvogteiplatz,T,10:30
+M3923,U8,Moritzplatz,T,10:31
+M3925,U8,Wittenau,T,12:12
+M3926,U2,Eberswalder Straße/Pappelallee,T,12:56
+M3928,U6,Oranienburger Tor,T,13:53
+M3929,U8,Schönleinstraße,T,14:50
+M3930,U8,Gesundbrunnen,T,14:50
+M3931,U8,Alexanderplatz,T,15:43
+M3932,U6,Stadtmitte,T,16:19
+M3933,U2,Eberswalder Straße,T,16:35
+M3934,U8,Alexanderplatz,T,17:13
+M3935,U6,Friedrichstraße,T,17:53
+M3936,U6,Unter den Linden,T,19:20
+M3937,U3,Kurfürstenstraße,T,19:30
+M3938,M4,Am Friedrichshain,W,08:40
+M3939,U6,Kurt-Schumacher-Platz,W,08:47
+M3940,U6,Schwartzkopffstraße,W,09:45
+M3941,U6,Unter den Linden,W,10:18
+M3942,U8,Kottbusser Tor,W,10:38
+M3943,U1,Kottbusser Tor,W,10:55
+M3948,U5,Frankfurter Allee,M,13:41
+M3949,U7,Südstern,M,14:17
+M3950,U2,Stadtmitte,M,15:18
+M3951,S1,Friedrichstraße,M,15:26
+M3952,U3,Prinzenstraße,M,16:20
+M3953,U5,Strausberger Platz,M,16:51
+M3954,S41,Greifswalder Straße,T,08:16
+M3955,S2,Priesterweg,T,08:35
+M3956,S8,Ostkreuz,T,08:47
+M3957,U7,Kleistpark,T,08:56
+M3958,U7,Karl-Marx-straße,T,08:57
+M3959,U6,Kaiserin-Augusta-straße,T,10:11
+M3961,U7,Rathaus Neukölln,T,10:21
+M3962,U7,Kleistpark,T,11:12
+M3963,U1,Möckernbrücke,T,11:15
+M3964,S41,Heidelberger Platz,T,11:42
+M3966,U3,Hallesches Tor,T,13:44
+M3967,U3,Schlesisches Tor,T,13:50
+M3968,U5,Tierpark,T,14:03
+M3969,U7,Hermannplatz,T,14:08
+M3970,M46,Rathaus Schöneberg,T,14:53
+M3971,S45,Neukölln,T,14:56
+M3972,U7,Neukölln,T,17:21
+M3973,U9,Hansaplatz,T,19:42
+M3974,U5,Weberwiese,W,08:31
+M3975,U7,Südstern,W,08:35
+M3976,U9,Zoologischer Garten,W,08:38
+M3977,U8,Schönleinstraße,W,09:28
+M3978,S1,Anhalter,W,11:38
+M3979,M37,Spandau,W,12:29
+M3980,U7,Hermannplatz,W,12:49
+M3981,U5,Museumsinsel,W,13:06
+M3982,U9,Hansaplatz,W,13:13
+M3984,U7,Bayerischer Platz,W,13:47
+M3985,U7,Neukölln,W,13:55
+M3986,S41,Tempelhof,W,16:17
+M3987,S42,Hermannstraße,W,17:03
+M3989,U9,Turmstraße,W,19:19
+M3990,U7,Blaschkoallee,Z,09:22
+M3991,U9,Leopoldplatz,Z,10:39
+M3992,U7,Gneisenaustraße,Z,11:00
+M3993,S75,Friedrichsfelde Ost,Z,11:39
+M3994,U9,Turmstraße,Z,14:18
+M3995,U6,Paradestraße,Z,14:28
+M3996,U9,Amrumer Straße,Z,14:47
+M3997,U8,Hermannplatz,Z,14:49
+M3998,U9,Turmstraße,Z,17:30
+M4000,U7,Karl-Marx-straße,F,08:07
+M4002,U9,Birkenstraße,F,08:33
+M4004,U8,Moritzplatz,F,09:49
+M4006,U8,Weinmeisterstraße,T,13:20
+M4008,U6,Tempelhof,T,14:27
+M4009,S25,Hennigsdorf,T,15:35
+M4011,U8,Schönleinstraße,T,17:14
+M4013,U2,Stadtmitte,T,19:35
+M4014,U9,Zoologischer Garten,T,19:36
+M4015,M6,Judith-Auer-straße,T,21:54
+M4016,U8,Rosenthaler Platz,W,07:36
+M4017,S41,Innsbrucker Platz,W,09:24
+M4018,U8,Hermannplatz,W,09:36
+M4019,U8,Osloer Straße,W,09:42
+M4020,S42,Hermannstraße,W,10:05
+M4021,U3,Kurfürstenstraße,W,10:17
+M4023,S41,Tempelhof,W,11:23
+M4025,U8,Hermannstraße,W,12:37
+M4026,U6,Hallesches Tor,W,12:59
+M4027,U8,Gesundbrunnen,W,13:39
+M4028,U2,Eberswalder Straße,W,13:51
+M4029,U2,Rosa-Luxemburg-Platz,W,14:48
+M4030,U6,Tempelhof,W,15:41
+M4031,U6,Kurt-Schumacher-Platz,W,16:08
+M4032,U8,Osloer Straße,W,16:09
+M4033,U2,Bülowstraße,W,17:16
+M4034,U2,Gleisdreieck,W,17:29
+M4035,U8,Gesundbrunnen,W,17:35
+M4036,U8,Osloer Straße,W,17:50
+M4037,U2,Alexanderplatz,W,18:32
+M4038,U8,Heinrich-Heine-straße,Z,08:55
+M4039,U8,Alexanderplatz,Z,09:55
+M4040,U8,Alexanderplatz,Z,10:26
+M4041,U6,Kochstraße,Z,11:29
+M4042,S41,Hermannstraße,Z,12:10
+M4043,U6,Oranienburger Tor,Z,12:51
+M4044,U2,Klosterstraße,Z,13:38
+M4045,U6,Oranienburger Tor,Z,13:55
+M4048,U8,Jannowitzbrücke,Z,15:12
+M4049,U6,Hallesches Tor,Z,16:22
+M4050,U6,Mehringdamm,Z,17:15
+M4051,U6,Kochstraße,Z,17:48
+M4052,U6,Kochstraße,Z,18:10
+M4054,U6,Friedrichstraße,Z,18:29
+M4055,U8,Franz-Neumann-Platz,Z,18:46
+M4058,U2,Schönhauser Allee,F,08:33
+M4059,U8,Weinmeisterstraße,F,08:50
+M4060,U6,Tempelhof,F,09:04
+M4062,U2,Eberswalder Straße,F,13:44
+M4063,U8,Bernauer Straße,F,13:59
+M4064,U2,Gleisdreieck,F,14:30
+M4065,U8,Pankstraße,F,17:10
+M4066,S42,Südkreuz,F,23:50
+M4068,U2,Alexanderplatz,S,12:16
+M4069,U8,Kottbusser Tor,S,13:41
+M4070,U2,Bülowstraße,S,14:23
+M4071,U8,Boddinstraße,S,14:23
+M4072,U2,Hausvogteiplatz,S,14:32
+M4073,U8,Residenzstraße,S,15:31
+M4074,U8,Hermannplatz,S,15:54
+M4075,U8,Moritzplatz,S,16:30
+M4076,U8,Bernauer Straße,U,11:57
+M4077,U9,Birkenstraße,U,14:39
+M4078,U6,Westphalweg,U,18:33
+M4079,U9,Turmstraße,M,08:56
+M4081,S2,Friedrichstraße,W,14:58
+M4082,S41,Tempelhof,W,15:13
+M4083,U3,Spichernstraße,W,15:28
+M4084,S2,Brandenburger Tor,W,16:22
+M4086,S41,Tempelhof,Z,06:47
+M4087,U9,Leopoldplatz,Z,07:43
+M4088,M4,Hufelandstraße,Z,07:54
+M4089,S7,Tiergarten,Z,08:16
+M4090,U5,Frankfurter Tor,Z,08:40
+M4091,U9,Zoologischer Garten,Z,10:15
+M4092,U2,Bismarckstraße,Z,10:20
+M4093,U9,Berliner Straße,Z,11:20
+M4094,M4,Antonplatz,Z,11:23
+M4096,U9,Zoologischer Garten,Z,12:51
+M4097,U5,Alexanderplatz,Z,12:57
+M4098,U7,Mehringdamm,Z,13:24
+M4100,U7,Blaschkoallee,Z,13:38
+M4101,U9,Leopoldplatz,Z,13:44
+M4102,U9,Turmstraße,Z,13:48
+M4103,U1,Görlitzer,Z,14:35
+M4104,U1,Gleisdreieck,Z,15:13
+M4105,U8,Kottbusser Tor,Z,15:18
+M4107,U3,Gleisdreieck,Z,16:59
+M4108,U7,Gneisenaustraße,Z,18:06
+M4109,U9,Leopoldplatz,Z,18:07
+M4110,U6,Stadtmitte,Z,19:28
+M4111,U3,Uhlandstraße,F,07:50
+M4112,U3,Möckernbrücke,F,08:57
+M4113,U3,Kottbusser Tor,F,09:01
+M4114,U9,Turmstraße,F,09:33
+M4115,U1,Uhlandstraße,F,11:07
+M4117,U9,Amrumer Straße,F,13:06
+M4119,U8,Bernauer Straße,F,14:39
+M4120,U9,Zoologischer Garten,F,15:15
+M4121,U9,Westhafen,F,16:27
+M4122,U5,Weberwiese,F,17:28
+M4123,U1,Warschauer Straße,F,17:33
+M4124,U9,Hansaplatz,F,17:42
+M4125,U5,Samariterstraße,F,17:49
+M4126,U9,Westhafen,F,18:38
+M4127,S3,Alexanderplatz,S,01:07
+M4129,U1,Gleisdreieck,S,11:45
+M4130,U3,Wittenbergplatz,S,13:06
+M4132,U7,Adenauerplatz,S,13:49
+M4133,U7,Hermannplatz,S,17:01
+M4135,U7,Hermannplatz,S,18:08
+M4136,U8,Ostweg,S,19:01
+M4138,S42,Landsberger Allee,U,11:11
+M4139,U3,Prinzenstraße,U,12:13
+M4140,U7,Südstern,U,12:26
+M4141,U7,Neukölln,U,13:06
+M4143,U5,Rotes Rathaus,U,13:15
+M4144,U7,Hermannplatz,U,13:37
+M4145,U5,Samariterstraße,U,13:45
+M4146,U3,Schlesisches Tor,U,14:09
+M4148,U1,Kottbusser Tor,U,15:08
+M4149,U7,Rathaus Neukölln,U,15:09
+M4150,U1,Nollendorfplatz,U,15:20
+M4151,U7,Neukölln,U,18:06
+M4152,U8,Jannowitzbrücke,U,18:55
+M4153,U6,Kochstraße,U,19:33
+M4154,S42,Storkower Straße,M,06:17
+M4155,U5,Alexanderplatz,M,08:36
+M4156,U8,Pankstraße,M,08:50
+M4157,M41,Papierstraße,M,09:12
+M4158,U8,Hermannplatz,M,10:09
+M4159,U3,Kottbusser Tor,M,10:18
+M4160,U6,Oranienburger Tor,M,10:42
+M4161,U6,Alt-Tempelhof,M,11:01
+M4162,U6,Unter den Linden,M,11:33
+M4163,U7,Neukölln,M,11:55
+M4164,U8,Voltastraße,M,12:38
+M4165,U8,Rosenthaler Platz,M,12:50
+M4166,U2,Hausvogteiplatz,M,13:51
+M4167,U8,Wittenau,M,14:45
+M4168,U7,Yorckstraße,M,15:42
+M4169,U8,Alexanderplatz,M,16:11
+M4170,U2,Alexanderplatz,M,17:56
+M4171,U2,Alexanderplatz,M,19:08
+M4172,S41,Messe Nord/ZOB,T,08:09
+M4173,U8,Pankstraße,T,09:51
+M4174,U8,Kottbusser Tor,T,11:50
+M4175,U6,Leopoldplatz,T,11:57
+M4176,M41,Baumschulenweg,T,12:12
+M4177,U6,Naturkundemuseum,T,12:26
+M4181,S2,Brandenburger Tor,Z,14:43
+M4183,U6,Platz der Vereinten Nationen,F,08:41
+M4184,U2,Potsdamer Platz,F,09:00
+M4185,U2,Schönhauser Allee,F,09:48
+M4186,U5,Alexanderplatz,F,10:28
+M4187,U6,Kurt-Schumacher-Platz,F,10:42
+M4188,U6,Leopoldplatz,F,10:55
+M4189,U2,Rosa-Luxemburg-Platz,F,11:25
+M4190,U6,Hallesches Tor,F,11:37
+M4191,U6,Westphalweg,F,12:50
+M4192,U8,Rathaus Reinickendorf,F,12:56
+M4194,U2,Theodor-Heuss-Platz West,F,13:03
+M4195,U2,Potsdamer Platz,F,15:21
+M4196,U2,Gleisdreieck,F,16:40
+M4197,U8,Weinmeisterstraße,F,17:16
+M4198,U8,Alexanderplatz,F,20:24
+M4199,U2,Gleisdreieck,S,14:50
+M4200,U2,Potsdamer Platz,S,15:11
+M4201,U8,Schönleinstraße,S,15:31
+M4202,U2,Gleisdreieck,S,16:27
+M4203,U8,Schönleinstraße,S,17:22
+M4206,U8,Heinrich-Heine-straße,U,14:01
+M4207,U8,Rosenthaler Platz,U,16:08
+M4208,U7,Grenzallee,M,08:32
+M4211,U7,Hermannplatz,M,09:16
+M4212,U5,Weberwiese,M,09:37
+M4214,U9,Spichernstraße,M,10:37
+M4215,U5,Museumsinsel,M,12:43
+M4216,U5,Strausberger Platz,M,15:39
+M4217,U3,Gleisdreieck,M,16:10
+M4218,U9,Turmstraße,M,19:22
+M4219,U9,Zoologischer Garten,M,20:02
+M4220,S5,Friedrichsfelde Ost,T,06:03
+M4221,U7,Neukölln,T,08:24
+M4222,U7,Karl-Marx-straße,T,08:25
+M4223,U7,Grenzallee,T,10:07
+M4224,U9,Nauener Platz,T,10:44
+M4225,U7,Wilmersdorfer Straße,T,11:53
+M4226,U7,Rathaus Neukölln,T,12:23
+M4227,U9,Bundesplatz,T,13:22
+M4228,U9,Hansaplatz,T,13:49
+M4229,U2,Alexanderplatz,T,14:00
+M4230,U9,Zoologischer Garten/Jebensstraße,T,17:46
+M4232,U3,Warschauer Straße,T,19:05
+M4234,U9,Osloer Straße,T,19:38
+M4238,U9,Amrumer Straße,W,09:18
+M4240,U9,Nauener Platz,W,09:25
+M4241,U9,Amrumer Straße,W,09:32
+M4243,U7,Jungfernheide,W,09:41
+M4244,U5,Strausberger Platz,W,09:45
+M4245,U1,Kottbusser Tor,W,12:52
+M4246,U3,Görlitzer,W,13:18
+M4247,U1,Schlesisches Tor,W,13:34
+M4248,U5,Frankfurter Tor,F,16:17
+M4249,U5,Strausberger Platz,F,17:44
+M4250,U8,Hermannplatz,F,19:33
+M4251,U3,Breitenbachplatz,F,19:56
+M4253,S42,Hermannstraße,S,10:54
+M4254,U9,Birkenstraße,S,11:52
+M4255,U9,Amrumer Straße,S,11:55
+M4256,U5,Weberwiese,S,13:41
+M4257,U3,Kurfürstenstraße,S,13:53
+M4258,U3,Nollendorfplatz,S,15:34
+M4259,U9,Zoologischer Garten,S,17:51
+M4260,U9,Amrumer Straße,S,19:05
+M4261,U5,Weberwiese,U,12:29
+M4262,U5,Alexanderplatz,U,16:36
+M4263,U3,Kurfürstenstraße,U,16:58
+M4264,U9,Nauener Platz,U,17:39
+M4265,U2,Anton-Wilhelm-Amo-straße,M,07:58
+M4267,U6,Kaiserin-Augusta-straße,M,08:55
+M4268,U8,Alexanderplatz,M,09:39
+M4269,U6,Stadtmitte,M,09:56
+M4270,U8,Hermannplatz,M,10:30
+M4271,U8,Kottbusser Tor,M,10:58
+M4272,U6,Kaiserin-Augusta-straße,M,12:16
+M4274,U8,Rosenthaler Platz,M,14:16
+M4275,U3,Kottbusser Tor,M,14:53
+M4276,U8,Hermannstraße,M,17:16
+M4277,S7,Ahrensfelde,T,06:04
+M4278,S41,Tempelhof,T,07:27
+M4279,U2,Märkisches Museum,T,07:57
+M4281,U8,Alexanderplatz,T,08:54
+M4282,U8,Hermannplatz,T,09:37
+M4283,U8,Leinestraße,T,09:38
+M4284,U2,Alexanderplatz,T,10:06
+M4285,U8,Rosenthaler Platz,T,10:10
+M4290,S3,Bellevue,T,13:17
+M4291,S7,Friedrichstraße,T,14:05
+M4292,U8,Pankstraße,T,14:13
+M4293,U2,Spittelmarkt,T,14:33
+M4294,U6,Unter den Linden,T,14:36
+M4295,U8,Wittenau,T,14:39
+M4296,U2,Alexanderplatz,T,14:41
+M4297,U8,Alexanderplatz,T,14:57
+M4298,S25,Hennigsdorf,T,15:42
+M4299,U8,Gesundbrunnen,T,16:47
+M4300,U8,Alexanderplatz,T,17:20
+M4301,U8,Weinmeisterstraße,T,17:45
+M4302,U8,Bernauer Straße,T,18:23
+M4303,U1,Kottbusser Tor,T,18:33
+M4304,U9,Leopoldplatz,T,20:35
+M4305,U2,Rosa-Luxemburg-Platz,W,08:40
+M4308,U2,Spittelmarkt,W,10:16
+M4309,U8,Hermannplatz,W,10:42
+M4310,S41,Schöneberg,W,11:08
+M4311,U2,Anton-Wilhelm-Amo-straße,W,11:26
+M4312,S7,Berlin Hauptbahnhof,W,11:30
+M4313,U6,Kurt-Schumacher-Platz,W,12:37
+M4314,U8,Hermannplatz,W,12:43
+M4316,U2,Klosterstraße,W,13:11
+M4317,U6,Naturkundemuseum,W,13:50
+M4318,U6,Leopoldplatz,W,13:59
+M4319,U8,Voltastraße,W,14:37
+M4320,U2,Vinetastraße,W,15:35
+M4321,U8,Gesundbrunnen,W,15:52
+M4323,S42,Hohenzollerndamm,W,16:11
+M4324,U2,Ruhleben,W,16:31
+M4325,U6,Rehberge,W,18:24
+M4326,U6,Kurt-Schumacher-Platz,W,18:39
+M4328,U2,Ernst-Reuter-Platz,Z,08:12
+M4330,S8,Schöneweide,Z,09:17
+M4331,U8,Franz-Neumann-Platz,Z,09:55
+M4332,U8,Rosenthaler Platz,M,12:15
+M4333,U3,Krumme Lanke,M,12:31
+M4334,U8,Rosenthaler Platz,M,12:55
+M4335,U8,Rosenthaler Platz,M,13:11
+M4338,U3,Kottbusser Tor,M,14:22
+M4339,U9,Zoologischer Garten,M,15:09
+M4341,U9,Rathaus Steglitz,M,17:38
+M4342,U9,Leopoldplatz,M,18:06
+M4343,U9,Osloer Straße,M,18:36
+M4344,U3,Gleisdreieck,M,18:38
+M4345,U9,Amrumer Straße,T,07:34
+M4346,U3,Kottbusser Tor,T,07:41
+M4347,U5,Rotes Rathaus,T,08:24
+M4348,U7,Jungfernheide,T,10:54
+M4349,U7,Jungfernheide,T,11:06
+M4350,U8,Boddinstraße,T,11:21
+M4351,U9,Zoologischer Garten,T,11:47
+M4352,U3,Kottbusser Tor,T,11:49
+M4353,U7,Grenzallee,T,14:18
+M4354,U7,Neukölln,T,14:41
+M4355,S2,Brandenburger Tor,T,18:36
+M4356,U8,Alexanderplatz,T,19:29
+M4357,U8,Kottbusser Tor,T,19:56
+M4358,U5,Schillingstraße,W,08:29
+M4360,U9,Westhafen,W,08:58
+M4361,U2,Alexanderplatz,W,09:17
+M4362,U3,Gleisdreieck,W,10:51
+M4366,S41,Tempelhof,W,11:37
+M4367,U5,Frankfurter Allee,W,11:49
+M4368,S41,Tempelhof,W,11:52
+M4369,U3,Warschauer Straße,W,11:54
+M4370,U3,Möckernbrücke,W,12:47
+M4371,U9,Nauener Platz,W,13:13
+M4372,U8,Franz-Neumann-Platz,W,13:36
+M4373,U3,Kurfürstenstraße,W,14:15
+M4374,U9,Berliner Straße,W,14:34
+M4375,U8,Moritzplatz,W,15:34
+M4376,U9,Nauener Platz,W,16:58
+M4377,U6,Leopoldplatz,W,19:01
+M4378,U9,Rathaus Neukölln/Alfred-Scholz-Platz,Z,07:56
+M4379,U2,Zoologischer Garten,Z,09:11
+M4380,U5,Samariterstraße,Z,09:14
+M4381,U5,Samariterstraße,Z,09:35
+M4382,U7,Bayerischer Platz,Z,10:35
+M4383,U5,Unter den Linden,Z,11:02
+M4384,U5,Alexanderplatz,Z,11:22
+M4385,U8,Weinmeisterstraße,Z,11:22
+M4387,U8,Pankstraße,Z,12:00
+M4388,S3,Rummelsburg,Z,12:16
+M4389,U6,Leopoldplatz,Z,12:33
+M4390,S7,Ostbahnhof,Z,13:14
+M4391,S9,Berlin Hauptbahnhof,Z,16:20
+M4393,U8,Hermannplatz,Z,20:08
+M4394,S41,Sonnenallee,Z,20:36
+M4395,U3,Möckernbrücke,F,09:40
+M4396,U7,Rathaus Neukölln,F,10:51
+M4397,S75,Springpfuhl,F,11:36
+M4398,U5,Frankfurter Allee,F,12:00
+M4399,U1,Hallesches Tor,F,12:01
+M4400,U5,Frankfurter Allee,F,12:07
+M4403,U5,Frankfurter Allee,F,13:36
+M4405,U1,Görlitzer,F,15:38
+M4407,U6,Wedding,T,12:34
+M4408,U6,Kurt-Schumacher-Platz,T,14:21
+M4409,M43,Sommerbad Neukölln,T,14:25
+M4411,U8,Franz-Neumann-Platz,T,15:11
+M4414,U6,Rehberge,W,07:31
+M4415,U8,Alexanderplatz,W,08:22
+M4416,U8,Weinmeisterstraße,W,10:43
+M4418,U8,Heinrich-Heine-straße,W,12:14
+M4420,U8,Hermannplatz,W,12:50
+M4421,U7,Mehringdamm,W,13:04
+M4422,U3,Kottbusser Tor,W,13:30
+M4423,U2,Alexanderplatz,W,15:09
+M4425,U8,Rosenthaler Platz,W,17:33
+M4426,U2,Vinetastraße,W,17:34
+M4428,U8,Hermannplatz,Z,09:39
+M4429,U8,Kottbusser Tor,Z,09:43
+M4430,U6,Leopoldplatz,Z,10:30
+M4431,U8,Hermannstraße,Z,10:32
+M4432,U8,Wittenau,Z,11:09
+M4433,U6,Tempelhof,Z,11:50
+M4435,U8,Alexanderplatz,Z,13:21
+M4436,U8,Franz-Neumann-Platz,Z,13:32
+M4437,U6,Kurt-Schumacher-Platz,Z,14:29
+M4438,U6,Leopoldplatz,Z,14:41
+M4439,U8,Bernauer Straße,Z,14:58
+M4441,U3,Warschauer Straße,Z,15:57
+M4442,U6,Stadtmitte,Z,17:36
+M4443,U8,Osloer Straße,Z,18:57
+M4444,U8,Osloer Straße,Z,20:19
+M4445,U8,Wittenau,F,08:04
+M4447,U8,Rosenthaler Platz,F,09:15
+M4448,U8,Schönleinstraße,F,09:21
+M4449,U2,Nollendorfplatz,F,09:34
+M4451,U8,Alexanderplatz,F,10:20
+M4452,U8,Rosenthaler Platz,F,10:43
+M4453,U8,Kottbusser Tor,F,11:15
+M4454,S75,Lichtenberg,F,11:42
+M4455,U8,Gesundbrunnen,F,12:26
+M4457,U8,Bernauer Straße,F,14:10
+M4459,U8,Rosenthaler Platz,F,14:32
+M4461,U9,Spichernstraße,F,14:58
+M4463,U8,Gesundbrunnen,F,16:01
+M4464,U2,Bülowstraße,F,18:38
+M4466,U8,Weinmeisterstraße,S,13:04
+M4467,U2,Pankow,S,13:10
+M4468,U8,Jannowitzbrücke,S,16:45
+M4469,U2,Alexanderplatz,S,18:27
+M4470,U6,Alt-Mariendorf,U,12:21
+M4472,U8,Franz-Neumann-Platz,U,14:47
+M4473,U9,Osloer Straße,M,08:32
+M4474,S41,Tempelhof,M,10:26
+M4475,S3,Wuhlheide,M,10:52
+M4478,U8,Jannowitzbrücke,T,16:20
+M4479,U1,Schlesisches Tor,T,17:47
+M4481,U7,Adenauerplatz,W,08:53
+M4482,U9,Spichernstraße,W,09:18
+M4483,U8,Hermannplatz,W,09:35
+M4484,U6,Oranienburger Tor,W,12:29
+M4485,U6,Kochstraße,W,13:05
+M4487,S45,Hermannstraße,W,13:32
+M4488,U7,Yorckstraße,W,14:07
+M4489,U9,Westhafen,W,17:56
+M4491,U5,Rotes Rathaus,W,19:45
+M4492,U7,Karl-Marx-straße,Z,08:09
+M4495,U7,Blaschkoallee,Z,09:52
+M4496,U7,Grenzallee,Z,10:24
+M4497,U5,Weberwiese,Z,13:06
+M4498,U9,Hansaplatz,Z,14:22
+M4499,U6,Wedding,Z,15:27
+M4501,U7,Konstanzer Straße,Z,16:48
+M4502,U6,Schwartzkopffstraße,F,08:57
+M4503,U7,Rudow,F,09:17
+M4506,U2,Stadtmitte,F,12:18
+M4507,U8,Kottbusser Tor,F,12:20
+M4508,U1,Hallesches Tor,F,13:57
+M4509,U9,Leopoldplatz,F,14:20
+M4510,U6,Schwartzkopffstraße,F,14:26
+M4511,U3,Hallesches Tor,F,15:57
+M4512,U5,Unter den Linden,F,17:42
+M4513,U5,Schillingstraße,S,11:43
+M4514,U3,Krumme Lanke,S,14:25
+M4515,U9,Westhafen,S,14:50
+M4516,U9,Turmstraße,S,15:51
+M4517,U5,Unter den Linden,S,18:17
+M4518,U3,Kurfürstenstraße,S,18:37
+M4520,U9,Leopoldplatz,U,13:04
+M4521,U6,Platz der Vereinten Nationen,U,13:46
+M4522,U8,Alexanderplatz,U,17:13
+M4523,U6,Rehberge,M,08:24
+M4524,U6,Mehringdamm,M,08:36
+M4525,U6,Afrikanische Straße,M,09:11
+M4526,U2,Nollendorfplatz,M,09:22
+M4527,U8,Residenzstraße,M,09:35
+M4528,U8,Kottbusser Tor,M,09:52
+M4529,U8,Schönleinstraße,M,10:55
+M4530,U1,Kottbusser Tor,M,11:02
+M4532,U8,Pankstraße,M,14:24
+M4533,U6,Naturkundemuseum,M,14:30
+M4534,U2,Alexanderplatz,M,15:35
+M4535,U8,Wittenau,M,17:59
+M4536,U8,Bernauer Straße,M,18:21
+M4538,U8,Boddinstraße,Z,09:06
+M4539,U8,Schönleinstraße,Z,09:26
+M4540,U2,Rosa-Luxemburg-Platz,Z,10:34
+M4542,U6,Ullsteinstraße,Z,11:56
+M4543,U6,Leopoldplatz,Z,12:29
+M4544,S42,Tempelhof,Z,12:31
+M4545,U2,Nollendorfplatz,Z,12:47
+M4546,U6,Tempelhof,Z,12:48
+M4547,M8,Springpfuhl,Z,13:10
+M4548,U8,Gesundbrunnen,Z,14:37
+M4549,U8,Alexanderplatz,Z,14:58
+M4550,U6,Kurt-Schumacher-Platz,Z,15:05
+M4551,U6,Alt-Tempelhof,Z,17:24
+M4552,U6,Tempelhof,Z,18:03
+M4553,U8,Rosenthaler Platz,Z,18:36
+M4554,U7,Gneisenaustraße,Z,18:55
+M4555,U7,Pankow,Z,19:19
+M4556,U8,Hermannplatz,F,08:33
+M4557,U6,Leopoldplatz,F,09:39
+M4558,U7,Rudow,F,14:06
+M4559,U8,Alexanderplatz,F,14:28
+M4560,U2,Spittelmarkt,F,18:21
+M4561,U8,Bernauer Straße,S,11:23
+M4562,U8,Alexanderplatz,S,12:13
+M4564,U8,Boddinstraße,S,12:56
+M4566,U8,Hermannplatz,S,13:43
+M4567,U8,Moritzplatz,S,15:37
+M4569,U8,Jannowitzbrücke,S,18:15
+M4570,U8,Rosenthaler Platz,U,12:14
+M4573,S41,Treptower Park,U,16:46
+M4574,U9,Osloer Straße,M,09:23
+M4575,U7,Mehringdamm,M,10:10
+M4577,U8,Moritzplatz,M,10:39
+M4578,U8,Kottbusser Tor,M,10:50
+M4579,S2,Gesundbrunnen,M,11:19
+M4580,U9,Birkenstraße,M,11:59
+M4581,U7,Gneisenaustraße,M,13:12
+M4582,M41,Hermannplatz,M,13:16
+M4583,U7,Eisenacher Straße,M,13:34
+M4584,S41,Sonnenallee,M,14:14
+M4585,U3,Kottbusser Tor [Reichenberger Straße],M,14:23
+M4586,U9,Zoologischer Garten,M,14:39
+M4588,U5,Alexanderplatz,M,14:52
+M4589,U5,Museumsinsel,M,17:46
+M4590,U9,Leopoldplatz,M,19:38
+M4591,U9,Leopoldplatz,M,20:05
+M4592,U9,Osloer Straße,T,11:07
+M4593,U8,Amrumer Straße,T,12:45
+M4594,U5,Museumsinsel,T,13:47
+M4595,U8,Rudow,T,13:54
+M4596,U7,Hermannplatz,T,14:01
+M4597,U7,Rudow,T,14:03
+M4599,S42,Hermannstraße,T,14:24
+M4600,U5,Schillingstraße,S,11:42
+M4602,S1,Friedrichstraße,S,12:59
+M4603,U9,Amrumer Straße,S,13:05
+M4604,U9,Osloer Straße,S,13:53
+M4605,U5,Weberwiese,S,15:38
+M4606,U5,Magdalenenstraße,S,17:40
+M4607,U9,Westhafen,S,17:45
+M4608,S2,Humboldthain,S,20:53
+M4609,S42,Gesundbrunnen,U,09:25
+M4610,U5,Weberwiese,U,11:37
+M4611,U9,Turmstraße,U,12:03
+M4612,U3,Krumme Lanke,U,12:24
+M4613,U3,Schlesisches Tor,U,12:49
+M4614,U9,Friedrich-Wilhelm-Platz,U,13:11
+M4615,U1,Görlitzer,U,13:19
+M4616,U5,Magdalenenstraße,U,13:49
+M4617,S46,Hermannstraße,U,15:23
+M4618,U3,Hallesches Tor,U,16:13
+M4619,U2,Hausvogteiplatz,M,08:49
+M4620,U8,Paracelsus-Bad,M,08:59
+M4621,U8,Franz-Neumann-Platz,M,09:16
+M4622,U2,Rosa-Luxemburg-Platz,M,10:22
+M4623,U2,Deutsche Oper,M,10:56
+M4624,S7,Tiergarten,M,11:37
+M4626,U5,Unter den Linden,M,13:15
+M4627,U8,Paracelsus-Bad,M,13:36
+M4628,U8,Bernauer Straße,M,14:00
+M4629,U6,Naturkundemuseum,M,14:18
+M4630,U3,Bayerischer Platz,M,15:28
+M4631,U2,Schönhauser Allee,T,08:39
+M4632,U2,Rosa-Luxemburg-Platz,T,08:40
+M4633,U6,Platz der Vereinten Nationen,T,08:46
+M4636,U2,Vinetastraße,T,09:17
+M4637,U2,Ernst-Reuter-Platz,T,09:44
+M4638,S3,Messe Süd,T,09:47
+M4639,U6,Wedding,T,10:01
+M4640,U8,Alexanderplatz,T,10:02
+M4641,U2,Rosa-Luxemburg-Platz,T,10:23
+M4643,S42,Hermannstraße,T,10:59
+M4645,U2,Stadtmitte,T,11:06
+M4647,U2,Schönhauser Allee,T,13:44
+M4648,U6,Leopoldplatz,T,14:18
+M4649,U2,Rosa-Luxemburg-Platz,T,15:08
+M4650,U8,Rosenthaler Platz,T,18:24
+M4653,U5,Unter den Eichen/Botanischer Garten,W,09:02
+M4654,U8,Kottbusser Tor,W,09:40
+M4655,U2,Rosa-Luxemburg-Platz,W,09:43
+M4656,U2,Klosterstraße,W,09:48
+M4658,U8,Kottbusser Tor,W,11:03
+M4659,U9,Amrumer Straße,W,11:12
+M4660,U5,Strausberger Platz,W,12:05
+M4661,U6,Kurt-Schumacher-Platz,W,13:28
+M4662,U2,Eberswalder Straße,W,14:00
+M4663,U2,Spittelmarkt,W,14:20
+M4664,U2,Eberswalder Straße,W,14:30
+M4666,U3,Warschauer Straße,T,07:34
+M4667,U5,Kaulsdorf-Nord,T,08:54
+M4668,U5,Kienberg,T,11:11
+M4669,U3,Kottbusser Tor,T,12:45
+M4670,S7,Mehrower Allee,T,12:54
+M4671,U5,Tierpark,T,13:21
+M4673,U9,Bundesplatz,T,14:25
+M4674,U5,Kienberg,T,16:55
+M4675,U9,Kurfürstendamm,T,18:11
+M4676,U3,Schlesisches Tor,T,19:27
+M4677,U9,Bundesplatz,T,19:31
+M4679,U9,Amrumer Straße,W,09:39
+M4680,U9,Westhafen,W,09:42
+M4681,U9,Turmstraße,W,09:45
+M4684,S1,Mexikoplatz,W,11:11
+M4686,U9,Turmstraße,W,11:48
+M4687,U5,Magdalenenstraße,W,12:03
+M4688,U5,Magdalenenstraße,W,12:06
+M4689,U9,Rathaus Steglitz,W,13:39
+M4690,U3,Kurfürstenstraße,W,15:23
+M4691,U8,Leopoldplatz,W,17:12
+M4692,U3,Möckernbrücke,W,17:15
+M4693,U9,Westhafen,W,17:54
+M4694,U5,Magdalenenstraße,W,18:10
+M4697,U5,Museumsinsel,Z,09:09
+M4698,U5,Alexanderplatz,Z,09:16
+M4699,U5,Kaulsdorf-Nord,Z,09:33
+M4701,U9,Turmstraße,Z,09:54
+M4702,U5,Berlin Hauptbahnhof,Z,09:56
+M4703,U5,Friedrichsfelde,Z,10:10
+M4704,S42,Westhafen,Z,10:54
+M4705,U5,Samariterstraße,Z,11:50
+M4706,U9,Hansaplatz,Z,13:28
+M4707,U5,Lichtenberg,Z,13:55
+M4708,S3,Tiergarten,Z,14:24
+M4709,U9,Turmstraße,Z,15:14
+M4711,S7,Springpfuhl,Z,15:51
+M4712,U5,Frankfurter Allee,Z,15:52
+M4713,U6,Unter den Linden,F,09:03
+M4714,U9,Leopoldplatz,F,10:18
+M4715,S26,Humboldthain,F,10:50
+M4717,S41,Schönhauser Allee,F,13:19
+M4718,U5,Frankfurter Allee,F,13:56
+M4720,U7,Richard-Wagner-Platz,F,17:58
+M4721,U8,Kottbusser Tor,W,15:16
+M4722,U9,Rathaus Steglitz,W,15:37
+M4724,U2,Stadtmitte,W,17:02
+M4725,U8,Boddinstraße,W,17:32
+M4726,U8,Hermannstraße,W,18:07
+M4727,U8,Osloer Straße,W,18:23
+M4729,U8,Paracelsus-Bad,W,19:39
+M4731,U2,Potsdamer Platz,W,19:50
+M4732,U6,Rehberge,Z,09:13
+M4733,U8,Rathaus Reinickendorf,Z,09:22
+M4735,U2,Alexanderplatz,Z,12:10
+M4736,U8,Gesundbrunnen,Z,12:33
+M4737,U6,Leopoldplatz,Z,13:49
+M4738,U6,Mehringdamm,Z,13:59
+M4740,U8,Weinmeisterstraße,Z,15:23
+M4742,U2,Hausvogteiplatz,Z,18:52
+M4743,U8,Pankstraße,F,06:58
+M4745,S41,Greifswalder Straße/Danziger Straße,F,08:23
+M4746,U2,Rosa-Luxemburg-Platz,F,08:47
+M4747,U8,Schönleinstraße,F,08:51
+M4748,U8,Hermannplatz,F,08:53
+M4750,U6,Kurt-Schumacher-Platz,F,09:59
+M4751,U8,Jannowitzbrücke,F,10:33
+M4752,U8,Alexanderplatz,F,10:44
+M4753,U2,Stadtmitte,F,12:18
+M4755,U8,Rosenthaler Platz,F,14:43
+M4756,U6,Leopoldplatz,F,14:54
+M4757,U8,Rosenthaler Platz,F,14:57
+M4759,U2,Gleisdreieck,F,16:45
+M4760,U8,Bernauer Straße,F,18:17
+M4761,U2,Stadtmitte,F,19:53
+M4762,U2,Alexanderplatz,F,20:14
+M4763,U2,Alexanderplatz,S,00:38
+M4764,S42,Südkreuz,S,08:17
+M4765,S41,Frankfurter Allee,S,09:37
+M4766,U8,Alexanderplatz,S,12:09
+M4767,U6,Leopoldplatz,S,12:15
+M4768,U2,Klosterstraße,S,13:52
+M4769,U8,Osloer Straße,S,15:32
+M4770,U2,Märkisches Museum,S,15:40
+M4771,U8,Alexanderplatz,S,15:43
+M4773,U9,Leopoldplatz,U,11:34
+M4774,U8,Voltastraße,U,11:40
+M4775,U6,Friedrichstraße,U,14:05
+M4776,U8,Hermannstraße,U,16:29
+M4777,U6,Ullsteinstraße,U,17:11
+M4778,U6,Alt-Mariendorf,U,18:15
+M4779,U5,Museumsinsel,M,09:46
+M4780,U1,Kottbusser Tor,M,11:29
+M4781,S47,Südkreuz,M,12:26
+M4782,S7,Zoologischer Garten,M,12:43
+M4784,U5,Brandenburger Tor,M,15:11
+M4786,U8,Schönleinstraße,M,15:44
+M4787,U6,Naturkundemuseum,M,18:14
+M4788,S5,Berlin Hauptbahnhof,F,10:28
+M4789,S2,Karow,F,11:18
+M4790,U9,Leopoldplatz,F,11:18
+M4791,U6,Friedrichstraße,F,13:20
+M4792,U5,Frankfurter Allee,F,13:22
+M4793,U3,Schlesisches Tor,F,13:26
+M4794,U5,Friedrichsfelde,F,13:30
+M4795,U5,Frankfurter Allee,F,13:36
+M4796,U3,Kottbusser Tor,F,15:39
+M4798,U5,Frankfurter Allee,F,18:25
+M4799,U9,Hansaplatz,S,12:27
+M4800,U5,Frankfurter Allee,S,13:01
+M4801,U5,Frankfurter Allee,S,14:14
+M4803,U1,Kottbusser Tor,S,16:39
+M4804,S42,Gesundbrunnen,U,09:42
+M4805,U9,Leopoldplatz,U,11:36
+M4808,U9,Turmstraße,U,16:21
+M4809,U9,Zoologischer Garten,U,16:42
+M4810,U5,Museumsinsel,U,18:23
+M4811,U9,Westhafen,U,18:59
+M4812,S41,Treptower Park,M,08:17
+M4813,U2,Märkisches Museum,M,08:33
+M4815,U7,Zitadelle Spandau,M,09:30
+M4816,U9,Zoologischer Garten,M,09:44
+M4817,U2,Rosa-Luxemburg-Platz,M,10:04
+M4818,U8,Kottbusser Tor,M,10:07
+M4819,M6,Schalkauer Straße,M,10:14
+M4821,U8,Osloer Straße,M,11:54
+M4822,U8,Bernauer Straße,M,12:42
+M4823,U2,Eberswalder Straße,M,12:43
+M4824,U8,Hermannplatz,M,13:29
+M4825,U8,Kottbusser Tor,M,13:51
+M4826,U8,Leinestraße,M,13:56
+M4827,U8,Boddinstraße,M,14:46
+M4828,U8,Voltastraße,M,14:51
+M4829,U2,Eberswalder Straße/Pappelallee,M,18:01
+M4830,U7,Yorckstraße,M,18:01
+M4831,U8,Boddinstraße,M,18:32
+M4832,U8,Hermannstraße,T,08:33
+M4833,U8,Franz-Neumann-Platz,T,10:34
+M4835,U8,Osloer Straße,T,12:06
+M4836,U8,Kottbusser Tor,T,14:17
+M4837,U7,Yorckstraße,T,14:20
+M4838,U6,Seestraße,T,14:53
+M4840,U6,Rehberge,T,15:33
+M4841,U6,Platz der Vereinten Nationen,T,16:09
+M4843,S42,Hermannstraße,T,16:10
+M4844,U6,Oranienburger Tor,T,16:20
+M4845,U8,Gesundbrunnen,T,18:30
+M4846,U6,Leopoldplatz,T,19:08
+M4847,U8,Franz-Neumann-Platz,W,07:22
+M4848,U8,Schönleinstraße,W,07:44
+M4849,U8,Hermannplatz,W,08:05
+M4850,S9,Zoologischer Garten,W,08:33
+M4851,U2,Spittelmarkt,W,08:40
+M4852,U2,Nollendorfplatz,W,08:48
+M4853,S3,Alexanderplatz,W,09:04
+M4854,U8,Alexanderplatz,W,09:49
+M4857,U2,Alexanderplatz,W,10:32
+M4858,U9,Spichernstraße,W,10:57
+M4860,U9,Osloer Straße,W,12:06
+M4861,U2,Potsdamer Platz,W,12:09
+M4862,U2,Potsdamer Platz,W,12:12
+M4863,U6,Stadtmitte,W,13:58
+M4864,M4,Greifswalder Straße,W,14:15
+M4865,M4,Greifswalder Straße,W,14:16
+M4867,U8,Hermannplatz,W,14:54
+M4868,U5,Unter den Linden,M,12:46
+M4869,S8,Schönhauser Allee,M,13:17
+M4870,U9,Nauener Platz,M,14:35
+M4871,U7,Lipschitzallee,M,16:58
+M4872,U7,Gneisenaustraße,T,08:09
+M4873,U3,Hallesches Tor,T,08:49
+M4874,U9,Hansaplatz,T,09:36
+M4875,U9,Hansaplatz,T,09:46
+M4876,U8,Leinestraße,T,09:48
+M4877,U9,Hansaplatz,T,10:05
+M4878,S41,Tempelhof,T,10:33
+M4879,U6,Wedding,T,10:45
+M4880,U3,Hallesches Tor,T,11:09
+M4881,U1,Görlitzer,T,13:04
+M4882,U8,Rosenthaler Platz,T,13:51
+M4883,U5,Friedrichsfelde,T,14:20
+M4884,U8,Schönleinstraße,T,14:25
+M4885,U9,Zoologischer Garten,T,14:26
+M4886,U9,Hansaplatz,T,14:29
+M4890,U9,Westhafen,T,17:54
+M4891,U7,Karl-Marx-straße,T,18:34
+M4893,U9,Leopoldplatz,W,07:35
+M4894,U9,Hansaplatz,W,07:59
+M4895,U7,Rathaus Neukölln,W,08:10
+M4896,U7,Mehringdamm,W,08:24
+M4898,U9,Birkenstraße,W,09:00
+M4899,U3,Fehrbelliner Platz,W,09:30
+M4900,U9,Leopoldplatz,W,09:33
+M4901,U8,Rosenthaler Platz,W,09:44
+M4902,S41,Prenzlauer Allee,W,09:49
+M4904,U5,Lichtenberg,W,11:56
+M4905,U8,Gesundbrunnen,W,12:01
+M4906,U7,Grenzallee,W,13:19
+M4907,U7,Haselhorst,W,13:54
+M4908,U1,Warschauer Straße,W,14:28
+M4909,U7,Südstern,W,14:43
+M4910,U9,Amrumer Straße,W,14:56
+M4911,U3,Görlitzer,W,16:57
+M4912,U9,Amrumer Straße,W,17:05
+M4913,U9,Amrumer Straße,W,17:14
+M4914,U9,Westhafen,W,17:40
+M4916,U5,Lichtenberg,Z,09:36
+M4919,U2,Ruhleben,Z,10:16
+M4920,U5,Frankfurter Tor,Z,11:33
+M4922,U8,Alexanderplatz,Z,12:55
+M4923,U8,Alexanderplatz,Z,13:16
+M4924,U1,Kottbusser Tor,Z,14:21
+M4925,U3,Görlitzer,Z,15:01
+M4926,U8,Hermannplatz,Z,15:07
+M4927,U1,Hallesches Tor,Z,16:42
+M4928,U3,Krumme Lanke,Z,16:42
+M4932,U5,Weberwiese,F,08:37
+M4933,U9,Turmstraße,F,08:49
+M4934,U9,Osloer Straße,F,09:27
+M4935,U5,Weberwiese,F,09:55
+M4936,S5,Berlin Hauptbahnhof,F,10:25
+M4937,U8,Rosenthaler Platz,W,10:03
+M4938,U8,Boddinstraße,W,10:05
+M4940,U7,Halemweg,W,10:41
+M4941,U2,Nollendorfplatz,W,10:51
+M4942,U2,Hausvogteiplatz,W,11:39
+M4944,U8,Heinrich-Heine-straße,W,11:43
+M4945,U7,Yorckstraße,W,11:44
+M4946,U8,Kottbusser Tor,W,11:52
+M4947,U8,Boddinstraße,W,13:12
+M4949,U5,Frankfurter Tor,W,13:24
+M4950,U2,Pankow,W,14:25
+M4951,U8,Schönleinstraße,W,14:47
+M4953,U8,Heinrich-Heine-straße,W,16:00
+M4955,U2,Rosa-Luxemburg-Platz,W,17:54
+M4956,U8,Leinestraße,W,18:35
+M4957,U6,Friedrichstraße,Z,08:34
+M4958,U6,Leopoldplatz,Z,08:34
+M4959,U6,Alt-Mariendorf,Z,10:03
+M4962,U2,Ruhleben,Z,10:48
+M4963,U2,Senefelderplatz,Z,10:53
+M4964,S3,Köpenick,Z,11:16
+M4965,U6,Leopoldplatz,Z,11:36
+M4966,U6,Reinickendorfer Straße,Z,13:05
+M4968,S8,Ostkreuz,Z,13:33
+M4969,U2,Schönhauser Allee,Z,13:49
+M4970,U2,Eberswalder Straße,Z,14:02
+M4971,U8,Karl-Bonhoeffer-Nervenklinik,Z,14:06
+M4973,S7,"Potsdam, Neuendorfer Straße/Mendelssohn-Bartholdy-straße",Z,14:29
+M4975,U6,Tempelhof,Z,14:58
+M4976,U8,Leinestraße,Z,15:03
+M4977,U8,Boddinstraße,Z,15:05
+M4979,U8,Kottbusser Tor,Z,17:10
+M4980,U6,Unter den Linden,Z,17:32
+M4981,S41,Wedding,Z,18:22
+M4982,U2,Stadtmitte,Z,20:24
+M4983,U8,Leinestraße,F,08:42
+M4985,U5,Strausberger Platz,F,11:39
+M4989,U8,Bernauer Straße,F,12:55
+M4991,U2,Märkisches Museum,F,13:48
+M4992,U2,Märkisches Museum,F,14:03
+M4993,U8,Moritzplatz,F,14:54
+M4995,U8,Gesundbrunnen,F,16:37
+M4996,U8,Kottbusser Tor,F,17:20
+M4997,U8,Gesundbrunnen,F,17:35
+M4999,U8,Moritzplatz,F,18:14
+M5001,U5,Lichtenberg,F,21:36
+M5002,U6,Wedding,S,11:22
+M5003,U8,Osloer Straße,S,12:36
+M5004,U6,Reinickendorfer Straße,S,13:33
+M5005,U6,Naturkundemuseum,S,13:58
+M5006,U2,Stadtmitte,S,14:02
+M5007,U6,Rehberge,S,16:09
+M5008,U8,Weinmeisterstraße,S,16:10
+M5009,U8,Osloer Straße,S,16:47
+M5010,U8,Rosenthaler Platz,S,17:18
+M5011,U8,Pankstraße,S,18:30
+M5014,U8,Kottbusser Tor,U,16:36
+M5015,U6,Oranienburger Tor,U,16:41
+M5016,U7,Gneisenaustraße,M,07:48
+M5017,U3,Schlesisches Tor,M,08:30
+M5018,U8,Schönleinstraße,M,08:49
+M5019,U3,Hohenzollernplatz,M,09:17
+M5021,U9,Amrumer Straße,M,09:24
+M5022,U3,Spichernstraße,M,09:36
+M5023,U7,Rudow,M,09:55
+M5024,S41,Hermannstraße,M,10:16
+M5025,U5,Frankfurter Allee,M,10:44
+M5026,U8,Moritzplatz,M,11:09
+M5027,U5,Frankfurter Allee,M,12:10
+M5028,U7,Wilmersdorfer Straße/S Charlottenburg,M,12:16
+M5029,U5,Weberwiese,M,12:33
+M5030,U5,Kaulsdorf-Nord,Z,17:29
+M5031,U5,Friedrichsfelde,Z,18:19
+M5033,U1,Hallesches Tor,Z,18:57
+M5034,U9,Zoologischer Garten,Z,19:21
+M5035,U9,Nauener Platz,Z,19:52
+M5037,U7,Neukölln,F,07:43
+M5039,TRAM16,Marzahn,F,08:28
+M5040,U7,Blissestraße,F,10:44
+M5041,U3,Fehrbelliner Platz,F,10:55
+M5042,U8,Weinmeisterstraße,F,10:59
+M5044,U8,Kottbusser Tor,F,12:27
+M5045,U5,Samariterstraße,F,13:14
+M5048,U1,Görlitzer,F,15:22
+M5050,U7,Hermannplatz,F,17:53
+M5051,U5,Kaulsdorf,S,13:21
+M5052,U5,Elsterwerdaer Platz,S,13:28
+M5053,U1,Hallesches Tor,S,14:26
+M5054,S5,Tiergarten,S,15:09
+M5055,U5,Friedrichsfelde,S,16:37
+M5056,U5,Weberwiese,S,17:23
+M5057,S42,Tempelhof,S,19:52
+M5059,U5,Unter den Linden,U,14:37
+M5060,U8,Weinmeisterstraße,U,15:20
+M5061,U3,Warschauer Straße,U,16:53
+M5062,U8,Alexanderplatz,M,08:23
+M5063,U8,Paracelsus-Bad,M,09:03
+M5064,U6,Rehberge,M,09:09
+M5066,U8,Osloer Straße,M,09:40
+M5068,U6,Afrikanische Straße,M,11:15
+M5069,U6,Rehberge,M,11:16
+M5070,U2,Stadtmitte,M,13:42
+M5072,U6,Friedrichstraße,M,14:07
+M5074,U6,Friedrichstraße,M,15:04
+M5077,U8,Voltastraße,M,16:12
+M5078,U8,Rosenthaler Platz,M,17:09
+M5079,U8,Rosenthaler Platz,M,17:56
+M5080,U5,Frankfurter Allee,M,18:34
+M5081,U8,Gesundbrunnen,M,19:06
+M5082,U2,Pankow,M,19:19
+M5083,S7,Nöldnerplatz,T,07:37
+M5085,U6,Tempelhof,T,08:33
+M5086,U6,Leopoldplatz,T,09:09
+M5087,U8,Alexanderplatz,T,09:10
+M5088,U8,Heinrich-Heine-straße/Annenstraße,T,09:51
+M5089,U9,Rathaus Steglitz,T,10:51
+M5091,S9,Flughafen BER,T,11:10
+M5092,U6,Wedding,T,11:30
+M5094,U8,Pankstraße,T,12:02
+M5095,U8,Osloer Straße,T,12:10
+M5096,U8,Franz-Neumann-Platz,T,12:47
+M5097,U2,Märkisches Museum,T,12:50
+M5098,U2,Stadtmitte,T,13:05
+M5099,U2,Potsdamer Platz,T,13:10
+M5100,U8,Rosenthaler Platz,T,13:10
+M5102,U8,Schönleinstraße,T,13:43
+M5103,U9,Zoologischer Garten,T,14:19
+M5104,U6,Leopoldplatz,T,14:31
+M5105,U8,Hermannstraße,T,14:33
+M5106,U6,Leopoldplatz,T,15:18
+M5107,U8,Franz-Neumann-Platz,T,15:26
+M5108,U8,Pankstraße,T,15:32
+M5109,U8,Voltastraße,T,15:37
+M5111,S42,Neukölln,T,16:26
+M5112,U8,Alexanderplatz,T,17:22
+M5113,U8,Leinestraße,T,17:57
+M5114,U8,Osloer Straße,T,19:30
+M5115,U2,Potsdamer Platz,W,08:40
+M5118,U8,Osloer Straße,U,11:17
+M5119,U6,Friedrichstraße,U,12:03
+M5120,S7,Tiergarten,U,16:32
+M5121,S1,Friedenau,M,07:42
+M5122,U5,Alexanderplatz,M,08:57
+M5123,S41,Westhafen,M,09:14
+M5124,U9,Turmstraße,M,09:22
+M5125,U9,Amrumer Straße,M,09:39
+M5126,U5,Alexanderplatz,M,11:51
+M5127,U1,Schlesisches Tor,M,11:52
+M5128,U7,Adenauerplatz,M,12:07
+M5129,U8,Hermannplatz,M,13:28
+M5130,U9,Berliner Straße,M,14:14
+M5131,U5,Magdalenenstraße,M,14:37
+M5132,U5,Frankfurter Allee,M,14:42
+M5134,U8,Osloer Straße,M,15:01
+M5135,U1,Kottbusser Tor,M,15:11
+M5136,U1,Görlitzer,M,15:25
+M5137,U8,Pankstraße,M,15:35
+M5138,U1,Görlitzer,M,16:53
+M5140,U7,Rathaus Spandau,T,08:39
+M5141,U5,Frankfurter Allee,T,08:51
+M5142,U7,Berliner Straße,T,08:59
+M5143,U5,Friedrichsfelde Ost,T,09:05
+M5144,U9,Zoologischer Garten,T,09:48
+M5146,U5,Frankfurter Tor,T,10:03
+M5147,U9,Leopoldplatz,T,10:10
+M5148,S3,Wuhlheide,T,10:10
+M5149,U9,Birkenstraße,T,11:28
+M5150,U5,Weberwiese,T,12:34
+M5151,U5,Frankfurter Allee,T,12:50
+M5155,U9,Zoologischer Garten,T,13:26
+M5156,U7,Wutzkyallee,T,13:52
+M5157,U7,Fehrbelliner Platz,T,13:59
+M5158,U3,Warschauer Straße,T,14:17
+M5160,U5,Samariterstraße,T,15:14
+M5161,U3,Prinzenstraße,T,17:35
+M5162,U5,Samariterstraße,T,18:10
+M5163,U5,Weberwiese,T,18:12
+M5165,U5,Schillingstraße,T,19:22
+M5166,U1,Görlitzer,T,19:23
+M5167,U3,Görlitzer,T,19:37
+M5168,U5,Museumsinsel,T,20:01
+M5169,U5,Rotes Rathaus,T,20:06
+M5170,U5,Alexanderplatz,T,20:19
+M5172,U9,Zoologischer Garten,W,08:57
+M5173,U5,Magdalenenstraße,W,09:38
+M5175,U9,Turmstraße,W,11:09
+M5176,U9,Amrumer Straße,W,11:25
+M5177,U5,Brandenburger Tor,W,11:26
+M5179,U5,Magdalenenstraße,W,12:14
+M5180,U5,Hönow,W,12:15
+M5183,U9,Turmstraße,W,13:05
+M5184,U7,Mehringdamm,W,13:07
+M5185,U5,Samariterstraße,W,13:38
+M5186,U5,Biesdorf-Süd,W,15:50
+M5187,U9,Rathaus Steglitz,W,17:12
+M5189,U9,Osloer Straße,W,18:55
+M5190,U1,Möckernbrücke,Z,08:11
+M5191,U5,Unter den Linden,Z,08:29
+M5192,U5,Hönow,Z,08:53
+M5193,U9,Turmstraße,Z,09:03
+M5194,U9,Zoologischer Garten,Z,09:12
+M5195,U7,Mehringdamm,Z,09:14
+M5197,U9,Amrumer Straße,Z,09:41
+M5198,U7,Eisenacher Straße,Z,09:42
+M5199,U8,Alexanderplatz,Z,11:49
+M5201,U5,Frankfurter Allee,Z,11:53
+M5202,U5,Museumsinsel,Z,11:59
+M5204,U5,Alexanderplatz,Z,12:15
+M5205,M2,Alexanderplatz,Z,13:22
+M5206,S41,Hermannstraße,Z,13:37
+M5208,U6,Mehringdamm,Z,14:19
+M5209,U9,Berliner Allee/Rennbahnstraße,Z,15:02
+M5210,U9,Westhafen,Z,15:07
+M5211,U6,Kochstraße,Z,15:52
+M5213,U8,Hermannplatz,T,10:59
+M5214,U8,Hermannplatz,T,11:13
+M5215,U6,Kochstraße,T,11:44
+M5216,U6,Stadtmitte,T,12:43
+M5217,U6,Hallesches Tor,T,12:46
+M5218,U6,Kochstraße,T,13:21
+M5219,U8,Alexanderplatz,T,13:53
+M5220,U6,Stadtmitte,T,14:11
+M5222,S7,Ahrensfelde,T,16:26
+M5223,U2,Spittelmarkt,T,17:16
+M5224,U8,Rosenthaler Platz,T,17:24
+M5225,U2,Rosa-Luxemburg-Platz,T,18:01
+M5226,U8,Gesundbrunnen,T,18:05
+M5227,U8,Weinmeisterstraße,T,18:16
+M5228,U8,Wittenau,T,18:20
+M5229,U8,Alexanderplatz,W,07:24
+M5232,U9,Zoologischer Garten,W,08:46
+M5233,U2,Vinetastraße,W,08:52
+M5235,U8,Rosenthaler Platz,W,09:55
+M5236,U6,Reinickendorfer Straße,W,10:15
+M5237,U8,Rosenthaler Platz,W,10:37
+M5238,U8,Bernauer Straße,W,10:40
+M5239,U8,Gesundbrunnen,W,11:24
+M5240,U8,Alexanderplatz,W,11:29
+M5242,U6,Stadtmitte,W,12:13
+M5244,U6,Friedrichstraße,W,12:53
+M5245,U8,Weinmeisterstraße,W,13:19
+M5246,S3,Warschauer Straße,W,13:28
+M5247,U7,Berliner Straße,W,13:48
+M5248,U2,Rosa-Luxemburg-Platz,W,14:33
+M5249,U8,Wittenau,W,14:57
+M5250,U2,Bülowstraße,W,17:07
+M5251,U8,Kottbusser Tor,Z,07:45
+M5252,U8,Rosenthaler Platz,Z,08:02
+M5253,U8,Hermannplatz,Z,09:38
+M5255,U8,Weinmeisterstraße,Z,10:35
+M5256,S3,Hirschgarten,Z,10:58
+M5258,U6,Alt-Tempelhof,Z,11:31
+M5259,U8,Pankstraße,Z,12:15
+M5260,U8,Osloer Straße,Z,12:22
+M5261,U8,Schönleinstraße,Z,13:05
+M5264,U2,Märkisches Museum,Z,14:18
+M5265,U8,Osloer Straße,Z,14:22
+M5266,U6,Alt-Mariendorf,Z,14:28
+M5267,U8,Rosenthaler Platz,Z,14:28
+M5268,U2,Nollendorfplatz,Z,14:33
+M5269,U2,Gleisdreieck,Z,20:07
+M5270,U8,Osloer Straße,F,07:14
+M5271,U8,Alexanderplatz,F,07:27
+M5273,U8,Alexanderplatz,F,09:03
+M5274,U8,Bernauer Straße,F,09:34
+M5275,U6,Unter den Linden,F,09:50
+M5277,U8,Pankstraße,F,12:13
+M5278,U8,Hermannplatz,F,13:54
+M5279,U6,Platz der Vereinten Nationen,F,14:02
+M5280,M2,Am Steinberg,F,14:09
+M5281,U8,Alexanderplatz,F,14:11
+M5282,U8,Hermannstraße,F,14:24
+M5284,U8,Pankstraße,F,14:52
+M5285,U8,Bernauer Straße,F,17:43
+M5286,U2,Rosa-Luxemburg-Platz,F,18:10
+M5287,U2,Hausvogteiplatz,F,18:14
+M5288,U2,Senefelderplatz,F,18:35
+M5289,S8,Plänterwald,S,10:53
+M5290,U8,Pankstraße,S,11:12
+M5291,U2,Alexanderplatz,S,11:58
+M5292,U8,Osloer Straße,S,12:05
+M5293,S41,Tempelhof,S,12:23
+M5294,U8,Gesundbrunnen,S,13:31
+M5295,U2,Alexanderplatz,S,14:10
+M5296,U2,Schönhauser Allee,S,14:18
+M5297,U2,Schönhauser Allee,S,16:19
+M5298,U2,Alexanderplatz,S,16:40
+M5299,U2,Rosa-Luxemburg-Platz,S,16:52
+M5300,S5,Hackescher Markt,S,21:26
+M5301,U1,Kottbusser Tor,W,19:58
+M5303,U5,Bundestag,Z,08:34
+M5304,U1,Görlitzer,Z,08:58
+M5306,U1,Görlitzer,Z,09:32
+M5307,U7,Jakob-Kaiser-Platz,Z,09:36
+M5308,U7,Jakob-Kaiser-Platz,Z,09:53
+M5309,U7,Bayerischer Platz,Z,10:03
+M5310,S41,Wedding,Z,10:18
+M5311,U1,Schlesisches Tor,Z,10:53
+M5312,U7,Jakob-Kaiser-Platz,Z,11:51
+M5313,U8,Pankstraße,Z,12:12
+M5314,U9,Osloer Straße,Z,12:15
+M5315,U1,Warschauer Straße,Z,12:55
+M5316,U7,Neukölln,Z,12:59
+M5317,U12,Schlesisches Tor,Z,13:14
+M5318,U6,Reinickendorfer Straße,Z,13:50
+M5319,U5,Alexanderplatz,Z,14:13
+M5320,U5,Magdalenenstraße,Z,14:25
+M5322,U6,Unter den Linden,Z,15:07
+M5323,U1,Görlitzer,Z,15:11
+M5324,U1,Schlesisches Tor,Z,16:45
+M5325,U5,Friedrichsfelde,Z,18:38
+M5326,U2,Kottbusser Tor,Z,20:04
+M5327,S41,Neukölln,F,08:59
+M5329,U6,Tempelhof,F,09:31
+M5330,U6,Tempelhof,F,09:57
+M5331,U9,Osloer Straße,F,11:05
+M5332,U1,Hallesches Tor,F,11:07
+M5333,U8,Alexanderplatz,F,11:18
+M5335,U6,Unter den Linden,F,12:19
+M5336,S41,Tempelhof,F,12:50
+M5338,S41,Treptower Park,F,13:58
+M5339,U8,Jannowitzbrücke,F,14:31
+M5340,U8,Schönleinstraße,F,15:42
+M5341,U2,Bülowstraße,F,15:51
+M5342,U9,Turmstraße,F,17:51
+M5343,U1,Görlitzer,F,18:42
+M5344,U8,Kottbusser Tor,S,11:15
+M5345,U9,Osloer Straße,S,12:19
+M5346,U7,Fehrbelliner Platz,S,12:41
+M5347,U9,Leopoldplatz,S,12:45
+M5348,U9,Amrumer Straße,S,14:30
+M5349,U1,Görlitzer,S,16:25
+M5350,U5,Frankfurter Tor,S,16:31
+M5351,U1,Prinzenstraße,S,17:32
+M5352,U1,Hallesches Tor,S,19:12
+M5353,S45,Baumschulenweg,U,08:03
+M5354,S3,Rummelsburg,U,11:05
+M5355,S42,Hermannstraße,U,13:00
+M5356,U5,Unter den Linden,U,15:11
+M5358,U5,Elsterwerdaer Platz,U,16:59
+M5359,U5,Museumsinsel,U,18:01
+M5361,U6,Platz der Luftbrücke,M,09:41
+M5363,U6,Unter den Linden,M,10:50
+M5364,U6,Platz der Luftbrücke,M,10:56
+M5365,U2,Rosa-Luxemburg-Platz,M,11:32
+M5366,U6,Friedrichstraße,M,12:54
+M5367,U6,Hallesches Tor,M,13:15
+M5368,U8,Residenzstraße,M,13:34
+M5369,U2,Hausvogteiplatz,M,15:36
+M5370,U6,Alt-Tempelhof,M,16:10
+M5371,U8,Franz-Neumann-Platz,M,17:25
+M5374,U8,Gesundbrunnen,T,08:30
+M5375,U5,Schillingstraße,T,08:43
+M5376,U6,Kochstraße,T,08:47
+M5377,U6,Kochstraße,T,08:59
+M5378,U8,Gesundbrunnen,T,09:00
+M5379,S41,Storkower Straße,T,09:19
+M5380,U1,Kottbusser Tor,T,09:21
+M5381,U8,Osloer Straße,T,09:35
+M5382,U6,Kochstraße,T,09:39
+M5383,U8,Alexanderplatz,T,09:49
+M5384,U6,Kochstraße,T,10:21
+M5385,U8,Pankstraße,F,10:47
+M5386,S1,Botanischer Garten,F,11:19
+M5387,U8,Alexanderplatz,F,11:58
+M5388,U8,Jannowitzbrücke,F,12:00
+M5389,U8,Moritzplatz,F,12:14
+M5390,U6,Oranienburger Tor,F,13:01
+M5391,U2,Potsdamer Platz,F,14:02
+M5393,U8,Hermannstraße,F,14:55
+M5394,U6,Kurt-Schumacher-Platz,F,16:59
+M5395,U6,Reinickendorfer Straße,F,19:10
+M5397,U2,Vinetastraße,S,16:35
+M5398,U6,Leopoldplatz,U,11:43
+M5399,S7,Zoologischer Garten,U,12:01
+M5400,U8,Bernauer Straße,U,12:02
+M5401,U8,Pankstraße,U,12:42
+M5402,U8,Alexanderplatz,U,12:48
+M5404,U6,Kaiserin-Augusta-straße,U,14:20
+M5405,S41,Tempelhof,U,14:48
+M5406,U2,Eberswalder Straße/Pappelallee,U,14:52
+M5407,U6,Hallesches Tor,U,15:28
+M5408,U6,Platz der Vereinten Nationen,U,18:27
+M5409,U8,Pankstraße,M,06:55
+M5410,U9,Osloer Straße,M,07:16
+M5411,S41,Halensee,M,07:18
+M5412,S42,Hermannstraße,M,07:52
+M5413,U9,Zoologischer Garten,M,09:15
+M5415,U8,Moritzplatz,M,09:23
+M5416,U9,Turmstraße,M,09:31
+M5417,U9,Berliner Straße,M,10:47
+M5418,U5,Unter den Linden,M,10:57
+M5419,U1,Kottbusser Tor,M,10:58
+M5420,U8,Heinrich-Heine-straße/Annenstraße,M,14:07
+M5421,S42,Hermannstraße,M,14:50
+M5422,U5,Unter den Linden,M,16:09
+M5423,U7,Parchimer Allee,M,16:13
+M5424,U5,Strausberger Platz,M,19:48
+M5425,U5,Brandenburger Tor,T,07:55
+M5426,U9,Osloer Straße,T,08:40
+M5427,U12,Schlesisches Tor,T,08:51
+M5428,U9,Osloer Straße,T,09:00
+M5429,U7,Mehringdamm,T,09:11
+M5430,U1,Görlitzer,T,09:13
+M5431,U7,Rudow,T,09:20
+M5432,U9,Spichernstraße,T,09:29
+M5433,S42,Frankfurter Allee,T,09:38
+M5434,U7,Südstern,T,11:14
+M5435,S42,Frankfurter Allee,T,11:32
+M5436,U5,Unter den Linden,T,11:38
+M5437,S41,Südkreuz,T,12:45
+M5438,U1,Kottbusser Tor,T,12:47
+M5441,U9,Schloßstraße,T,13:26
+M5442,U7,Yorckstraße,T,13:29
+M5443,U2,Nollendorfplatz,T,13:48
+M5444,U5,Wuhletal,T,14:04
+M5445,U8,Hermannplatz,T,14:31
+M5446,U5,Berlin Hauptbahnhof,T,15:42
+M5447,U7,Johannisthaler Chaussee,T,16:05
+M5448,U7,Blaschkoallee,T,16:22
+M5449,U5,Unter den Linden,T,17:45
+M5450,U7,Grenzallee,T,17:54
+M5451,U8,Wittenau,T,19:01
+M5452,U5,Museumsinsel,T,19:13
+M5453,U7,Lipschitzallee,W,08:39
+M5454,U1,Görlitzer,W,08:44
+M5455,U5,Lichtenberg,W,09:46
+M5458,U9,Hansaplatz,W,10:22
+M5459,U5,Berlin Hauptbahnhof,W,11:34
+M5460,U8,Moritzplatz,W,11:46
+M5462,M2,Prenzlauer Allee,W,12:21
+M5463,U7,Wilmersdorfer Straße,W,13:00
+M5464,U7,Möckernbrücke,W,14:13
+M5465,S2,Yorckstraße,W,15:14
+M5467,U1,Kottbusser Tor,W,17:39
+M5468,U6,Unter den Linden,W,18:24
+M5469,U1,Schlesisches Tor,W,18:53
+M5470,S3,Rummelsburg,M,07:29
+M5471,U8,Gesundbrunnen,M,11:23
+M5472,U6,Schwartzkopffstraße,M,12:20
+M5473,U8,Hermannplatz,M,12:48
+M5474,U6,Oranienburger Tor,M,12:57
+M5475,U8,Moritzplatz,M,14:02
+M5476,U6,Unter den Linden,M,14:17
+M5477,S8,Frankfurter Allee,M,14:20
+M5478,S41,Südkreuz,M,15:30
+M5479,U2,Alexanderplatz,M,16:29
+M5480,U8,Rosenthaler Platz,M,16:52
+M5481,U8,Schönleinstraße,M,18:22
+M5483,U8,Hermannstraße,T,08:50
+M5484,TRAM16,Dingelstädter Straße,T,09:08
+M5485,U8,Voltastraße,T,09:28
+M5486,U2,Wittenbergplatz,T,09:30
+M5487,U9,Turmstraße,T,11:01
+M5488,S42,Hermannstraße,T,11:07
+M5489,U8,Alexanderplatz,T,11:30
+M5490,U8,Hermannstraße,T,12:09
+M5491,U8,Alexanderplatz,T,12:14
+M5492,U8,Leinestraße,T,13:58
+M5493,U8,Hermannplatz,T,14:45
+M5494,S42,Humboldthain,T,14:47
+M5496,U6,Kochstraße,T,15:33
+M5497,U6,Oranienburger Tor,T,15:59
+M5498,U6,Naturkundemuseum,T,17:25
+M5499,U6,Stadtmitte,T,17:32
+M5500,U8,Alexanderplatz,T,18:07
+M5501,U6,Kurt-Schumacher-Platz,T,18:31
+M5502,U7,Mehringdamm,T,18:35
+M5503,U8,Weinmeisterstraße,T,18:43
+M5504,U6,Hallesches Tor,T,18:43
+M5505,U6,Kochstraße,T,18:50
+M5506,S42,Südkreuz,W,06:19
+M5507,U2,Alexanderplatz,W,08:17
+M5508,U8,Osloer Straße,W,08:36
+M5509,U6,Platz der Vereinten Nationen,W,08:39
+M5510,U6,Leopoldplatz,W,08:59
+M5511,U1,Hallesches Tor,W,09:37
+M5512,U6,Friedrichstraße,W,10:09
+M5514,S45,Tempelhof,W,13:40
+M5515,U6,Leopoldplatz,W,13:43
+M5516,U2,Nollendorfplatz,W,13:43
+M5517,U8,Residenzstraße,W,13:49
+M5518,U8,Bernauer Straße,W,13:59
+M5519,U5,Samariterstraße,W,14:45
+M5520,U7,Rathaus Spandau,W,14:58
+M5522,U2,Hausvogteiplatz,W,15:42
+M5523,U6,Schwartzkopffstraße,W,16:00
+M5524,U6,Naturkundemuseum,W,18:15
+M5526,U7,Kleistpark,W,19:08
+M5527,S41,Innsbrucker Platz,Z,08:44
+M5530,U8,Hermannstraße,Z,09:38
+M5531,U8,Gesundbrunnen,Z,09:47
+M5532,U8,Bernauer Straße,Z,10:08
+M5533,U9,Zoologischer Garten,Z,10:15
+M5534,U6,Tempelhof,Z,10:19
+M5535,U8,Kottbusser Tor,Z,10:54
+M5536,U8,Kottbusser Tor,Z,11:45
+M5539,U7,Hermannplatz,Z,13:09
+M5541,U8,Weinmeisterstraße,Z,16:17
+M5542,U6,Alt-Tempelhof,Z,17:37
+M5543,U2,Eberswalder Straße,Z,17:43
+M5544,U6,Hallesches Tor,Z,18:03
+M5545,U2,Vinetastraße,Z,18:31
+M5546,U7,Rudow,Z,19:26
+M5547,U8,Boddinstraße,F,08:36
+M5548,U7,Rathaus Neukölln,F,09:11
+M5549,U2,Schönhauser Allee,F,10:23
+M5551,U7,Rudow,T,15:04
+M5552,U5,Brandenburger Tor,T,15:09
+M5553,S41,Frankfurter Allee,T,15:40
+M5555,U5,Frankfurter Allee,T,17:03
+M5556,U1,Görlitzer,T,17:35
+M5557,U12,Kottbusser Tor,T,18:32
+M5559,U5,Schillingstraße,T,18:51
+M5560,S41,Südkreuz,W,08:50
+M5561,S7,Friedrichstraße,W,10:51
+M5562,U5,Frankfurter Allee,W,10:54
+M5563,U5,Kienberg,W,11:02
+M5564,U8,Weinmeisterstraße,W,11:25
+M5566,U7,Neukölln,W,13:08
+M5568,U5,Frankfurter Allee,W,13:26
+M5569,U7,Gneisenaustraße,W,15:33
+M5571,U5,Wuhletal,W,16:44
+M5572,U7,Adenauerplatz,W,16:57
+M5573,U7,Rathaus Neukölln,W,17:52
+M5574,U8,Jannowitzbrücke,W,18:46
+M5575,U7,Jungfernheide,W,19:06
+M5577,U5,Samariterstraße,Z,09:56
+M5578,S46,Tempelhof,Z,09:58
+M5579,S41,Südkreuz,Z,12:56
+M5580,U5,Frankfurter Tor,Z,13:12
+M5582,U5,Unter den Linden,Z,13:35
+M5583,U5,Kienberg,Z,14:32
+M5584,U1,Warschauer Straße,Z,15:36
+M5585,U5,Schillingstraße,Z,16:36
+M5586,U7,Neukölln,Z,17:31
+M5587,U7,Blaschkoallee,Z,18:35
+M5588,S2,Yorckstraße,F,11:38
+M5589,U5,Schillingstraße,F,12:28
+M5590,S26,Brandenburger Tor,F,13:21
+M5591,S3,Betriebsbahnhof Rummelsburg,F,14:10
+M5593,U5,Tierpark,F,15:39
+M5594,U5,Schillingstraße,F,15:43
+M5595,U5,Alexanderplatz,F,15:57
+M5596,U5,Rotes Rathaus,F,15:59
+M5597,U5,Schillingstraße,F,19:08
+M5598,U5,Strausberger Platz,F,19:15
+M5599,U5,Unter den Linden,S,12:39
+M5601,U7,Rathaus Neukölln,S,17:13
+M5602,U7,Rathaus Neukölln,S,17:18
+M5605,S1,Bernau,U,10:12
+M5607,U5,Unter den Linden,U,12:27
+M5610,U7,Gneisenaustraße,U,15:57
+M5611,U7,Südstern,Z,10:03
+M5613,U8,Hermannstraße,Z,10:44
+M5614,U8,Schönleinstraße,Z,11:28
+M5615,U7,Möckernbrücke,Z,11:37
+M5616,U8,Schönleinstraße,Z,11:56
+M5617,U6,Friedrichstraße,Z,12:12
+M5618,U8,Voltastraße,Z,12:12
+M5619,U8,Boddinstraße,Z,12:21
+M5620,U6,Tempelhof,Z,12:32
+M5621,U6,Kochstraße,Z,12:40
+M5624,S46,Köllnische Heide,Z,13:45
+M5625,U8,Bernauer Straße,Z,13:56
+M5626,U6,Friedrichstraße,Z,16:02
+M5627,X54,Heinersdorf Kirche,F,07:51
+M5628,U8,Hermannplatz,F,08:18
+M5629,U8,Hermannplatz,F,08:38
+M5630,U8,Rosenthaler Platz,F,09:11
+M5631,U8,Hermannplatz,F,09:32
+M5633,S41,Jungfernheide,F,10:27
+M5635,U2,Schönhauser Allee,F,13:44
+M5636,U6,Stadtmitte,F,13:45
+M5637,U8,Rosenthaler Platz,F,14:09
+M5638,U6,Kurt-Schumacher-Platz,F,14:32
+M5639,U2,Schönhauser Allee,F,14:41
+M5640,U8,Weinmeisterstraße,F,17:25
+M5641,U6,Kochstraße,F,17:35
+M5642,U6,Leopoldplatz,F,18:12
+M5645,U8,Große-Leege-straße/Freienwalder Straße,S,13:17
+M5646,U8,Kottbusser Tor,S,13:26
+M5647,U2,Schönhauser Allee,S,13:41
+M5648,U2,Märkisches Museum,S,15:03
+M5649,U8,Rosenthaler Platz,S,15:35
+M5651,U2,Eberswalder Straße/Pappelallee,S,17:02
+M5654,U8,Bernauer Straße,U,13:50
+M5655,U6,Stadtmitte,U,14:18
+M5656,U8,Voltastraße,U,15:35
+M5660,S2,Südkreuz,M,07:10
+M5662,U9,Birkenstraße,M,09:11
+M5663,U6,Mehringdamm,M,09:57
+M5664,U5,Cottbusser Platz,M,10:39
+M5665,U6,Oranienburger Tor,M,12:41
+M5666,U6,Unter den Linden,M,12:54
+M5667,U7,Halemweg,M,13:37
+M5668,U6,Mehringdamm,M,14:49
+M5670,U12,Prinzenstraße,M,15:48
+M5674,U5,Alexanderplatz,T,08:23
+M5675,U7,Berliner Straße,T,09:22
+M5676,M10,Straßmannstraße,T,09:34
+M5677,U6,Oranienburger Tor,T,11:11
+M5679,U1,Kottbusser Tor,T,11:25
+M5681,M10,Straßmannstraße,T,11:48
+M5684,U5,Bundestag,T,12:51
+M5685,U42,Hermannstraße,T,12:58
+M5688,S5,Bellevue,T,13:48
+M5689,U5,Lindenhof,T,14:25
+M5692,U5,Magdalenenstraße,S,15:21
+M5694,S41,Tempelhof,U,11:02
+M5695,U5,Museumsinsel,U,14:22
+M5696,S42,Hermannstraße,U,14:36
+M5697,U5,Brandenburger Tor,U,14:54
+M5698,U8,Bernauer Straße,U,16:04
+M5699,U5,Berlin Hauptbahnhof,U,16:29
+M5700,U7,Bismarckstraße,U,16:36
+M5701,U5,Brandenburger Tor,U,18:26
+M5702,U12,Görlitzer,U,19:03
+M5703,S42,Westend,M,08:07
+M5705,U2,Schönhauser Allee,M,09:33
+M5706,U8,Boddinstraße,M,09:36
+M5708,U8,Rosenthaler Platz,M,10:18
+M5709,U8,Hermannstraße,M,10:27
+M5710,U8,Leinestraße,M,10:37
+M5711,U9,Zoologischer Garten,M,10:40
+M5713,U8,Pankstraße,M,12:19
+M5714,U6,Rehberge,M,13:20
+M5715,U6,Stadtmitte,M,13:24
+M5716,U8,Rosenthaler Platz,M,14:42
+M5717,U8,Kottbusser Tor,M,16:12
+M5718,U8,Schönleinstraße,M,16:13
+M5719,U8,Kottbusser Tor,M,16:48
+M5720,U2,Rosa-Luxemburg-Platz,M,17:14
+M5721,U8,Weinmeisterstraße,M,17:18
+M5722,U6,Stadtmitte,M,18:55
+M5723,S2,Anhalter,T,08:11
+M5724,U6,Wedding,T,09:18
+M5726,S7,Grunewald,T,09:57
+M5729,U8,Hermannstraße,T,10:14
+M5731,U6,Afrikanische Straße,T,13:56
+M5732,U8,Moritzplatz,T,13:57
+M5733,U8,Heinrich-Heine-straße,T,14:35
+M5734,S3,Karlshorst,T,14:47
+M5737,U6,Unter den Linden,T,18:12
+M5739,U6,Oranienburger Tor,W,07:49
+M5740,U6,Unter den Linden,W,07:54
+M5743,U8,Moritzplatz,W,09:15
+M5744,U2,Eberswalder Straße/Pappelallee,W,09:18
+M5745,U8,Franz-Neumann-Platz,W,09:19
+M5746,U6,Unter den Linden,W,09:34
+M5747,U8,Boddinstraße,W,09:51
+M5749,U8,Rosenthaler Platz,W,10:06
+M5750,U8,Jannowitzbrücke,W,10:51
+M5751,S2,Humboldthain,W,10:58
+M5752,U6,Unter den Linden,W,11:03
+M5753,S41,Hermannstraße,W,11:37
+M5754,U8,Hermannplatz,W,11:37
+M5755,U2,Alexanderplatz,W,12:23
+M5756,U1,Kottbusser Tor,W,12:24
+M5757,U2,Rosa-Luxemburg-Platz,W,12:54
+M5758,U6,Unter den Linden,W,13:23
+M5759,U8,Jannowitzbrücke,W,13:30
+M5760,U8,Rosenthaler Platz,W,13:30
+M5761,U6,Kochstraße,W,14:08
+M5762,U8,Weinmeisterstraße,W,14:24
+M5764,U8,Osloer Straße,W,14:32
+M5765,U2,Rosa-Luxemburg-Platz,W,14:34
+M5766,U2,Vinetastraße,W,16:37
+M5767,U6,Stadtmitte,W,17:31
+M5768,U2,Pankow,W,17:33
+M5769,U8,Alexanderplatz,W,17:46
+M5770,U6,Reinickendorfer Straße,W,19:03
+M5771,U6,Unter den Linden,W,19:04
+M5772,U5,Museumsinsel,T,10:18
+M5773,S41,Neukölln,T,10:26
+M5774,U5,Samariterstraße,T,10:26
+M5775,U5,Alexanderplatz,T,10:30
+M5776,S41,Landsberger Allee,T,10:42
+M5777,U5,Museumsinsel,T,12:03
+M5778,U9,Hansaplatz,T,13:07
+M5779,U5,Magdalenenstraße,T,13:08
+M5780,U7,Rohrdamm,T,13:28
+M5781,U5,Weberwiese,T,13:34
+M5782,U8,Schönleinstraße,T,13:38
+M5785,U12,Kottbusser Tor,T,16:14
+M5786,U8,Hermannplatz,T,16:20
+M5787,U6,Amrumer Straße,T,16:48
+M5788,U9,Hansaplatz,T,17:48
+M5789,U9,Turmstraße,T,18:06
+M5790,U8,Hermannstraße,T,19:50
+M5791,S42,Frankfurter Allee,W,07:09
+M5792,S42,Landsberger Allee,W,08:15
+M5793,U5,Weberwiese,W,08:35
+M5794,U7,Hermannplatz,W,08:43
+M5795,U5,Unter den Linden,W,09:16
+M5798,S41,Halensee,W,09:44
+M5799,U12,Görlitzer,W,09:52
+M5800,U7,Hermannplatz,W,10:33
+M5801,U7,Blaschkoallee,W,10:58
+M5802,U12,Kottbusser Tor,W,12:09
+M5803,U5,Brandenburger Tor,W,12:32
+M5804,U8,Kottbusser Tor,W,13:37
+M5805,U5,Schillingstraße,W,14:21
+M5806,U5,Schillingstraße,W,14:46
+M5808,U12,Ruhleben,W,15:56
+M5809,U8,Prinzenstraße,W,16:37
+M5810,U7,Johannisthaler Chaussee,W,18:11
+M5811,U5,Brandenburger Tor,W,18:20
+M5813,U12,Kurfürstenstraße,W,19:36
+M5814,U8,Pankstraße,W,19:37
+M5815,U5,Brandenburger Tor,Z,08:56
+M5818,U6,Stadtmitte,Z,11:12
+M5820,U3,Dahlem-Dorf,Z,11:32
+M5821,U5,Biesdorf-Süd,Z,11:56
+M5822,U8,Moritzplatz,Z,12:37
+M5823,U9,Leopoldplatz,Z,14:15
+M5824,U9,Leopoldplatz,Z,14:19
+M5825,U9,Leopoldplatz,Z,14:40
+M5826,U5,Weberwiese,Z,14:59
+M5827,U8,Moritzplatz,Z,15:16
+M5828,U5,Tierpark,Z,15:50
+M5829,U5,Magdalenenstraße,F,08:56
+M5831,S42,Westend,F,09:42
+M5832,S42,Sonnenallee,F,09:44
+M5833,U5,Biesdorf-Süd,F,10:00
+M5834,U5,Frankfurter Allee,F,11:15
+M5835,U5,Frankfurter Allee,F,11:32
+M5837,U6,Friedrichstraße,F,13:17
+M5838,U7,Hermannplatz,F,13:31
+M5839,U5,Kaulsdorf-Nord,F,13:40
+M5840,U12,Kottbusser Tor,F,13:57
+M5841,U5,Frankfurter Allee,F,14:11
+M5842,U12,Nollendorfplatz,F,14:40
+M5843,U12,Warschauer Straße,F,14:43
+M5844,U7,Parchimer Allee,F,15:15
+M5845,S42,Tempelhof,F,15:49
+M5847,U9,Birkenstraße,F,17:17
+M5848,U9,Amrumer Straße,F,17:19
+M5849,U7,Kleistpark,F,18:00
+M5852,U5,Frankfurter Allee,S,13:34
+M5853,U12,Prinzenstraße,S,13:51
+M5854,U8,Weinmeisterstraße,W,15:42
+M5856,U5,Alexanderplatz,W,18:34
+M5857,U6,Seestraße,W,18:37
+M5858,U2,Vinetastraße,Z,09:14
+M5859,U6,Kochstraße,Z,09:27
+M5860,U6,Unter den Linden,Z,09:38
+M5861,U8,Kottbusser Tor,Z,09:46
+M5863,S41,Treptower Park,Z,11:12
+M5864,U6,Stadtmitte,Z,11:16
+M5865,U6,Unter den Linden,Z,11:44
+M5866,S75,Hohenschönhausen,Z,11:48
+M5867,U2,Alexanderplatz,Z,12:26
+M5868,U8,Rosenthaler Platz,Z,12:37
+M5870,U8,Rosenthaler Platz,Z,12:53
+M5871,U8,Boddinstraße,Z,12:57
+M5872,U8,Leinestraße,Z,12:58
+M5873,U8,Kottbusser Tor,Z,13:44
+M5874,U8,Boddinstraße,Z,14:08
+M5875,S41,Landsberger Allee,Z,14:11
+M5876,U2,Potsdamer Platz,Z,14:16
+M5877,U2,Eberswalder Straße,Z,14:41
+M5878,U6,Kurt-Schumacher-Platz,Z,15:36
+M5880,U9,Rathaus Steglitz,F,07:15
+M5881,U8,Hermannstraße,F,07:18
+M5882,U7,Alexanderplatz,F,08:37
+M5883,U8,Heinrich-Heine-straße,F,09:27
+M5884,S8,Schönhauser Allee,F,11:37
+M5885,U6,Friedrichstraße,F,11:50
+M5887,U7,Blissestraße,F,14:15
+M5888,U8,Alexanderplatz,F,14:39
+M5889,U2,Eberswalder Straße/Pappelallee,F,18:13
+M5890,U2,Schönhauser Allee,F,18:18
+M5891,U8,Weinmeisterstraße,F,18:43
+M5892,U8,Pankstraße,S,11:21
+M5894,U2,Eberswalder Straße/Pappelallee,S,15:33
+M5895,U8,Gesundbrunnen,S,16:03
+M5896,U8,Rosenthaler Platz,S,16:11
+M5897,U8,Bernauer Straße,S,16:34
+M5898,S1,Potsdamer Platz,U,10:07
+M5900,U8,Rosenthaler Platz,U,11:46
+M5901,U2,Eberswalder Straße,U,12:30
+M5902,U8,Rosenthaler Platz,U,13:00
+M5903,U2,Rosa-Luxemburg-Platz,U,13:26
+M5904,U8,Gesundbrunnen,U,15:16
+M5905,U8,Weinmeisterstraße,U,16:43
+M5907,S41,Landsberger Allee,M,08:53
+M5908,U9,Birkenstraße,M,10:09
+M5909,U6,Unter den Linden,M,10:17
+M5911,U5,Samariterstraße,M,12:14
+M5912,U12,Kottbusser Tor,M,12:43
+M5913,U6,Unter den Linden,M,13:24
+M5914,U9,Zoologischer Garten,M,14:06
+M5915,U8,Alexanderplatz,M,14:53
+M5916,U8,Kottbusser Tor,M,16:45
+M5917,U5,Alexanderplatz,M,17:44
+M5918,U7,Kleistpark,M,18:11
+M5919,U9,Leopoldplatz,M,18:23
+M5921,U6,Friedrichstraße,M,20:04
+M5923,U12,Ostweg,Z,14:27
+M5925,U5,Samariterstraße,Z,15:56
+M5926,U7,Mehringdamm,Z,15:56
+M5927,U6,Südstern,Z,17:43
+M5928,U9,Birkenstraße,Z,18:48
+M5929,U5,Strausberger Platz,F,07:45
+M5930,U9,Birkenstraße,F,07:45
+M5931,U2,Rosa-Luxemburg-Platz,F,08:16
+M5933,U12,Schlesisches Tor,F,09:09
+M5934,U12,Hallesches Tor,F,09:42
+M5935,U5,Alexanderplatz,F,10:03
+M5936,U5,Friedrichsfelde,F,13:03
+M5937,U5,Unter den Linden,F,14:05
+M5939,U9,Turmstraße,F,15:52
+M5940,U9,Zoologischer Garten,F,17:37
+M5941,U7,Hermannplatz,F,18:09
+M5942,U7,Yorckstraße,S,15:03
+M5943,U5,Schillingstraße,S,15:18
+M5944,U3,Fehrbelliner Platz,S,17:51
+M5945,U7,Südstern,U,12:30
+M5946,U6,Kurt-Schumacher-Platz,U,13:12
+M5947,U5,Unter den Linden,U,17:29
+M5948,U2,Senefelderplatz,M,08:29
+M5949,U8,Osloer Straße,M,09:45
+M5950,U8,Franz-Neumann-Platz,M,10:01
+M5951,U6,Unter den Linden,M,10:51
+M5953,U7,Britz-Süd,M,11:46
+M5954,U8,Bernauer Straße,M,12:35
+M5955,S8,Frankfurter Allee,M,12:45
+M5957,U6,Seestraße,M,12:57
+M5960,S1,Friedrichstraße,M,14:30
+M5961,U12,Hallesches Tor,M,14:31
+M5962,U5,Alexanderplatz,M,14:58
+M5964,U8,Kottbusser Tor,T,08:31
+M5965,U6,Unter den Linden,T,08:45
+M5966,U8,Osloer Straße,T,09:07
+M5967,U6,Alt-Mariendorf,T,09:10
+M5971,U7,Gneisenaustraße,T,10:27
+M5972,S42,Frankfurter Allee,T,12:17
+M5973,U6,Platz der Vereinten Nationen,T,15:55
+M5974,U8,Oranienburger Tor,T,17:47
+M5975,S5,Ostbahnhof,W,08:54
+M5977,U6,Unter den Linden,W,09:16
+M5978,U6,Hallesches Tor,W,09:53
+M5979,U2,Alexanderplatz,W,09:55
+M5980,U8,Franz-Neumann-Platz,W,10:29
+M5981,S42,Jungfernheide,W,10:31
+M5982,U2,Alexanderplatz,W,11:43
+M5984,U8,Osloer Straße,W,13:21
+M5985,U6,Leopoldplatz,U,14:24
+M5988,U8,Moritzplatz,U,16:58
+M5990,U5,Unter den Eichen/Botanischer Garten,M,10:22
+M5991,U6,Platz der Vereinten Nationen,M,10:31
+M5993,U5,Lichtenberg,M,11:55
+M5994,U5,Alexanderplatz,M,12:24
+M5995,U5,Alexanderplatz,M,13:01
+M5997,U7,Adenauerplatz,M,13:53
+M5998,U9,Hansaplatz,M,14:30
+M5999,U7,Mierendorffplatz,M,14:34
+M6000,U7,Berliner Straße,M,14:43
+M6001,U3,Fehrbelliner Platz,M,16:09
+M6002,U8,Moritzplatz,M,16:18
+M6003,U7,Rudow,M,16:28
+M6004,U7,Rudow,M,16:33
+M6005,U7,Mierendorffplatz,M,16:40
+M6006,U7,Mierendorffplatz,M,17:12
+M6009,U5,Schillingstraße,M,20:12
+M6010,S5,Biesdorf,T,08:58
+M6011,U8,Hermannplatz,T,10:26
+M6012,U9,Hansaplatz,T,11:24
+M6013,U9,Leopoldplatz,T,11:47
+M6014,S41,Tempelhof,T,12:43
+M6015,U9,Zoologischer Garten,T,13:01
+M6016,S1,Julius-Leber-Brücke,T,13:38
+M6017,U9,Birkenstraße,T,14:19
+M6018,U9,Westhafen,T,14:42
+M6019,U5,Magdalenenstraße,T,15:22
+M6020,U5,Magdalenenstraße,T,17:40
+M6021,U12,Gleisdreieck,T,18:05
+M6022,U5,Biesdorf,T,18:55
+M6023,U5,Alexanderplatz,T,19:00
+M6024,U5,Tierpark,T,19:07
+M6027,U5,Frankfurter Allee,W,11:04
+M6028,S42,Hermannstraße,W,13:05
+M6029,U5,Alexanderplatz,W,13:11
+M6030,U5,Museumsinsel,W,13:23
+M6031,U5,Frankfurter Tor,W,13:44
+M6032,U7,Berliner Straße,W,13:48
+M6033,U5,Cottbusser Platz,W,14:09
+M6034,U5,Frankfurter Tor,W,14:48
+M6036,U7,Rudow,W,17:01
+M6037,U7,Wutzkyallee,W,17:30
+M6038,U5,Frankfurter Allee,W,18:48
+M6039,U9,Turmstraße,Z,13:08
+M6040,U7,Südstern,Z,13:15
+M6041,U9,Osloer Straße,Z,13:15
+M6043,U8,Alexanderplatz,M,15:58
+M6044,U6,Kaiserin-Augusta-straße,M,18:18
+M6045,U8,Hermannstraße,M,18:19
+M6046,U8,Schönleinstraße,M,18:40
+M6047,U2,Pankow,M,19:20
+M6048,S42,Hermannstraße,M,20:37
+M6049,U6,Leopoldplatz,T,08:27
+M6050,S7,Ostkreuz,T,08:31
+M6051,S3,Jannowitzbrücke,T,09:16
+M6052,U8,Hermannstraße,T,09:16
+M6053,U2,Klosterstraße,T,09:45
+M6054,U6,Hallesches Tor,T,09:54
+M6055,U6,Stadtmitte,T,10:17
+M6056,U6,Leopoldplatz,T,11:10
+M6057,S41,Schöneberg,T,11:32
+M6058,U2,Rosa-Luxemburg-Platz,T,11:52
+M6059,U2,Rosa-Luxemburg-Platz,T,11:56
+M6061,U8,Schönleinstraße,T,12:00
+M6062,U2,Alexanderplatz,T,12:03
+M6063,U8,Leinestraße,T,13:12
+M6064,U12,Wittenbergplatz,T,13:55
+M6065,U8,Bernauer Straße,T,14:25
+M6066,U8,Kottbusser Tor,T,14:31
+M6067,U6,Rehberge,T,14:50
+M6068,U8,Schönleinstraße,T,15:04
+M6069,U8,Rosenthaler Platz,T,15:50
+M6070,U8,Hermannplatz,T,16:12
+M6071,U6,Reinickendorfer Straße,T,17:26
+M6074,U8,Hermannstraße,T,19:13
+M6075,U2,Eberswalder Straße,T,19:31
+M6076,U6,Leopoldplatz,W,08:58
+M6078,U8,Franz-Neumann-Platz,W,09:19
+M6079,S1,Waidmannslust,W,09:34
+M6080,S42,Hermannstraße,W,09:35
+M6082,U8,Pankstraße,W,09:58
+M6086,U8,Hermannplatz,W,13:29
+M6090,S45,Köllnische Heide,W,20:32
+M6092,S7,Friedrichstraße,Z,06:03
+M6093,S7,Ostbahnhof,Z,06:53
+M6094,S7,Ostkreuz,Z,10:50
+M6095,U9,Hansaplatz,Z,11:56
+M6096,S5,Bellevue,F,09:37
+M6097,S46,Westend,F,11:20
+M6099,U6,Reinickendorfer Straße,F,11:23
+M6101,U6,Wedding,F,14:20
+M6102,U8,Hermannplatz,F,14:31
+M6103,U8,Schönleinstraße,F,14:39
+M6104,U8,Bernauer Straße,F,15:59
+M6105,U8,Bernauer Straße,F,18:09
+M6107,U6,Reinickendorfer Straße,S,12:04
+M6108,U12,Ernst-Reuter-Platz,S,12:46
+M6109,U12,Bismarckstraße,S,13:14
+M6110,U2,Rosa-Luxemburg-Platz,S,13:24
+M6111,U6,Leopoldplatz,S,13:41
+M6112,U8,Hermannplatz,S,14:47
+M6113,U8,Gesundbrunnen,S,18:09
+M6115,U6,Seestraße,S,18:39
+M6116,S41,Tempelhof,U,09:43
+M6117,U8,Pankstraße,U,11:06
+M6118,U8,Gesundbrunnen,U,11:21
+M6120,U8,Alexanderplatz,U,11:40
+M6122,U6,Alt-Mariendorf,U,12:54
+M6124,U13,Schlesisches Tor,W,10:48
+M6125,U8,Voltastraße,W,12:04
+M6126,U7,Hermannplatz,W,12:32
+M6127,U12,Warschauer Straße,W,13:52
+M6128,U1,Schlesisches Tor,W,13:55
+M6129,U2,Eberswalder Straße,W,14:21
+M6130,U7,Mehringdamm,W,14:48
+M6132,U8,Kottbusser Tor,W,16:12
+M6134,U6,Mehringdamm,W,16:26
+M6135,U12,Görlitzer,W,16:48
+M6138,U8,Jannowitzbrücke,W,17:48
+M6140,U5,Rathaus Neukölln,W,19:05
+M6141,U8,Parkstraße/Amalienstraße,W,20:19
+M6142,U5,Museumsinsel,Z,08:33
+M6143,U9,Nauener Platz,Z,08:49
+M6145,U5,Hönow,Z,09:56
+M6146,U7,Britz-Süd,Z,10:03
+M6147,U8,Hermannplatz,Z,10:39
+M6149,U7,Neukölln,Z,11:24
+M6150,S41,Westhafen,Z,11:30
+M6151,U5,Schillingstraße,Z,12:16
+M6152,U5,Frankfurter Allee,Z,13:24
+M6153,U9,Osloer Straße,Z,13:33
+M6154,U12,Hallesches Tor,Z,13:51
+M6156,S41,Hermannstraße,Z,15:38
+M6157,U5,Hönow,Z,16:44
+M6158,U9,Zoologischer Garten,F,08:43
+M6159,U5,Lichtenberg,F,09:39
+M6160,U7,Neukölln,F,09:44
+M6161,U7,Spandau,F,10:16
+M6162,U9,Osloer Straße,F,13:01
+M6163,U5,Hönow,F,13:41
+M6164,U7,Wilmersdorfer Straße,F,15:16
+M6165,U7,Siemensdamm,F,17:21
+M6166,U9,Kurfürstendamm,F,17:46
+M6167,S42,Schönhauser Allee,F,23:14
+M6168,U5,Frankfurter Tor,S,16:30
+M6169,S42,Prenzlauer Allee,U,11:28
+M6170,U5,Alexanderplatz,U,11:44
+M6171,S41,Tempelhof,U,13:27
+M6172,U9,Birkenstraße,U,15:23
+M6173,U5,Magdalenenstraße,U,16:58
+M6174,U5,Samariterstraße,U,17:08
+M6175,U9,Turmstraße,M,08:46
+M6176,U2,Eberswalder Straße/Pappelallee,M,10:00
+M6177,S42,Schönhauser Allee,M,10:57
+M6180,U8,Gesundbrunnen,M,12:48
+M6181,S5,Kaulsdorf,M,13:05
+M6183,U6,Leopoldplatz,Z,12:52
+M6185,U6,Reinickendorfer Straße,Z,17:19
+M6186,U2,Eberswalder Straße,Z,17:20
+M6187,S42,Hermannstraße,F,08:57
+M6189,S1,Humboldthain,F,10:28
+M6190,U7,Bismarckstraße,F,11:01
+M6191,S8,Plänterwald,F,11:11
+M6192,U3,Schlesisches Tor,F,11:18
+M6193,S9,Waßmannsdorf,F,11:33
+M6194,U9,Amrumer Straße,F,12:35
+M6195,U8,Rosenthaler Platz,F,13:25
+M6196,U8,Rosenthaler Platz,F,13:42
+M6200,U8,Bernauer Straße,F,16:22
+M6201,U8,Bernauer Straße,F,16:40
+M6202,U12,Wittenbergplatz,F,17:02
+M6203,U6,Alt-Mariendorf,F,17:07
+M6204,U12,Nollendorfplatz,F,17:14
+M6205,U1,Kottbusser Tor,F,22:21
+M6206,U8,Hermannplatz,S,11:43
+M6207,U8,Bernauer Straße,S,12:19
+M6208,U8,Voltastraße,S,13:07
+M6209,U8,Pankstraße,S,13:45
+M6210,M10,Nordbahnhof,U,09:20
+M6211,U8,Boddinstraße,U,12:05
+M6212,U8,Hermannplatz,U,12:08
+M6213,U8,Alexanderplatz,U,12:43
+M6214,U8,Weinmeisterstraße,U,12:55
+M6215,S41,Hermannstraße,U,12:57
+M6216,S45,Tempelhof,U,13:01
+M6217,U6,Wedding,U,13:10
+M6218,U8,Voltastraße,U,16:04
+M6219,S46,Hermannstraße,M,09:58
+M6221,U9,Spichernstraße,M,12:10
+M6224,U9,Nauener Platz,M,12:34
+M6227,U5,Museumsinsel,M,13:35
+M6228,U9,Westhafen,M,14:28
+M6229,U6,Hallesches Tor,M,15:01
+M6230,U5,Rotes Rathaus,M,16:10
+M6232,S42,Frankfurter Allee,T,09:23
+M6233,U9,Westhafen,T,09:39
+M6234,U9,Osloer Straße,T,10:06
+M6235,U9,Amrumer Straße,T,10:51
+M6236,U9,Birkenstraße,T,12:16
+M6237,U8,Alexanderplatz,T,12:32
+M6238,U5,Frankfurter Allee,T,13:00
+M6239,U5,Schillingstraße,T,13:07
+M6240,S42,Hermannstraße,T,13:35
+M6241,U7,Kleistpark,T,13:45
+M6242,U7,Karl-Marx-straße,T,13:48
+M6243,U7,Grenzallee,T,13:52
+M6244,U9,Hansaplatz,T,14:17
+M6247,U8,Heinrich-Heine-straße,T,15:49
+M6248,U9,Hansaplatz,T,17:38
+M6250,U5,Elsterwerdaer Platz,T,19:02
+M6251,U5,Lichtenberg,T,19:09
+M6252,U6,Hallesches Tor,T,19:34
+M6253,U9,Nauener Platz,W,09:40
+M6254,U8,Alexanderplatz,W,09:59
+M6256,U8,Hermannplatz,W,10:09
+M6257,U9,Kurfürstendamm,F,14:58
+M6258,U7,Halemweg,F,16:43
+M6259,U12,Schlesisches Tor,F,17:46
+M6260,U12,Görlitzer,F,18:14
+M6261,S47,Spindlersfeld,S,11:25
+M6262,U7,Parchimer Allee,S,13:24
+M6263,U7,Grenzallee,S,13:38
+M6265,U1,Görlitzer,U,11:53
+M6266,U5,Weberwiese,U,12:42
+M6269,S1,Wollankstraße,U,16:32
+M6270,U5,Weberwiese,U,17:32
+M6271,U5,Strausberger Platz,U,17:51
+M6272,U6,Friedrichstraße,M,07:29
+M6273,U6,Friedrichstraße,M,08:34
+M6275,U6,Reinickendorfer Straße/Sellerstraße,M,09:56
+M6276,S25,Tegel,M,10:03
+M6277,U6,Wedding,M,11:09
+M6278,U8,Bernauer Straße,M,11:48
+M6279,U8,Rosenthaler Platz,M,12:20
+M6280,U9,Leopoldplatz,M,12:27
+M6281,U7,Berliner Straße,M,12:40
+M6283,U8,Hermannstraße,M,13:33
+M6284,U6,Tempelhof,M,13:46
+M6285,U1,Schlesisches Tor,M,13:47
+M6286,U12,Kottbusser Tor,M,14:03
+M6287,U8,Pankstraße,M,14:59
+M6288,U8,Gesundbrunnen,M,14:59
+M6289,U6,Naturkundemuseum,M,17:55
+M6290,U8,Alexanderplatz,M,18:11
+M6291,U8,Voltastraße,M,19:28
+M6292,U2,Pankow,T,08:30
+M6294,U6,Platz der Luftbrücke,T,09:54
+M6295,U6,Stadtmitte,T,10:13
+M6296,U9,Turmstraße,T,10:33
+M6297,U6,Mehringdamm,T,11:17
+M6298,U8,Moritzplatz,T,11:22
+M6299,U6,Platz der Vereinten Nationen,T,11:56
+M6302,U9,Hansaplatz,T,17:31
+M6303,U8,Rosenthaler Platz,T,17:51
+M6304,S25,Teltow Stadt,T,18:12
+M6305,U8,Weinmeisterstraße,T,18:37
+M6307,U6,Leopoldplatz,W,07:12
+M6308,S42,Ostkreuz,W,08:50
+M6309,U6,Mehringdamm,W,09:32
+M6310,U8,Schönleinstraße,W,10:40
+M6311,U2,Eberswalder Straße/Pappelallee,W,11:03
+M6312,U2,Rosa-Luxemburg-Platz,W,11:07
+M6313,U8,Alexanderplatz,W,12:51
+M6314,U9,Zoologischer Garten,W,13:36
+M6315,U2,Rosa-Luxemburg-Platz,W,13:37
+M6317,U6,Reinickendorfer Straße,W,14:13
+M6318,U8,Schönleinstraße,W,14:23
+M6319,U8,Rosenthaler Platz,W,14:30
+M6321,S7,Bellevue,W,15:46
+M6322,U2,Rosa-Luxemburg-Platz,W,16:56
+M6324,U8,Osloer Straße,Z,09:04
+M6325,U8,Rosenthaler Platz,Z,09:07
+M6326,U8,Rosenthaler Platz,Z,09:31
+M6327,U6,Mehringdamm,Z,09:40
+M6328,U2,Märkisches Museum,Z,09:46
+M6329,U9,Osloer Straße,Z,10:41
+M6330,U8,Pankstraße,M,08:08
+M6331,U5,Museumsinsel,M,08:53
+M6332,S25,Hennigsdorf,M,10:07
+M6333,U7,Berliner Straße,M,14:00
+M6334,U5,Frankfurter Allee,M,14:37
+M6335,U9,Rathaus Steglitz,T,07:39
+M6336,U7,Möckernbrücke,T,07:54
+M6337,U9,Hansaplatz,T,09:28
+M6339,U5,Alexanderplatz,T,11:21
+M6340,U9,Leopoldplatz,T,11:33
+M6341,U5,Alexanderplatz,T,11:42
+M6342,S42,Storkower Straße,T,11:51
+M6343,U5,Strausberger Platz,T,12:46
+M6344,U5,Weberwiese,T,12:55
+M6345,U5,Alexanderplatz,T,13:31
+M6346,U5,Friedrichsfelde,T,13:44
+M6347,U5,Kienberg,T,14:12
+M6348,U5,Hönow,T,17:31
+M6349,U5,Schillingstraße,T,18:17
+M6350,U5,Alexanderplatz,W,07:43
+M6351,U9,Osloer Straße,W,09:10
+M6352,U9,Birkenstraße,W,09:20
+M6353,U9,Leopoldplatz,W,09:23
+M6354,U5,Frankfurter Tor,W,09:27
+M6355,S7,Grunewald,W,09:28
+M6356,U6,Stadtmitte,W,09:48
+M6358,U9,Turmstraße,W,10:22
+M6359,U9,Osloer Straße,W,10:31
+M6360,U5,Strausberger Platz,W,11:41
+M6361,U5,Magdalenenstraße,W,11:45
+M6362,S3,Berlin Hauptbahnhof,W,12:31
+M6363,U9,Güntzelstraße,W,12:35
+M6364,U5,Samariterstraße,W,12:36
+M6365,U7,Rathaus Neukölln,W,12:42
+M6366,U7,Karl-Marx-straße,W,12:51
+M6367,U5,Frankfurter Allee,W,12:52
+M6368,U5,Museumsinsel,W,12:53
+M6369,U9,Turmstraße,W,13:13
+M6370,U5,Frankfurter Tor,W,13:19
+M6371,U5,Unter den Linden,W,13:59
+M6372,U5,Samariterstraße,W,17:01
+M6373,U5,Frankfurter Tor,W,17:11
+M6374,U7,Blaschkoallee,W,17:19
+M6375,U5,Weberwiese,W,18:02
+M6376,U5,Alexanderplatz,W,18:41
+M6377,U5,Alexanderplatz,W,18:41
+M6378,S3,Köpenick,Z,07:43
+M6381,M41,Sonnenallee,Z,10:28
+M6382,U12,Warschauer Straße,Z,13:18
+M6383,U9,Turmstraße,Z,13:32
+M6384,U12,Kottbusser Tor,Z,13:53
+M6385,U7,Rudow,Z,16:12
+M6386,U5,Strausberger Platz,Z,16:25
+M6387,U9,Spichernstraße,Z,16:29
+M6388,U7,Lipschitzallee,Z,17:44
+M6389,U9,Hansaplatz,F,07:54
+M6390,S41,Prenzlauer Allee,F,08:29
+M6392,U9,Birkenstraße,F,10:39
+M6393,U9,Turmstraße,F,11:20
+M6394,U5,Frankfurter Tor,F,12:06
+M6395,U5,Weberwiese,F,13:11
+M6396,U5,Kienberg,F,13:32
+M6398,U8,Alexanderplatz,M,17:25
+M6399,U6,Naturkundemuseum,M,17:42
+M6401,U7,Kleistpark,T,08:48
+M6402,U2,Märkisches Museum,T,09:53
+M6403,U8,Schönleinstraße,T,09:57
+M6404,U8,Osloer Straße,T,12:29
+M6405,U2,Schönhauser Allee,W,08:45
+M6406,U6,Kochstraße,W,08:52
+M6407,U6,Oranienburger Tor,W,09:21
+M6408,U2,Märkisches Museum,W,09:49
+M6409,S41,Landsberger Allee,W,10:39
+M6410,M8,Landsberger Allee,W,11:31
+M6411,U5,Weberwiese,W,12:44
+M6412,U6,Platz der Vereinten Nationen,W,12:59
+M6413,U8,Moritzplatz,W,13:52
+M6414,U8,Moritzplatz,W,15:57
+M6415,U8,Alexanderplatz,W,16:44
+M6416,U6,Kochstraße,W,17:02
+M6417,U2,Rosa-Luxemburg-Platz,W,17:10
+M6418,U8,Boddinstraße,W,17:29
+M6420,U5,Alexanderplatz,Z,08:33
+M6422,U6,Friedrichstraße,Z,11:00
+M6423,U8,Voltastraße,Z,11:03
+M6424,U8,Hermannstraße,Z,12:05
+M6425,U8,Gesundbrunnen,Z,12:08
+M6427,U8,Kottbusser Tor,Z,16:57
+M6428,U8,Kottbusser Tor,Z,17:00
+M6429,U8,Wittenau,F,08:29
+M6430,U8,Osloer Straße,F,09:31
+M6431,U6,Kochstraße,F,09:49
+M6432,U6,Kochstraße,F,09:49
+M6433,U8,Paracelsus-Bad/Aroser Allee,F,12:44
+M6434,U6,Wedding,F,13:13
+M6435,U7,Möckernbrücke,F,13:37
+M6436,S7,Warschauer Straße,F,15:15
+M6437,S45,Tempelhof,F,15:54
+M6438,U8,Kottbusser Tor,F,16:02
+M6439,U6,Unter den Linden,F,16:51
+M6440,U6,Friedrichstraße,F,16:58
+M6441,U8,Schönleinstraße,F,18:18
+M6442,U8,Voltastraße,F,19:14
+M6443,S41,Schönhauser Allee,S,08:07
+M6444,U8,Kottbusser Tor,S,11:44
+M6445,U8,Gesundbrunnen,S,13:40
+M6446,U8,Gesundbrunnen,S,15:14
+M6447,U8,Moritzplatz,S,17:38
+M6448,U8,Gesundbrunnen,S,18:10
+M6449,U8,Hermannplatz,S,18:33
+M6450,S1,Botanischer Garten,U,08:29
+M6453,U7,Hermannplatz,U,11:11
+M6454,U8,Hermannstraße,U,11:15
+M6455,U12,Kottbusser Tor,U,11:57
+M6456,U8,Boddinstraße,U,12:46
+M6457,U6,Stadtmitte,U,15:59
+M6458,U8,Hermannplatz,U,17:08
+M6459,U12,Kurfürstenstraße,U,18:04
+M6460,U6,Kochstraße,M,14:02
+M6461,M13,Osloer Straße,M,14:28
+M6462,U7,Rudow,M,14:40
+M6463,U5,Weberwiese,M,14:43
+M6464,U5,Frankfurter Allee,M,17:16
+M6468,U7,Rathaus Neukölln,T,08:19
+M6469,U5,Frankfurter Allee,T,09:01
+M6471,U9,Zoologischer Garten,T,09:30
+M6472,U2,Spittelmarkt,T,09:35
+M6473,U9,Zoologischer Garten,T,09:36
+M6474,S41,Storkower Straße,T,09:55
+M6475,TRAM50,Osloer Straße,T,10:02
+M6476,U9,Birkenstraße,T,10:09
+M6477,U5,Weberwiese,T,13:24
+M6478,S1,Bergfelde,T,13:43
+M6481,U8,Heinrich-Heine-straße,T,16:42
+M6482,U7,Bismarckstraße,T,17:08
+M6484,U7,Südstern,T,18:14
+M6485,S41,Landsberger Allee,W,14:09
+M6486,S3,Bellevue,W,16:20
+M6490,S75,Springpfuhl,Z,11:46
+M6492,U9,Amrumer Straße,F,08:28
+M6493,S9,Berlin Hauptbahnhof,F,08:41
+M6495,U6,Leopoldplatz,F,09:51
+M6496,U5,Tierpark,F,10:22
+M6497,M8,Klinikum im Friedrichshain,F,12:12
+M6498,S42,Storkower Straße,F,12:19
+M6499,U5,Frankfurter Tor,F,13:04
+M6500,U9,Amrumer Straße,F,14:21
+M6501,U6,Friedrichstraße,F,15:38
+M6502,U7,Bismarckstraße,F,16:06
+M6504,U8,Hermannplatz,S,11:12
+M6505,U5,Unter den Linden,S,11:28
+M6506,U7,Kleistpark,S,11:56
+M6507,U5,Frankfurter Tor,S,12:21
+M6508,U7,Wilmersdorfer Straße,S,12:50
+M6509,U7,Wilmersdorfer Straße,S,12:54
+M6510,U6,Unter den Linden,S,14:45
+M6511,U7,Mierendorffplatz,S,16:28
+M6512,S3,Berlin Hauptbahnhof,U,05:23
+M6513,S1,Friedrichstraße,U,13:24
+M6514,U12,Kottbusser Tor,U,13:34
+M6515,U7,Johannisthaler Chaussee/Fritz-Erler-Allee,U,15:36
+M6516,U12,Zoologischer Garten,U,16:38
+M6517,U8,Osloer Straße,U,17:28
+M6518,U12,Ruhleben,U,17:30
+M6519,U8,Kottbusser Tor,U,18:59
+M6520,U9,Westhafen,M,08:38
+M6521,U8,Kottbusser Tor,M,08:47
+M6522,S42,Greifswalder Straße,M,09:04
+M6523,U8,Franz-Neumann-Platz,M,09:39
+M6524,U6,Leopoldplatz,M,09:55
+M6525,U6,Leopoldplatz,M,10:35
+M6526,S41,Greifswalder Straße,M,12:12
+M6527,U6,Kurt-Schumacher-Platz,M,12:19
+M6528,U6,Oranienburger Tor,M,13:01
+M6529,U8,Alexanderplatz,M,13:02
+M6530,U6,Naturkundemuseum,M,13:14
+M6531,M10,Friedrich-Ludwig-Jahn-Sportpark,M,13:44
+M6532,U8,Weinmeisterstraße,M,14:01
+M6535,U2,Potsdamer Platz,M,14:56
+M6536,U6,Naturkundemuseum,M,11:21
+M6538,U8,Alexanderplatz,M,12:49
+M6539,U8,Alexanderplatz,M,12:49
+M6541,U6,Leopoldplatz,M,13:12
+M6542,U6,Alt-Mariendorf,M,14:20
+M6543,U8,Moritzplatz,M,16:07
+M6545,U8,Schönleinstraße,M,18:40
+M6546,U8,Voltastraße,M,19:16
+M6547,S42,Prenzlauer Allee,T,06:29
+M6548,S7,Berlin Hauptbahnhof,T,08:08
+M6549,U8,Schönleinstraße,T,08:46
+M6550,M13,Drontheimer Straße,T,09:28
+M6552,U9,Osloer Straße,T,09:58
+M6553,U8,Kottbusser Tor,T,10:08
+M6554,U8,Gesundbrunnen,T,11:31
+M6555,S5,Alexanderplatz,T,12:10
+M6556,U8,Alexanderplatz,T,13:22
+M6557,S42,Hohenzollerndamm,T,13:22
+M6558,U6,Alt-Mariendorf,T,13:27
+M6559,U8,Osloer Straße,T,13:34
+M6560,U6,Kochstraße,T,13:38
+M6561,U8,Hermannstraße,T,13:38
+M6563,U7,Bismarckstraße,T,15:11
+M6565,U6,Unter den Linden,T,16:51
+M6566,U9,Spichernstraße,T,17:27
+M6567,U8,Jannowitzbrücke,T,17:31
+M6568,U8,Weinmeisterstraße,T,18:26
+M6569,S41,Storkower Straße,W,09:01
+M6570,S1,Zehlendorf,Z,10:26
+M6571,U6,Unter den Linden,F,10:00
+M6572,U6,Kurt-Schumacher-Platz,F,12:10
+M6573,U8,Hermannplatz,F,12:50
+M6575,U6,Friedrichstraße,F,14:28
+M6576,U8,Schönleinstraße,F,15:40
+M6578,U6,Schwartzkopffstraße,F,18:05
+M6581,U3,Kottbusser Tor,S,09:13
+M6582,U2,Senefelderplatz,S,12:14
+M6583,U6,Wedding,S,12:29
+M6584,U6,Schwartzkopffstraße,S,12:38
+M6587,U8,Moritzplatz,S,13:57
+M6588,U2,Alexanderplatz,S,14:39
+M6589,U8,Pankstraße,S,15:30
+M6590,U6,Unter den Linden,S,17:00
+M6591,U6,Friedrichstraße,S,17:14
+M6592,U6,Leopoldplatz,S,17:16
+M6593,U6,Wedding,S,17:47
+M6594,U8,Jannowitzbrücke,S,17:59
+M6595,S8,Prenzlauer Allee,U,09:58
+M6597,U8,Hermannstraße,U,13:43
+M6598,U6,Naturkundemuseum,U,17:29
+M6600,S42,Sonnenallee,M,07:18
+M6601,U7,Rathaus Spandau,M,08:01
+M6602,U8,Hermannplatz,M,08:49
+M6603,U9,Rathaus Steglitz,M,08:58
+M6605,U9,Leopoldplatz,M,12:23
