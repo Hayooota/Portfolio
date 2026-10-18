@@ -1,0 +1,38 @@
+#importing the libraries and data
+
+import pandas as panda
+import seaborn as sea
+import matplotlib.pyplot as libby
+from sklearn.linear_model import PoissonRegressor
+
+data = panda.read_csv('C:/Users/Hayoo/Downloads/CS156/Portfolio/1/data/training-data.csv')
+
+#preprocessing the data 
+
+data['time'] = panda.to_datetime(data['time'], format='%H:%M').dt.floor('30min').dt.strftime('%H:%M')
+reports = data.groupby(['line','station', 'day', 'time']).size().reset_index(name='inspections')
+reports['incident'] = (reports['line'] + ' ' +
+                    reports['station'] + ' ' +
+                    reports['day'] + ' ' +
+                    reports['time'].astype(str))
+
+
+'''
+sea.histplot(reports, x='incident', y='inspections')
+libby.xticks(rotation=75)
+libby.show()
+'''
+
+#predicting the number of inspections
+X = panda.get_dummies(reports[['line','station','day','time']])
+y = reports['inspections']
+
+model = PoissonRegressor()
+model.fit(X, y)
+
+#testing the model with new data
+new = panda.DataFrame([{"line": "U8", "station": "Hermannplatz",
+                     "day": "Monday", "time": "1530"}])
+prediction = model.predict(panda.get_dummies(new).reindex(columns=X.columns, fill_value=0))
+print('Predict:',prediction[0])
+print('Actual:', reports[(reports['line'] == 'U8') & (reports['station'] == 'Hermannplatz') & (reports['day'] == 'Monday') & (reports['time'] == '15:30')]['inspections'])

@@ -1,0 +1,15 @@
+#importing the libraries and data
+
+import pandas as panda
+import seaborn as sea
+import matplotlib.pyplot as libby
+
+data = panda.read_csv('C:/Users/Hayoo/Downloads/CS156/Portfolio/1/data/training-data.csv')
+
+
+#preprocessing the data 
+
+data['time'] = panda.to_datetime(data['time'], format='%H:%M').dt.floor('30min').dt.strftime('%H:%M')
+
+
+hist = data.groupby(['line','station', 'day', 'time']).size().reset_index(name='inspections')
